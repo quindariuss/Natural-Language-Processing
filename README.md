@@ -23,7 +23,9 @@ and develop programs for analyzing and extracting information from large online 
 ### Course Materials
 
 - Speech and Language Processing, 2nd Edition, by Jurafsky and Martin, Prentice Hall
-- ISBN 9780131873216
+  - ISBN 9780131873216
+- Introduction to Natural Language processing
+  -ISBN 0-7637-3230-3
 
 ### Goals
 
