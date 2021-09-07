@@ -1,0 +1,9 @@
+{
+  "clips" : [
+    {
+      "content" : "\\textbf{$SELECTED_TEXT}",
+      "name" : "Bold",
+      "trigger" : "bt"
+    }
+  ]
+}

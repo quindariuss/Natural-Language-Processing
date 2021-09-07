@@ -1,0 +1,34 @@
+
+\textbf{Steps of Normalization:}
+\begin{itemize}
+	\item [\textbf{Tokenization}] Turning text into words.
+	\subitem \textbf{Example:} My name is quin and I live in Georgia.
+
+	This contains nine tokens or words.
+	\item [\textbf{Lemmatization}] Reducing a collection of words to their root meaning
+	\subitem \textbf{Example:} My name is quin and I am living in Georgia. I lived in Georgia for a while.
+
+	Living and lived will be reduced to live.
+	\item [\textbf{Stemming}] Close to Lemmatization, with Stemming you're taking away the suffixes.
+	\subitem \textbf{Example:} My name is quin and I am living in Georgia. I lived in Georgia for a while.
+
+	Living and lived will be reduced to liv.
+	\item [\textbf{Sentence Segmentation}] Breaking up the text with the delimiters of . , ! or ?
+	\subitem \textbf{Example:} My name is quin and I am living in Georgia. I lived in Georgia for a while. I like living here.
+		\begin{itemize}
+			\item [\textbf{Sentence One}] My name is quin and I am living in Georgia.
+			\item [\textbf{Sentence Two}] I lived in Georgia for a while.
+			\item [\textbf{Sentence Three}] I like living here.
+		\end{itemize}
+	\item [\textbf{Spelling Correction}] Checking for spelling mistakes.
+	\subitem \textbf{Example:} My name is quin afd I live in Georgia.
+
+	The word afd should be and.
+	\item [\textbf{Non-Standerd Words}] Phone numbers, emails, dates, etc.
+	\subitem \textbf{Example:} My name is quin and my phone number is  704-470-7036, and email is qlyleswo@student.kennesaw.edu.
+		\begin{itemize}
+			\item [\textbf{Phone Number}] 704-470-7036
+			\item [\textbf{Email}] qlyleswo@student.kennesaw.edu
+	\end{itemize}
+
+\end{itemize}
