@@ -1,0 +1,14 @@
+{
+  "actions" : {
+    "build" : {
+      "enabled" : true,
+      "script" : "pdflatex homework.tex"
+    },
+    "run" : {
+      "enabled" : true,
+      "script" : "open homework.pdf"
+    }
+  },
+  "buildBeforeRunning" : true,
+  "identifier" : "AA0D196D-39C2-4774-A475-939A978BFB21"
+}
