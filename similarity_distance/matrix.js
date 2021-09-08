@@ -15,16 +15,28 @@ for(var index = 1; index < sentence_one.length; index++)
 {
 	for(var subindex = 1; subindex < sentence_two.length; subindex++)
 	{
-		Matrix[index][subindex] = 0
+	let sentence_one_partial, sentence_two_partial
+		for(subsubindex = 0; subsubindex < index; subsubindex++)
+		{
+			sentence_one_partial += sentence_one[subsubindex + 1]
+		}
+		for(subsubsubindex = 0; subsubsubindex < subindex; subsubsubindex++)
+		{
+			sentence_two_partial += sentence_two[subsubsubindex + 1]
+		}
+		console.log({sentence_one_partial,sentence_two_partial})
+		Matrix[index][subindex] =  edit_distance(sentence_one_partial, sentence_two_partial)
 	}
 }
 for(var index = 0; index < sentence_one.length; index++)
 {
 	for(var subindex = 0; subindex < sentence_two.length; subindex++)
 	{
-		process.stdout.write(" " + Matrix[index][subindex])
+		process.stdout.write("&  " + Matrix[index][subindex] + "  ")
 	}
-	process.stdout.write("\n")
+	process.stdout.write("\\")
+	process.stdout.write("\\")
+	process.stdout.write(" \n")
 }
 
 function edit_distance(array_one, array_two)
@@ -40,4 +52,4 @@ function edit_distance(array_one, array_two)
 	return count;
 }
 
-console.log(edit_distance(sentence_one,sentence_two))
+console.log(edit_distance(sentence_one,""))
