@@ -1,3 +1,28 @@
 \begin{quote}
 You are given a training set of 30 numbers that consists of 21 zeros and 1 each of the other digits 1-9. Now we see the following test set: 0 0 0 0 0 3 0 0 0 0. What is the unigram perplexity?
 \end{quote}
+\begin{table}[h!]
+\centering
+\begin{tabular}{|| c c c c c c c c c c |}
+\hline
+ 0 & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9\\
+ \hline
+ \hline
+ 21 & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1\\
+ \hline
+\end{tabular}
+\caption{Normalizing by Unigrams}
+
+\begin{tabular}{|| c c c c c c c c c c |}
+\hline
+ 0 & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9\\
+ \hline
+ \hline
+ .7 & .03 & .03 & .03 & .03 & .03 & .03 & .03 & .03 & .03\\
+ \hline
+\end{tabular}
+\caption{Computing Probabilities}
+\end{table}
+\begin{equation}
+Unigram\; Perplexity = .7 * (.03 * .03 * .03 * .03 * .03 * .03 * .03 * .03 * .03) = 2.1
+\end{equation}

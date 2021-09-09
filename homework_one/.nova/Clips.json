@@ -4,6 +4,10 @@
       "content" : "\\textbf{$SELECTED_TEXT}",
       "name" : "Bold",
       "trigger" : "bt"
+    },
+    {
+      "content" : "\\textcolor{orange}{$SELECTED_TEXT}",
+      "name" : ""
     }
   ]
 }

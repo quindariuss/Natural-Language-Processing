@@ -1,6 +1,76 @@
 \textbf {Text:}
 \begin{quote}
-“The day was grey and bitter cold, and the dogs would not take the scent. The big black bitch had taken one sniff at the bear tracks, backed oﬀ, and skulked back to the pack with her tail between her legs.”
+\textcolor{red}{The} day was grey \textcolor{blue}{and} bitter cold\textcolor{yellow}{,} \textcolor{blue}{and} \textcolor{red}{the} dogs would not take \textcolor{red}{the} scent\textcolor{orange}{.} \textcolor{red}{The} big black bitch had taken one sniff at \textcolor{red}{the} bear tracks\textcolor{yellow}{,} backed oﬀ\textcolor{yellow}{,} \textcolor{blue}{and} skulked back to \textcolor{red}{the} pack with \textcolor{green}{her} tail between \textcolor{green}{her} legs\textcolor{orange}{.}
 \end{quote}
 \subsection{Unigram Model}
+\begin{itemize}
+	\item [\textcolor{red}{the}] 6/30
+	\item [\textcolor{blue}{and}] 3/30
+	\item [\textcolor{green}{her}] 2/30
+	\item [\textcolor{orange}{.}] 2/30
+	\item [\textcolor{yellow}{,}] 2/30
+\end{itemize}
 \subsection{Bigram Model}
+\begin{tabular}{||c ||c c c c|}
+\hline
+The	& day & was & grey & and\\
+\hline
+\hline
+day & 0 & 1 & 0 & 0\\
+was & 1 & 0 & 1 & 0\\
+grey & 0 & 1 & 0 & 1 \\
+and & 0 & 0 & 1& 0\\
+\hline
+\end{tabular}
+
+\begin{center}
+Choose to do a smaller table and show the iterations because it wouldn't fit all in one page. but its just 0's and 1's for the whole thing there is nothing with 2 to my knowledge for the \textbf{raw bigram count}.
+\end{center}
+\begin{multicols}{2}
+\begin{itemize}
+	\item the day
+	\item day was
+	\item was grey
+	\item grey and
+	\item and bitter
+	\item bitter cold,
+	\item cold, and
+	\item and the
+	\item the dogs
+	\item dogs would
+	\item would not
+	\item not take
+	\item take the
+	\item the scent.
+	\item scent. the
+	\item the big
+	\item big black
+\end{itemize}
+\columnbreak
+\begin{itemize}
+	\item black bitch
+	\item bitch had
+	\item had taken
+	\item taken one
+	\item one sniﬀ
+	\item sniﬀ at
+	\item at the
+	\item the bear
+	\item bear tracks,
+	\item tracks, backed
+	\item backed oﬀ,
+	\item oﬀ, and
+	\item and skulked
+	\item skulked back
+	\item back to
+	\item to the
+	\item the pack
+	\item pack with
+	\item with her
+	\item her tail
+	\item tail between
+	\item between her
+	\item her legs.
+\end{itemize}
+
+\end{multicols}
