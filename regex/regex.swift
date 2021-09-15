@@ -5,5 +5,6 @@ let regex = try! NSRegularExpression(pattern: "[a-z]at")
 
 //print(regex.firstMatch(in: test_string, options: [], range: range) ?? "nothing found")
 regex.firstMatch(in: test_string, options: [], range: range)
+print("howdy")
 
     
