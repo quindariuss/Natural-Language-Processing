@@ -1,0 +1,100 @@
+\begin{quote}
+\textbf{Text:} 					\\
+It is going to rain today. 			\\
+Today I am not going outside.			\\
+NLP is an intersting topic. 			\\
+NLP includes ML, DL topics too. 		\\
+I am going to complete NLP homework, today. 	\\
+\end{quote}
+\subsection{Tokenization}
+\begin{quote}
+\textbf{Text:} 					\\
+\color{red}It is going to rain today\textcolor{black}{.} 		\\
+	Today I am not going outside\textcolor{black}{.}			\\
+	NLP is an intersting topic\textcolor{black}{.} 			\\
+	NLP includes ML\textcolor{black}{,} DL topics too\textcolor{black}{.} 		\\
+	I am going to complete NLP homework\textcolor{black}{,} today\textcolor{black}{.} 	\\
+\end{quote}
+\textbf{Tokens}: 31
+\subsection{Vocabulary}
+\begin{quote}
+\textbf{Text:} 					\\
+	It \textcolor{red}{is} \textcolor{pink}{going} \textcolor{blue}{to} rain \textcolor{green}{today}. 			\\
+	\textcolor{green}{Today} \textcolor{purple}{I} \textcolor{teal}{am} not \textcolor{pink}{going} outside.			\\
+	\textcolor{orange}{NLP} \textcolor{red}{is} an intersting \textcolor{yellow}{topic}. 			\\
+	\textcolor{orange}{NLP} includes ML, DL \textcolor{yellow}{topics} \textcolor{blue}{too}. 		\\
+	\textcolor{purple}{I} \textcolor{teal}{am} \textcolor{pink}{going} \textcolor{blue}{to} complete \textcolor{orange}{NLP} homework, \textcolor{green}{today}. 	\\
+\end{quote}
+\begin{multicols}{3}
+\begin{itemize}
+	\item [\textcolor{red}{is}] : 2  
+	\item [\textcolor{pink}{going}] : 3  
+	\item [\textcolor{blue}{to}] : 3  
+	\item [\textcolor{green}{today}] : 3  
+	\item [\textcolor{purple}{I}] : 2  
+	\item [\textcolor{teal}{am}] : 2  
+		\columnbreak
+\end{itemize}
+\begin{itemize}
+	\item [\textcolor{orange}{NLP}] : 3  
+	\item [\textcolor{yellow}{topic}] : 2  
+	\item [It] : 1
+	\item [rain] : 1
+	\item [not] : 1
+	\item [outside] : 1
+\end{itemize}
+		\columnbreak
+\begin{itemize}
+	\item [an] : 1
+	\item [intresting] : 1
+	\item [includes] : 1
+	\item [ML] : 1
+	\item [DL] : 1
+	\item [complete] : 1
+	\item [homework] : 1
+\end{itemize}
+\end{multicols}
+
+\subsection{Term Frequency}
+{\small
+\begin{tabular}{|| c ||c c c c c c c c c |} 
+	\hline
+Document 	 & is &	going &	to &	today &	I &	am &	NLP &	topic &	It 		\\
+\hline
+\hline
+	1 &	1 &	0 &	1 &	1 &	0 &	0 &	0 &	0 &	1	\\
+2\\
+3\\
+4\\
+5\\
+\hline
+\end{tabular}
+
+\begin{tabular}{|| c|| c c c c c c |}
+\hline
+Document &rain &not &outside &an &interesting &	includes  \\
+\hline
+\hline
+	1 &	1 & 0 &	0 &	0 &	0 &	0 	\\
+2\\
+3\\
+4\\
+5\\
+\hline
+\end{tabular}
+
+\begin{tabular}{|| c|| c c c c |}
+\hline
+Document &ML&DL &complete &homework\\
+\hline
+\hline
+	0 &	0 &	0 &	0 &	0 	\\
+1\\
+2\\
+3\\
+4\\
+5\\
+\hline
+\end{tabular}
+}
+\subsection{Inverse Document Frequency}
