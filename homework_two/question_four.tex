@@ -56,45 +56,210 @@ I am going to complete NLP homework, today. 	\\
 \end{multicols}
 
 \subsection{Term Frequency}
+\begin{center}
 {\small
-\begin{tabular}{|| c ||c c c c c c c c c |} 
+\begin{tabular}{|| c ||c c c c c c c c c ||} 
 	\hline
 Document 	 & is &	going &	to &	today &	I &	am &	NLP &	topic &	It 		\\
 \hline
 \hline
-	1 &	1 &	0 &	1 &	1 &	0 &	0 &	0 &	0 &	1	\\
-2\\
-3\\
-4\\
-5\\
+	1 &	1 &	1 &	1 &	1 &	0 &	0 &	0 &	0 &	1	\\
+	2& 0& 1& 0& 1& 1& 1& 0& 0& 0\\
+	3& 1& 0& 0& 0& 0& 0& 1& 1& 0\\
+	4& 0& 0& 1& 0& 0& 0& 1& 1& 0\\
+	5& 0& 1& 1& 1& 1& 1& 1& 0& 0\\
 \hline
 \end{tabular}
 
-\begin{tabular}{|| c|| c c c c c c |}
+\begin{tabular}{|| c|| c c c c c c ||}
 \hline
 Document &rain &not &outside &an &interesting &	includes  \\
 \hline
 \hline
 	1 &	1 & 0 &	0 &	0 &	0 &	0 	\\
-2\\
-3\\
-4\\
-5\\
+	2& 0& 1& 1& 0& 0& 0\\
+	3& 0& 0& 0& 1& 1& 0\\
+	4& 0& 0& 0& 0& 0& 1\\
+	5& 0& 0& 0& 0& 0& 0\\
 \hline
 \end{tabular}
 
-\begin{tabular}{|| c|| c c c c |}
+\begin{tabular}{|| c|| c c c c ||}
 \hline
 Document &ML&DL &complete &homework\\
 \hline
 \hline
-	0 &	0 &	0 &	0 &	0 	\\
-1\\
-2\\
-3\\
-4\\
-5\\
+1	 &	0 &	0 &	0 &	0 	\\
+	2& 0& 0& 0& 0 \\
+	3& 0& 0& 0& 0 \\
+	4& 1& 1& 0& 0\\
+	5& 0& 0& 1& 1\\
 \hline
 \end{tabular}
 }
+\end{center}
 \subsection{Inverse Document Frequency}
+\begin{multicols}{3}
+\begin{itemize}
+	\item [\textcolor{red}{is}] : $\log \frac{2}{5}$  
+	\item [\textcolor{pink}{going}] : $\log \frac{3}{5}$  
+	\item [\textcolor{blue}{to}] : $\log \frac{3}{5}$  
+	\item [\textcolor{green}{today}] : $\log \frac{3}{5}$  
+	\item [\textcolor{purple}{I}] : $\log \frac{2}{5}$  
+	\item [\textcolor{teal}{am}] : $\log \frac{2}{5}$  
+		\columnbreak
+\end{itemize}
+\begin{itemize}
+	\item [\textcolor{orange}{NLP}] : $\log \frac{3}{5}$  
+	\item [\textcolor{yellow}{topic}] : $\log \frac{2}{5}$  
+	\item [It] : $\log \frac{1}{5}$
+	\item [rain] : $\log \frac{1}{5}$
+	\item [not] : $\log \frac{1}{5}$
+	\item [outside] : $\log \frac{1}{5}$
+\end{itemize}
+		\columnbreak
+\begin{itemize}
+	\item [an] : $\log \frac{1}{5}$
+	\item [intresting] : $\log \frac{1}{5}$
+	\item [includes] : $\log \frac{1}{5}$
+	\item [ML] : $\log \frac{1}{5}$
+	\item [DL] : $\log \frac{1}{5}$
+	\item [complete] : $\log \frac{1}{5}$
+	\item [homework] : $\log \frac{1}{5}$
+\end{itemize}
+\end{multicols}
+
+\subsection{Co-Occurrence Matrix $\pm3$}
+I have chosen to do it with bounds on the sentences but still use the entire vocabulary for the matrix. Probably could do just the vocabulary in the sentence in the future. 
+\begin{center}
+\begin{tabular}{||c ||c c c c c c||}
+\hline
+	&	It & is & going & to & rain & today \\
+\hline
+is&1&0&1&1&1&0\\
+going&1&1&0&1&1&1\\
+to&1&1&1&0&1&1\\
+	today&0&0&1&1&1&0\\
+I&0&0&0&0&0&0\\
+am&0&0&0&0&0&0\\
+NLP&0&0&0&0&0&0\\
+topic&0&0&0&0&0&0\\
+It&0&0&0&0&0&0\\
+rain&0&1&1&1&0&0\\
+not&0&0&0&0&0&0\\
+outside&0&0&0&0&0&0\\
+an&0&0&0&0&0&0\\
+interesting&0&0&0&0&0&0\\
+includes&0&0&0&0&0&0\\
+ML&0&0&0&0&0&0\\
+DL&0&0&0&0&0&0\\
+complete&0&0&0&0&0&0\\
+homework&0&0&0&0&0&0\\
+\hline
+\end{tabular}
+
+\begin{tabular}{||c|| c c c c c c||}
+\hline
+	&Today& I& am& not& going& outside\\
+\hline
+	is&0&0&0&0&0&0\\
+going&0&1&1&1&0&1\\
+to&0&0&0&0&0&0\\
+	today&0&0&0&0&0&0\\
+I&1&0&1&1&1&0\\
+am&1&1&0&1&1&1\\
+NLP&0&0&0&0&0&0\\
+topic&0&0&0&0&0&0\\
+It&0&0&0&0&0&0\\
+rain&0&0&0&0&0&0\\
+not&1&1&1&0&1&1\\
+outside&0&0&1&1&1&0\\
+an&0&0&0&0&0&0\\
+	interesting&0&0&0&0&0&0\\
+includes&0&0&0&0&0&0\\
+ML&0&0&0&0&0&0\\
+DL&0&0&0&0&0&0\\
+complete&0&0&0&0&0&0\\
+homework&0&0&0&0&0&0\\
+\hline
+\end{tabular}
+
+\begin{tabular}{||c|| c c c c c||}
+\hline
+	&NLP& is& an& interesting& topic\\
+\hline
+	is&1&0&1&1&1\\
+going&0&0&0&0&0\\
+to&0&0&0&0&0\\
+	today&0&0&0&0&0\\
+I&0&0&0&0&0\\
+am&0&0&0&0&0\\
+NLP&0&0&0&0&0\\
+topic&0&1&1&1&0\\
+It&0&0&0&0&0\\
+rain&0&0&0&0&0\\
+not&0&0&0&0&0\\
+outside&0&0&0&0&0\\
+an&1&1&0&1&1\\
+interesting&1&1&1&0&1\\
+includes&0&0&0&0&0\\
+ML&0&0&0&0&0\\
+DL&0&0&0&0&0\\
+complete&0&0&0&0&0\\
+homework&0&0&0&0&0\\
+\hline
+\end{tabular}
+
+\begin{tabular}{||c|| c c c c c c||}
+\hline
+&NLP& includes& ML& DL& topics& to\\
+\hline
+is&0&0&0&0&0&0\\
+going&0&0&0&0&0&0\\
+to&0&0&0&0&0&0\\
+today&0&0&0&0&0&0\\
+I&0&0&0&0&0&0\\
+am&0&0&0&0&0&0\\
+NLP&0&0&0&0&0&0\\
+topic&0&0&0&0&0&0\\
+It&0&0&0&0&0&0\\
+rain&0&0&0&0&0&0\\
+not&0&0&0&0&0&0\\
+outside&0&0&0&0&0&0\\
+an&0&0&0&0&0&0\\
+interesting&0&0&0&0&0&0\\
+includes&1&0&1&1&1&0\\
+ML&1&1&0&1&1&1\\
+DL&1&1&1&0&1&1\\
+complete&0&0&0&0&0&0\\
+homework&0&0&0&0&0&0\\
+\hline
+\end{tabular}
+
+\begin{tabular}{||c|| c c c c c c c c||}
+\hline
+&I & am	 & going & to & complete & NLP & homework & today\\
+\hline
+is&0&0&0&0&0&0&0&0 \\
+going&1&1&0&1&1&1&0&0\\
+to&1&1&1&0&1&1&1&0\\
+today&0&0&0&0&1&1&1&0\\
+I&0&0&0&0&0&0&0&0\\
+am&1&0&1&1&1&0&0&0\\
+NLP&0&0&1&1&1&0&1&1\\
+topic&0&0&0&0&0&0&0&0\\
+It&0&0&0&0&0&0&0&0\\
+rain&0&0&0&0&0&0&0&0\\
+not&0&0&0&0&0&0&0&0\\
+outside&0&0&0&0&0&0&0&0\\
+an&0&0&0&0&0&0&0&0\\
+interesting&0&0&0&0&0&0&0&0\\
+includes&0&0&0&0&0&0&0&0\\
+ML&0&0&0&0&0&0&0&0\\
+DL&0&0&0&0&0&0&0&0\\
+complete&0&1&1&1&0&1&1&1\\
+homework&0&0&0&1&1&1&0&1\\
+\hline
+\end{tabular}
+\end{center}
+\subsection{Term Frequency-Inverse Document Frequency}

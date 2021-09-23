@@ -1,0 +1,18 @@
+The gradient descent algorithm works to calculate the miniumum loss function of a given neural network in our context. You find the loss function, compare it to what you value should've been graph it out. If the tangent line is in the negative you shift the function by the \textbf{learning rate}. 
+
+In the context of the equation: 
+
+\begin{equation}
+w^{t+1} = W^t - \frac{d}{dw} f(x,w)
+\end{equation}
+
+The $w^{t+1}$ is the weight for the next iterative step in the gradient descent algorithm.
+
+The $w^t$ is the current weight of the loss function given to the gradient descent algorithm. 
+
+The $\frac{d}{dw} f(x,w)$ is the slope of the loss function relative to the local minimum. 
+
+\subsubsection{Mini-Batch}
+You are taking \textbf{very small} steps along the parabola to get the local minimum.
+\subsubsection{Scholastic}
+You are taking \textbf{every} step along the parabola to get to the local minimum. 
