@@ -6,7 +6,7 @@ Professor: Md Abdullah Al Hafiz Khan
 
 Office:Norton R2-307
 
-Office Hours: Wednesday 1:30pm - 2:15pm
+Office Hours: Friday 3:00pm - 4:00pm
 
 ---
 
