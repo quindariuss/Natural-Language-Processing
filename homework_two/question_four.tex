@@ -59,15 +59,15 @@ I am going to complete NLP homework, today. 	\\
 \begin{center}
 {\small
 \begin{tabular}{|| c ||c c c c c c c c c ||} 
-	\hline
-Document 	 & is &	going &	to &	today &	I &	am &	NLP &	topic &	It 		\\
+\hline
+Document&is&going&to&today&I&am&NLP&topic&It\\
 \hline
 \hline
-	1 &	1 &	1 &	1 &	1 &	0 &	0 &	0 &	0 &	1	\\
-	2& 0& 1& 0& 1& 1& 1& 0& 0& 0\\
-	3& 1& 0& 0& 0& 0& 0& 1& 1& 0\\
-	4& 0& 0& 1& 0& 0& 0& 1& 1& 0\\
-	5& 0& 1& 1& 1& 1& 1& 1& 0& 0\\
+1&1&1&1&1&0&0&0&0&1\\
+2&0&1&0&1&1&1&0&0&0\\
+3&1&0&0&0&0&0&1&1&0\\
+4&0&0&1&0&0&0&1&1&0\\
+5&0&1&1&1&1&1&1&0&0\\
 \hline
 \end{tabular}
 
@@ -76,11 +76,11 @@ Document 	 & is &	going &	to &	today &	I &	am &	NLP &	topic &	It 		\\
 Document &rain &not &outside &an &interesting &	includes  \\
 \hline
 \hline
-	1 &	1 & 0 &	0 &	0 &	0 &	0 	\\
-	2& 0& 1& 1& 0& 0& 0\\
-	3& 0& 0& 0& 1& 1& 0\\
-	4& 0& 0& 0& 0& 0& 1\\
-	5& 0& 0& 0& 0& 0& 0\\
+1&1&0&0&0&0&0\\
+2&0&1&1&0&0&0\\
+3&0&0&0&1&1&0\\
+4&0&0&0&0&0&1\\
+5&0&0&0&0&0&0\\
 \hline
 \end{tabular}
 
@@ -89,11 +89,11 @@ Document &rain &not &outside &an &interesting &	includes  \\
 Document &ML&DL &complete &homework\\
 \hline
 \hline
-1	 &	0 &	0 &	0 &	0 	\\
-	2& 0& 0& 0& 0 \\
-	3& 0& 0& 0& 0 \\
-	4& 1& 1& 0& 0\\
-	5& 0& 0& 1& 1\\
+1&0&0&0&0\\
+2&0&0&0&0\\
+3&0&0&0&0\\
+4&1&1&0&0\\
+5&0&0&1&1\\
 \hline
 \end{tabular}
 }
@@ -134,79 +134,79 @@ I have chosen to do it with bounds on the sentences but still use the entire voc
 \begin{center}
 \begin{tabular}{||c ||c c c c c c||}
 \hline
-	&	It & is & going & to & rain & today \\
+&It&is&going&to&rain&today\\
 \hline
-is&1&0&1&1&1&0\\
-going&1&1&0&1&1&1\\
-to&1&1&1&0&1&1\\
-	today&0&0&1&1&1&0\\
-I&0&0&0&0&0&0\\
-am&0&0&0&0&0&0\\
-NLP&0&0&0&0&0&0\\
-topic&0&0&0&0&0&0\\
-It&0&0&0&0&0&0\\
-rain&0&1&1&1&0&0\\
-not&0&0&0&0&0&0\\
-outside&0&0&0&0&0&0\\
-an&0&0&0&0&0&0\\
-interesting&0&0&0&0&0&0\\
-includes&0&0&0&0&0&0\\
-ML&0&0&0&0&0&0\\
-DL&0&0&0&0&0&0\\
-complete&0&0&0&0&0&0\\
-homework&0&0&0&0&0&0\\
+is		&1&0&1&1&1&0\\
+going		&1&1&0&1&1&1\\
+to		&1&1&1&0&1&1\\
+today		&0&0&1&1&1&0\\
+I		&0&0&0&0&0&0\\
+am		&0&0&0&0&0&0\\
+NLP		&0&0&0&0&0&0\\
+topic		&0&0&0&0&0&0\\
+It		&0&0&0&0&0&0\\
+rain		&0&1&1&1&0&0\\
+not		&0&0&0&0&0&0\\
+outside		&0&0&0&0&0&0\\
+an		&0&0&0&0&0&0\\
+interesting	&0&0&0&0&0&0\\
+includes	&0&0&0&0&0&0\\
+ML		&0&0&0&0&0&0\\
+DL		&0&0&0&0&0&0\\
+complete	&0&0&0&0&0&0\\
+homework	&0&0&0&0&0&0\\
 \hline
 \end{tabular}
 
 \begin{tabular}{||c|| c c c c c c||}
 \hline
-	&Today& I& am& not& going& outside\\
+&Today&I&am&not&going&outside\\
 \hline
-	is&0&0&0&0&0&0\\
-going&0&1&1&1&0&1\\
-to&0&0&0&0&0&0\\
-	today&0&0&0&0&0&0\\
-I&1&0&1&1&1&0\\
-am&1&1&0&1&1&1\\
-NLP&0&0&0&0&0&0\\
-topic&0&0&0&0&0&0\\
-It&0&0&0&0&0&0\\
-rain&0&0&0&0&0&0\\
-not&1&1&1&0&1&1\\
-outside&0&0&1&1&1&0\\
-an&0&0&0&0&0&0\\
-	interesting&0&0&0&0&0&0\\
-includes&0&0&0&0&0&0\\
-ML&0&0&0&0&0&0\\
-DL&0&0&0&0&0&0\\
-complete&0&0&0&0&0&0\\
-homework&0&0&0&0&0&0\\
+is		&0&0&0&0&0&0\\
+going		&0&1&1&1&0&1\\
+to		&0&0&0&0&0&0\\
+today		&0&0&0&0&0&0\\
+I		&1&0&1&1&1&0\\
+am		&1&1&0&1&1&1\\
+NLP		&0&0&0&0&0&0\\
+topic		&0&0&0&0&0&0\\
+It		&0&0&0&0&0&0\\
+rain		&0&0&0&0&0&0\\
+not		&1&1&1&0&1&1\\
+outside		&0&0&1&1&1&0\\
+an		&0&0&0&0&0&0\\
+interesting	&0&0&0&0&0&0\\
+includes	&0&0&0&0&0&0\\
+ML		&0&0&0&0&0&0\\
+DL		&0&0&0&0&0&0\\
+complete	&0&0&0&0&0&0\\
+homework	&0&0&0&0&0&0\\
 \hline
 \end{tabular}
 
 \begin{tabular}{||c|| c c c c c||}
 \hline
-	&NLP& is& an& interesting& topic\\
+&NLP&is&an&interesting&topic\\
 \hline
-	is&1&0&1&1&1\\
-going&0&0&0&0&0\\
-to&0&0&0&0&0\\
-	today&0&0&0&0&0\\
-I&0&0&0&0&0\\
-am&0&0&0&0&0\\
-NLP&0&0&0&0&0\\
-topic&0&1&1&1&0\\
-It&0&0&0&0&0\\
-rain&0&0&0&0&0\\
-not&0&0&0&0&0\\
-outside&0&0&0&0&0\\
-an&1&1&0&1&1\\
-interesting&1&1&1&0&1\\
-includes&0&0&0&0&0\\
-ML&0&0&0&0&0\\
-DL&0&0&0&0&0\\
-complete&0&0&0&0&0\\
-homework&0&0&0&0&0\\
+is		&1&0&1&1&1\\
+going		&0&0&0&0&0\\
+to		&0&0&0&0&0\\
+today		&0&0&0&0&0\\
+I		&0&0&0&0&0\\
+am		&0&0&0&0&0\\
+NLP		&0&0&0&0&0\\
+topic		&0&1&1&1&0\\
+It		&0&0&0&0&0\\
+rain		&0&0&0&0&0\\
+not		&0&0&0&0&0\\
+outside		&0&0&0&0&0\\
+an		&1&1&0&1&1\\
+interesting	&1&1&1&0&1\\
+includes	&0&0&0&0&0\\
+ML		&0&0&0&0&0\\
+DL		&0&0&0&0&0\\
+complete	&0&0&0&0&0\\
+homework	&0&0&0&0&0\\
 \hline
 \end{tabular}
 
@@ -214,25 +214,25 @@ homework&0&0&0&0&0\\
 \hline
 &NLP& includes& ML& DL& topics& to\\
 \hline
-is&0&0&0&0&0&0\\
-going&0&0&0&0&0&0\\
-to&0&0&0&0&0&0\\
-today&0&0&0&0&0&0\\
-I&0&0&0&0&0&0\\
-am&0&0&0&0&0&0\\
-NLP&0&0&0&0&0&0\\
-topic&0&0&0&0&0&0\\
-It&0&0&0&0&0&0\\
-rain&0&0&0&0&0&0\\
-not&0&0&0&0&0&0\\
-outside&0&0&0&0&0&0\\
-an&0&0&0&0&0&0\\
-interesting&0&0&0&0&0&0\\
-includes&1&0&1&1&1&0\\
-ML&1&1&0&1&1&1\\
-DL&1&1&1&0&1&1\\
-complete&0&0&0&0&0&0\\
-homework&0&0&0&0&0&0\\
+is		&0&0&0&0&0&0\\
+going		&0&0&0&0&0&0\\
+to		&0&0&0&0&0&0\\
+today		&0&0&0&0&0&0\\
+I		&0&0&0&0&0&0\\
+am		&0&0&0&0&0&0\\
+NLP		&0&0&0&0&0&0\\
+topic		&0&0&0&0&0&0\\
+It		&0&0&0&0&0&0\\
+rain		&0&0&0&0&0&0\\
+not		&0&0&0&0&0&0\\
+outside		&0&0&0&0&0&0\\
+an		&0&0&0&0&0&0\\
+ML		&1&1&0&1&1&1\\
+DL		&1&1&1&0&1&1\\
+interesting	&0&0&0&0&0&0\\
+includes	&1&0&1&1&1&0\\
+complete	&0&0&0&0&0&0\\
+homework	&0&0&0&0&0&0\\
 \hline
 \end{tabular}
 
@@ -240,25 +240,25 @@ homework&0&0&0&0&0&0\\
 \hline
 &I & am	 & going & to & complete & NLP & homework & today\\
 \hline
-is&0&0&0&0&0&0&0&0 \\
-going&1&1&0&1&1&1&0&0\\
-to&1&1&1&0&1&1&1&0\\
-today&0&0&0&0&1&1&1&0\\
-I&0&0&0&0&0&0&0&0\\
-am&1&0&1&1&1&0&0&0\\
-NLP&0&0&1&1&1&0&1&1\\
-topic&0&0&0&0&0&0&0&0\\
-It&0&0&0&0&0&0&0&0\\
-rain&0&0&0&0&0&0&0&0\\
-not&0&0&0&0&0&0&0&0\\
-outside&0&0&0&0&0&0&0&0\\
-an&0&0&0&0&0&0&0&0\\
-interesting&0&0&0&0&0&0&0&0\\
-includes&0&0&0&0&0&0&0&0\\
-ML&0&0&0&0&0&0&0&0\\
-DL&0&0&0&0&0&0&0&0\\
-complete&0&1&1&1&0&1&1&1\\
-homework&0&0&0&1&1&1&0&1\\
+is		&0&0&0&0&0&0&0&0 \\
+going		&1&1&0&1&1&1&0&0\\
+to		&1&1&1&0&1&1&1&0\\
+today		&0&0&0&0&1&1&1&0\\
+I		&0&0&0&0&0&0&0&0\\
+am		&1&0&1&1&1&0&0&0\\
+NLP		&0&0&1&1&1&0&1&1\\
+topic		&0&0&0&0&0&0&0&0\\
+It		&0&0&0&0&0&0&0&0\\
+ML		&0&0&0&0&0&0&0&0\\
+DL		&0&0&0&0&0&0&0&0\\
+rain		&0&0&0&0&0&0&0&0\\
+not		&0&0&0&0&0&0&0&0\\
+outside		&0&0&0&0&0&0&0&0\\
+an		&0&0&0&0&0&0&0&0\\
+interesting	&0&0&0&0&0&0&0&0\\
+includes	&0&0&0&0&0&0&0&0\\
+complete	&0&1&1&1&0&1&1&1\\
+homework	&0&0&0&1&1&1&0&1\\
 \hline
 \end{tabular}
 \end{center}
