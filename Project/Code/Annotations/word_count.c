@@ -2,20 +2,11 @@
 
 int main() 
 {
-	int state;
-	double word_count; 
-	char character;
-	while ((character = getchar()) != EOF)
+	double word_count = 0; 
+	char word[50];
+	while (scanf("%s", word) != EOF)
 	{
-		if (character == ' ' || character == '\n' || character == '\t')
-		{
-			state = 1;
-		}
-		else if (state == 1)	
-		{
-			state = 0; 
-			word_count++;
-		}
+		word_count++;
 	}
 	printf("The word count is: %f",word_count);
 }	
