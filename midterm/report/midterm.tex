@@ -1,0 +1,213 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\DeclareRobustCommand\dash{%
+  \unskip\nobreak\thinspace\textemdash\allowbreak\thinspace\ignorespaces}
+\title{Midterm Exam: Natural Language Processing}
+\author{Quin'darius Lyles-Woods}
+\begin{document}
+\maketitle
+
+\section{Regular Expression: \([^\wedge A-Z|abc]+\) }
+\begin{itemize}
+	\item NLP is an interseting topics
+	\item Regular expressions is easy.
+	\item i like nlp
+	\item Negation operation is fun
+\end{itemize}
+\begin{itemize}
+	\item [\(^\wedge A-Z\)] Does not match any upper case letters.
+	\item [\(|\)] or operator.
+	\item [abc] with the negation characters to not match.
+	\item [+] allows match with the last character to up to infinity occurrences.
+\end{itemize}
+The only sentence that matches fully is 
+\begin{quote}
+	i like nlp
+\end{quote}
+All the others ones come up short but they do have matching characters.
+\section{Regular Expression: \(ksu.*edu\)}
+\begin{itemize}
+	\item KSU is a great college
+	\item Ksu is an Edu
+	\item Ksu\&Edu
+	\item ksu@edu
+\end{itemize}
+\begin{itemize}
+	\item 	[ksu] matches any of these list of characters.
+	\item 	[.] can be any character.
+	\item 	[*] can be any number of the last character before it.
+\end{itemize}
+The only sentence that matches fully is: 
+\begin{quote}
+	ksu@edu
+\end{quote}
+\section{Classifiers}
+\subsection{Na\"ive Bayes}
+The Na\"ive Bayes classifier is a very fast classifier and doesn't require a lot of storage requirements and is one of the simplest classifiers.
+\subsection{Logistic Regression}
+Logistic Regression is another classifier but of the discriminative class. It works by learning the classes by using the features given in the training set and then it assigns a weight to those features. While it is not as simple as the Na\"ive Bayes it makes up for it in use cases, it has seen use in important applications in medicine and finance. 
+\subsection{Softmax Classifier} 
+The softmax classifier is similar to logistic regression to allows the generalization to multiple dimensions or classes. 
+And the softmax function gives us a normalized probability giving it a more intuitive understanding by squashing the output values of the vector between zero and one. 
+\section{Activation Functions}
+\subsection{\(\sigma\)}
+This activation function is S shaped and is defined by the function \(y= \frac{1}{1 + e^{-z}}\). 
+It is non-linear, hence the S shape and as the output from zero to 1, it is differentiable allowing us to compute derivities upon it. 
+This functions' learning rate is slow probably because of the saturation of values near the 1 creating and 0 creating the vanishing gradient problem. 
+\subsection{\(\tanh\)}
+Compared to the sigmoid function this function has the range of -1 to 1 instead of 0 to 1.
+Just like the sigmoid function this function produces an differentiable S curve about the function. 
+Of course it is non-linear given the S shape.
+\subsection{\(Relu\)}
+The Relu or the Reticular Activation Function is a linear function where both the function and the derivative are both monotonic, meaning, varying in such a way the derivatives of the function never increases or decreases.
+\section{Tagging and Entity Recognition} 
+\subsection{Sequence Labeling}
+Sequence Labeling is assigning labels to all the inputs in the 'sequence' or more appropriate, the text corpus.
+The Following sections are simply subsets of sequence labeling (POS, Name Entity Recognition). 
+Algorithms that use this are HHM, CRF, and RNN's. 
+\subsection{Parts of Speech Tagging}
+Parts of speech tagging is where you take all the words and assign them parts of speech in your languages grammar construct. 
+Examples of this are: 
+\begin{itemize}
+	\item Noun
+	\item Verb
+	\item Conjunction
+	\item Participle 
+	\item etc...
+\end{itemize}
+\subsection{Parts of Speech Baseline Model}
+If I were to build my parts of speech baseline model I would have all the basic grammatically structures.
+When I run into conflicts within this baseline I will choose the part of speech that is most frequent within my training set. 
+Then use that as a baseline compare classifier algorithms against that baseline.
+\begin{itemize}
+	\item Noun
+	\item Verb
+	\item Pronoun
+	\item Adverb
+	\item Conjunction
+	\item Participle 
+	\item Article
+	\item Conjunction
+	\item Interjection
+\end{itemize}
+Also I would like to have a place for plural nouns and the different types of verbs to allow my language models know what word is important and what is not. I am aware that most Parts of Speech Tagging can get to around 1000 different data points and I think that is too large because after a certain point we can hard code all the values and we must allow algorithmic decision making take over and allow use to get the many multiple of edge cases that we wouldn't be able to get ourselves. 
+\subsection{POS Tagging vs. Name Entity Recognition}
+Parts of Speech Tagging is where you try to tag all the parts of speech that you have noted in your Parts of Speech Model, the Name Entity Recognition is where you try to recognize names so it doesn't confuse your algorithm and groups them all under one umbrella. So the Name Entity Recognition is very narrowly focus and the Parts of Speech Tagging is the superset of the two.
+\section{Metrics}
+\begin{itemize}
+	\item[\textbf{Class A}]
+		\begin{itemize}
+			\item 1 True Positive
+			\item 1 False Positive
+			\item 1 False Negative 
+		\end{itemize}
+	\item[\textbf{Class B}]
+		\begin{itemize}
+			\item 10 True Positive
+			\item 90 False Positive
+			\item 90 False Negative 
+		\end{itemize}
+	\item[\textbf{Class C}]
+		\begin{itemize}
+			\item 1 True Positive
+			\item 1 False Positive
+			\item 1 False Negative 
+		\end{itemize}
+	\item[\textbf{Class D}]
+		\begin{itemize}
+			\item 1 True Positive
+			\item 1 False Positive
+			\item 1 False Negative 
+		\end{itemize}
+\end{itemize}
+\begin{equation}
+	Precision_A = Precision_C = Precision_D = 0.5
+\end{equation}
+\begin{equation}
+	Precision_B = 0.1
+\end{equation}
+\subsection{Micro Average}
+With the Micro Averaging approach you will want to compute the performance of each of the classes then take the average for all of them. 
+\begin{equation}
+	Micro\;Average=\frac{1+10+1+1}{2+100+2+2}=0.123
+\end{equation}
+\subsection{Macro Average} 
+With Macro Averaging you do an additional step, you collect all the decisions in the class then equate the contingency table and get the precision after that with the appropriate formula.
+\begin{equation}
+	Macro\;Average=\frac{0.5+0.1+0.5+0.5}{4}=0.4
+\end{equation}
+\subsection{Recall}
+The metric is the fraction of relevant marks that were retrieved. It counts the number of positive predictions made out of the positive examples.
+This is a performance metric. 
+\begin{equation}
+	Recall=\frac{1+10+1+1}{1+10+1+1+ 1 + 90 + 1 +1}=0.140
+\end{equation}
+\subsection{F Measure}
+Gives you one score that takes into account the precision and the recall metric.
+\begin{equation}
+	F\;Measure=\frac{2 * 0.4 * 0.140}{0.4 + 0.140}=0.62
+\end{equation}
+\section{Word Embeddings} 
+\subsection{What is it?}
+Word Embedding is a way of converting words in vector representations.
+\subsection{What is word2vec?}
+The way word2vec works is by iterating over every single word of the whole given body of text and using the vector representations to predict the next words.
+\subsection{Neural Language Model and Training Word Embeddings}
+A language model predicts upcoming words from the context of the previous word and this context is giving as a vector. 
+So the language model can train the word embedding for the words given. Working together to build a more powerful prediction engine. 
+\section{Neural Network: \[a = 2x - y\] \[b = az\] \[L = a + 2b\]
+}
+\subsection{Computational Graphs}
+\subsubsection{\(a = 2x - y\)}
+\subsubsection{\(b = az\)}
+\subsubsection{\(L = a + 2b\)}
+\subsection{Forward Pass Values}
+\subsubsection{\(a = 2x - y\)}
+\subsubsection{\(b = az\)}
+\subsubsection{\(L = a + 2b\)}
+\subsection{Back Propagation Circuit Diagram with Gradient Values}
+\subsubsection{\(a = 2x - y\)}
+\subsubsection{\(b = az\)}
+\subsubsection{\(L = a + 2b\)}
+\section{Language Models} 
+\textbf{Training Set}
+\begin{quote}
+	b a b a d a f f 	\\
+	a c h a d f f a h 	\\ 
+	f b a a h c f h d d f 	\\
+	a b f f c c d f h 	\\
+	h h a a c a c d d d 	\\
+\end{quote}
+\textbf{Test Set}
+\begin{quote}
+	h d c d f \\
+	d b b c c a \\
+\end{quote}
+\subsection{Unigram Language Model}
+\subsection{Bigram Language Model}
+\subsection{Joint Probability} 
+\subsection{Perplexity}
+\subsubsection{Unigram}
+\subsubsection{Bigram}
+\section{Matrices}
+\begin{center}
+	\textbf{Training Sentences}
+\end{center}
+\begin{equation}
+	\underbrace{delta}_{A}\;\underbrace{gamma}_{B}\; \underbrace{sigma}_{C}\; \underbrace{summantion}_{A}\;
+\end{equation}
+\begin{equation}
+	\underbrace{alpha}_{A}\;\underbrace{sigma}_{C}\; \underbrace{beta}_{D}\; \underbrace{derivative}_{A}\;
+\end{equation}
+\begin{equation}
+	\underbrace{derivitive}_{A}\;\underbrace{gamma}_{B}\; \underbrace{delta}_{B}\; \underbrace{beta}_{D}\;
+\end{equation}
+\begin{equation}
+	\underbrace{sigma}_{C}\;\underbrace{summation}_{B}\; \underbrace{beta}_{C}\; \underbrace{alpha}_{D}\;
+\end{equation}
+\begin{equation}
+	\underbrace{alpha}_{A}\;\underbrace{beta}_{B}\; \underbrace{sigma}_{C}\; \underbrace{derivative}_{A}\;
+\end{equation}
+\subsection{Transition Probability Matrix}
+\subsection{Emission Probability Matrix}
+\end{document}
