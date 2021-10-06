@@ -184,11 +184,61 @@ So the language model can train the word embedding for the words given. Working 
 	d b b c c a \\
 \end{quote}
 \subsection{Unigram Language Model}
+\begin{center}
+\begin{tabular}{c c c c c c} 
+\hline\hline
+a&b&c&d&f&h \\
+\hline\hline
+\\
+	\(\frac{12}{52}\)&\(\frac{4}{52}\)&\(\frac{6}{52}\)&\(\frac{8}{52}\)&\(\frac{10}{52}\)&\(\frac{7}{52}\) \\ [2ex]
+\hline
+\end{tabular}
+\end{center}
 \subsection{Bigram Language Model}
-\subsection{Joint Probability} 
+\begin{center}
+\begin{tabular}{c|| c c c c c c} 
+\hline\hline
+	&	a&		b&			c&			d&			f&			h \\
+\hline\hline
+\\
+a	&\(\frac{1}{12}\)	&\(\frac{1}{12}\)	&\(\frac{2}{12}\)	&\(\frac{1}{12}\)	&\(\frac{1}{12}\)	&\(\frac{1}{12}\) \\ [2ex]
+b	&\(\frac{1}{4}\)	&\(\frac{2}{4}\)	&\(\frac{2}{4}\)	&\(\frac{2}{4}\)	&\(\frac{1}{4}\)	&\(\frac{1}{4}\) \\ [2ex]
+c	&\(\frac{2}{6}\)	&\(\frac{2}{6}\)	&\(\frac{2}{6}\)	&\(\frac{3}{6}\)	&\(\frac{1}{6}\)	&\(\frac{1}{6}\) \\ [2ex]
+d	&\(\frac{1}{8}\)	&\(\frac{2}{8}\)	&\(\frac{3}{8}\)	&\(\frac{1}{8}\)	&\(\frac{2}{8}\)	&\(\frac{2}{8}\) \\ [2ex]
+f	&\(\frac{1}{10}\)	&\(\frac{1}{10}\)	&\(\frac{1}{10}\)	&\(\frac{2}{10}\)	&\(\frac{1}{10}\)	&\(\frac{1}{10}\) \\ [2ex]
+h	&\(\frac{1}{7}\)	&\(\frac{1}{7}\)	&\(\frac{1}{7}\)	&\(\frac{2}{7}\)	&\(\frac{1}{7}\)	&\(\frac{1}{7}\) \\ [2ex]
+\hline
+\end{tabular}
+\end{center}
+
+\subsection{Joint Probability: Char Unigram} 
+Test Sentence One: 
+\begin{equation}
+	Joint\;Probability = \frac{12}{52}*\frac{4}{52}*\frac{6}{52}*\frac{8}{52}*\frac{7}{52} = \frac{16,128}{380,204,032} \label{Test Case One}
+\end{equation}
+Test Sentence Two: 
+\begin{equation}
+	Joint\;Probability = \frac{8}{52}*\frac{4}{52}*\frac{4}{52}*\frac{6}{52}*\frac{6}{52}*\frac{12}{52} = \frac{55,296}{19,770,609,664} \label{Test Case One}
+\end{equation}
 \subsection{Perplexity}
 \subsubsection{Unigram}
+Test Sentence One: 
+\begin{equation}
+	Perplexity =(\frac{12}{52}*\frac{4}{52}*\frac{6}{52}*\frac{8}{52}*\frac{7}{52})^{-\frac{1}{5}} \label{Test Case One}
+\end{equation}
+Test Sentence Two: 
+\begin{equation}
+	Perplexity =(\frac{8}{52}*\frac{4}{52}*\frac{4}{52}*\frac{6}{52}*\frac{6}{52}*\frac{12}{52})^{-\frac{1}{6}} \label{Test Case One}
+\end{equation}
 \subsubsection{Bigram}
+Test Sentence One: 
+\begin{equation}
+	Perplexity =(\frac{2}{8} * \frac{3}{8} * \frac{3}{8} * \frac{2}{10})^{-\frac{1}{5}}
+\end{equation}
+Test Sentence Two: 
+\begin{equation}
+	Perplexity =(\frac{2}{8} * \frac{2}{4} * \frac{2}{6} * \frac{2}{6} * \frac{2}{12})^{-\frac{1}{6}}
+\end{equation}
 \section{Matrices}
 \begin{center}
 	\textbf{Training Sentences}
