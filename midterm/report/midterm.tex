@@ -1,4 +1,7 @@
 \documentclass{article}
+\usepackage{amsmath}
+\usepackage{tikz}
+\usepackage{neuralnetwork}
 \usepackage[utf8]{inputenc}
 \DeclareRobustCommand\dash{%
   \unskip\nobreak\thinspace\textemdash\allowbreak\thinspace\ignorespaces}
@@ -6,7 +9,6 @@
 \author{Quin'darius Lyles-Woods}
 \begin{document}
 \maketitle
-
 \section{Regular Expression: \([^\wedge A-Z|abc]+\) }
 \begin{itemize}
 	\item NLP is an interseting topics
@@ -157,18 +159,48 @@ A language model predicts upcoming words from the context of the previous word a
 So the language model can train the word embedding for the words given. Working together to build a more powerful prediction engine. 
 \section{Neural Network: \[a = 2x - y\] \[b = az\] \[L = a + 2b\]
 }
-\subsection{Computational Graphs}
-\subsubsection{\(a = 2x - y\)}
-\subsubsection{\(b = az\)}
-\subsubsection{\(L = a + 2b\)}
-\subsection{Forward Pass Values}
-\subsubsection{\(a = 2x - y\)}
-\subsubsection{\(b = az\)}
-\subsubsection{\(L = a + 2b\)}
+\subsection{Computational Graphs with Forward Pass}
+\begin{verbatim}
+                                 +--------+
+                                 |        |
+                                 |        v
++-----------+     +-----------+  |  +-----------+
+|  a = -2   |---->|   2x-y    |--+->|2(1)-(4)=-2|--------+
++-----------+     +-----------+  |  +-----------+        v
++-----------+     +-----------+  |        |        +-----------+
+|  b = -6   |---->|    az     |--+--------+        | -2(-3)=-6 |-+
++-----------+     +-----------+  |        |        +-----------+ |
++-----------+     +-----------+  |        |              ^       |  +---------------+
+|  L = -14  |---->|   a+2b    |--+        |              |       +->|(-2)+2(-6)=-14 |
++-----------+     +-----------+           +--------------+          +---------------+
+\end{verbatim}
 \subsection{Back Propagation Circuit Diagram with Gradient Values}
-\subsubsection{\(a = 2x - y\)}
-\subsubsection{\(b = az\)}
-\subsubsection{\(L = a + 2b\)}
+Loss Function
+\begin{equation}
+	Loss(a,b,L) = L(a + 2b) = Lb
+\end{equation}
+\begin{equation}
+	\frac{ \partial L}{\partial L} = b
+\end{equation}
+\small
+\begin{verbatim}
+                                       +--------+
+                                       |        |
+                                       |        v
++-----------+           +-----------+  |  +-----------+
+|  a = -2   |--(-14)--->|   2x-y    |--+->|2(1)-(4)=-2|--------+
++-----------+           +-----------+  |  +-----------+        v
++-----------+           +-----------+  |        |        +-----------+
+|  b = -6   |-( -28 )-->|    az     |--+--------+        | -2(-3)=-6 |--(-14)
++-----------+           +-----------+  |        |        +-----------+      |
++-----------+           +-----------+  |        |              ^            |      +---------------+
+|  L = -14  |--( -6 ) ->|   a+2b    |--+        |              |            +----->|(-2)+2(-6)=-14 |
++-----------+           +-----------+           +---( 1 )------+                   +---------------+
+      ^                                                                                    |
+      |                                                                                    |
+      +-----------------------------------------(-6)-------------------------------( 1 ) --+
+\end{verbatim}
+\normalsize
 \section{Language Models} 
 \textbf{Training Set}
 \begin{quote}
@@ -194,6 +226,9 @@ a&b&c&d&f&h \\
 \hline
 \end{tabular}
 \end{center}
+\begin{equation}
+	Unigram\;Language\;Model = Probablitiy(w_1w_2...w_n) = \underset{i}{\prod} Probablity(w_i)
+\end{equation}
 \subsection{Bigram Language Model}
 \begin{center}
 \begin{tabular}{c|| c c c c c c} 
@@ -210,6 +245,9 @@ h	&\(\frac{1}{7}\)	&\(\frac{1}{7}\)	&\(\frac{1}{7}\)	&\(\frac{2}{7}\)	&\(\frac{1
 \hline
 \end{tabular}
 \end{center}
+\begin{equation}
+	Bigram\;Language\;Model = Probablitiy(w_i|w_1w_2...w_n) = \underset{i}{\prod} Probablity(w_i|w_{i-1})
+\end{equation}
 
 \subsection{Joint Probability: Char Unigram} 
 Test Sentence One: 
@@ -224,33 +262,34 @@ Test Sentence Two:
 \subsubsection{Unigram}
 Test Sentence One: 
 \begin{equation}
-	Perplexity =(\frac{12}{52}*\frac{4}{52}*\frac{6}{52}*\frac{8}{52}*\frac{7}{52})^{-\frac{1}{5}} \label{Test Case One}
+	Perplexity =(\frac{12}{52}*\frac{4}{52}*\frac{6}{52}*\frac{8}{52}*\frac{7}{52})^{-\frac{1}{5}} = 7.490 \label{Test Case One}
 \end{equation}
 Test Sentence Two: 
 \begin{equation}
-	Perplexity =(\frac{8}{52}*\frac{4}{52}*\frac{4}{52}*\frac{6}{52}*\frac{6}{52}*\frac{12}{52})^{-\frac{1}{6}} \label{Test Case One}
+	Perplexity =(\frac{8}{52}*\frac{4}{52}*\frac{4}{52}*\frac{6}{52}*\frac{6}{52}*\frac{12}{52})^{-\frac{1}{6}} = 8.424 \label{Test Case One}
 \end{equation}
 \subsubsection{Bigram}
 Test Sentence One: 
 \begin{equation}
-	Perplexity =(\frac{2}{8} * \frac{3}{8} * \frac{3}{8} * \frac{2}{10})^{-\frac{1}{5}}
+	Perplexity =(\frac{2}{8} * \frac{3}{8} * \frac{3}{8} * \frac{2}{10})^{-\frac{1}{5}} = 2.695
 \end{equation}
 Test Sentence Two: 
 \begin{equation}
-	Perplexity =(\frac{2}{8} * \frac{2}{4} * \frac{2}{6} * \frac{2}{6} * \frac{2}{12})^{-\frac{1}{6}}
+	Perplexity =(\frac{2}{8} * \frac{2}{4} * \frac{2}{6} * \frac{2}{6} * \frac{2}{12})^{-\frac{1}{6}} = 2.749
 \end{equation}
+The Bigram Perplexity is considerable less than the Unigram, concluding that the Bigram is a better model with the higher probability.
 \section{Matrices}
 \begin{center}
 	\textbf{Training Sentences}
 \end{center}
 \begin{equation}
-	\underbrace{delta}_{A}\;\underbrace{gamma}_{B}\; \underbrace{sigma}_{C}\; \underbrace{summantion}_{A}\;
+	\underbrace{delta}_{A}\;\underbrace{gamma}_{B}\; \underbrace{sigma}_{C}\; \underbrace{summation}_{A}\;
 \end{equation}
 \begin{equation}
 	\underbrace{alpha}_{A}\;\underbrace{sigma}_{C}\; \underbrace{beta}_{D}\; \underbrace{derivative}_{A}\;
 \end{equation}
 \begin{equation}
-	\underbrace{derivitive}_{A}\;\underbrace{gamma}_{B}\; \underbrace{delta}_{B}\; \underbrace{beta}_{D}\;
+	\underbrace{derivative}_{A}\;\underbrace{gamma}_{B}\; \underbrace{delta}_{B}\; \underbrace{beta}_{D}\;
 \end{equation}
 \begin{equation}
 	\underbrace{sigma}_{C}\;\underbrace{summation}_{B}\; \underbrace{beta}_{C}\; \underbrace{alpha}_{D}\;
@@ -258,6 +297,124 @@ Test Sentence Two:
 \begin{equation}
 	\underbrace{alpha}_{A}\;\underbrace{beta}_{B}\; \underbrace{sigma}_{C}\; \underbrace{derivative}_{A}\;
 \end{equation}
-\subsection{Transition Probability Matrix}
-\subsection{Emission Probability Matrix}
+\begin{center}
+\begin{tabular}{l|| c c c c}
+\hline\hline
+& 	A&	B&	C&	D	\\
+\hline\hline
+delta&		1&	1&	0&	0\\
+gamma&		0&	2&	0&	0\\
+alpha&		2& 	0&	0&	1\\
+beta&		0&	1&	1&	2\\
+sigma&		0&	0&	4&	0\\
+derivative& 	3&	0&	0&	0\\
+summation&	1&	1&	0&	0\\
+		&7	&5	&5	&3\\
+\hline
+\end{tabular}
+\end{center}
+\begin{center}
+\begin{tabular}{l|| c c c c}
+\hline\hline
+& 	A&	B&	C&	D	\\
+\hline\hline
+\\
+delta&		\(\frac{1}{7}\)&	\(\frac{1}{5}\)&	\(\frac{0}{5}\)&	\(\frac{0}{3}\)\\[1ex]
+gamma&		\(\frac{0}{7}\)&	\(\frac{2}{5}\)&	\(\frac{0}{5}\)&	\(\frac{0}{3}\)\\[1ex]
+alpha&		\(\frac{2}{7}\)& 	\(\frac{0}{5}\)&	\(\frac{0}{5}\)&	\(\frac{1}{3}\)\\[1ex]
+beta&		\(\frac{0}{7}\)&	\(\frac{1}{5}\)&	\(\frac{1}{5}\)&	\(\frac{2}{3}\)\\[1ex]
+sigma&		\(\frac{0}{7}\)&	\(\frac{0}{5}\)&	\(\frac{4}{5}\)&	\(\frac{0}{3}\)\\[1ex]
+derivative& 	\(\frac{3}{7}\)&	\(\frac{0}{5}\)&	\(\frac{0}{5}\)&	\(\frac{0}{3}\)\\[1ex]
+summation&	\(\frac{1}{7}\)&	\(\frac{1}{5}\)&	\(\frac{0}{5}\)&	\(\frac{0}{3}\)\\[1ex]
+		&7	&5	&5	&3\\
+\hline
+\end{tabular}
+\end{center}
+\pagebreak
+\tiny
+{
+\begin{verbatim}
+                     +---------+               +---------+              +---------+                +------------+
+                     |  Alpha  |               |  Beta   |              |  Sigma  |                | Derivative |
+                     +---------+               +---------+              +---------+                +------------+
+
+
+                     +----------+             +----------+              +----------+                +----------+
+                     |    A     |             |    A     |              |    A     |                |    A     |
+                +--->|   2/7    |------+----->|   0/7    |------+------>|   0/7    |-------+------->|   3/7    |--+
+                |    +----------+      |      +----------+      |       +----------+       |        +----------+  |
++-----------+   |    +----------+      |      +----------+      |       +----------+       |        +----------+  |   +-----------+
+|           |   |    |    B     |      |      |    B     |      |       |    B     |       |        |    B     |  |   |           |
+|    <S>    |---+--->|   0/5    |------+----->|   1/5    |------+------>|   0/5    |-------+------->|   0/5    |--+-->|    <E>    |
+|           |   |    +----------+      |      +----------+      |       +----------+       |        +----------+  |   |           |
++-----------+   |    +----------+      |      +----------+      |       +----------+       |        +----------+  |   +-----------+
+                |    |    C     |      |      |    C     |      |       |    C     |       |        |    C     |  |
+                +--->|   0/5    |------+----->|   1/5    |------+------>|   4/5    |-------+------->|   0/5    |--+
+                |    +----------+      |      +----------+      |       +----------+       |        +----------+  |
+                |    +----------+      |      +----------+      |       +----------+       |        +----------+  |
+                |    |    D     |      |      |    D     |      |       |    D     |       |        |    D     |  |
+                +--->|   1/3    |------+----->|   2/3    |------+------>|   0/3    |-------+------->|   0/3    |--+
+                     +----------+             +----------+              +----------+                +----------+
+\end{verbatim}
+Optimization 
+\begin{verbatim}
+                     +---------+               +---------+              +---------+                +------------+
+                     |  Alpha  |               |  Beta   |              |  Sigma  |                | Derivative |
+                     +---------+               +---------+              +---------+                +------------+
+
+                       +----------+
+                       |    A     |
+                 +---->|   2/7    |-----+     +----------+
+                 |     +----------+     |     |    B     |
+                 |                      +---->|   1/5    |------+       +----------+
++-----------+    |                      |     +----------+      |       |    C     |
+|           |    |                      |     +----------+      +------>|   4/5    |-------+        +----------+      +-----------+
+|    <S>    |----+                      |     |    C     |      |       +----------+       |        |    A     |      |           |
+|           |    |                      +---->|   1/5    |------+       +----------+       +------->|   3/7    |----->|    <E>    |
++-----------+    |                      |     +----------+      |       |    D     |       |        +----------+      |           |
+                 |                      |     +----------+      +------>|   0/3    |-------+                          +-----------+
+                 |                      |     |    D     |      |       +----------+
+                 |     +----------+     +---->|   2/3    |------+
+                 |     |    D     |     |     +----------+
+                 +---->|   1/3    |-----+
+                       +----------+
+\end{verbatim}
+}
+\subsection{Probability Matrices}
+\subsubsection{Transition}
+\small
+\begin{center}
+\begin{tabular}{l|| c c c c}
+\hline\hline
+& 	A&	B&	C&	D	\\
+\hline\hline
+\\
+<S>&		\(\frac{0}{7}\)&	\(\frac{1}{5}\)&	\(\frac{1}{5}\)&	\(\frac{2}{3}\)\\[1ex]
+A&		\(\frac{1}{7}\)&	\(\frac{1}{5}\)&	\(\frac{0}{5}\)&	\(\frac{0}{3}\)\\[1ex]
+B&		\(\frac{0}{7}\)&	\(\frac{2}{5}\)&	\(\frac{0}{5}\)&	\(\frac{0}{3}\)\\[1ex]
+C&		\(\frac{2}{7}\)& 	\(\frac{0}{5}\)&	\(\frac{0}{5}\)&	\(\frac{1}{3}\)\\[1ex]
+D&		\(\frac{0}{7}\)&	\(\frac{1}{5}\)&	\(\frac{1}{5}\)&	\(\frac{2}{3}\)\\[1ex]
+\hline
+\end{tabular}
+\end{center}
+\subsubsection{Emission}
+
+\small
+\begin{center}
+\begin{tabular}{l|| c c c c}
+\hline\hline
+& 	A&	B&	C&	D	\\
+\hline\hline
+\\
+delta&		\(\frac{1}{7}\)&	\(\frac{1}{5}\)&	\(\frac{0}{5}\)&	\(\frac{0}{3}\)\\[1ex]
+gamma&		\(\frac{0}{7}\)&	\(\frac{2}{5}\)&	\(\frac{0}{5}\)&	\(\frac{0}{3}\)\\[1ex]
+alpha&		\(\frac{2}{7}\)& 	\(\frac{0}{5}\)&	\(\frac{0}{5}\)&	\(\frac{1}{3}\)\\[1ex]
+beta&		\(\frac{0}{7}\)&	\(\frac{1}{5}\)&	\(\frac{1}{5}\)&	\(\frac{2}{3}\)\\[1ex]
+sigma&		\(\frac{0}{7}\)&	\(\frac{0}{5}\)&	\(\frac{4}{5}\)&	\(\frac{0}{3}\)\\[1ex]
+derivative& 	\(\frac{3}{7}\)&	\(\frac{0}{5}\)&	\(\frac{0}{5}\)&	\(\frac{0}{3}\)\\[1ex]
+summation&	\(\frac{1}{7}\)&	\(\frac{1}{5}\)&	\(\frac{0}{5}\)&	\(\frac{0}{3}\)\\[1ex]
+		&7	&5	&5	&3\\
+\hline
+\end{tabular}
+\end{center}
 \end{document}
