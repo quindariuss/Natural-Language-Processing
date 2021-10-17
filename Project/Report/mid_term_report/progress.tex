@@ -1,0 +1,6 @@
+The goal of this research is to build a classification model to determine where bodies of text originate from using a CNN \footnote{Convolutional Neural Network} deep learning model to take advantage of non-linearity. 
+The progress that we have had so far is multifold. 
+For the data, we have been able to write a script that allows us to get 40-60 articles at a time and strip them of only their stories and outputting that data into a folder properly labeled. 
+So the current article count is around 120 and the token count is around $124,998$ and will grow at the pace new articles are produced. 
+We have a pipeline for creating a vocabulary and frequency count for the current data set. With this pipeline that directly helps us Vectorize our data and then use that information for our sequential model.
+Our loss values with this model are ~.58 and the Accuracy that the model is achieving now with this limited data is .72. 
