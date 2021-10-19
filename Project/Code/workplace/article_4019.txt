@@ -1,0 +1,36 @@
+In a coordinated announcement, the White House and governments in Europe and Asia identified China's Ministry of State Security, the sprawling and secretive civilian intelligence agency, with using "criminal contract hackers" to conduct a range of destabilizing activities around the world for personal profit, including the Microsoft hack.
+The administration also said China was behind a specific ransomware attack against a US target that a senior administration official said involved a "large ransom request" â and added that Chinese ransom demands have been in the "millions of dollars."
+The public disclosure of the Chinese efforts amounts to a new front in an
+ ongoing offensive by the Biden administration
+ to bat away cyberthreats that have exposed serious vulnerabilities in major American sectors, including energy and food production. 
+Still, while American officials have raised concerns with the Chinese about the behavior, the US is stopping short of applying new punishment on Beijing as part of Monday's announcement. The official said the US was "not ruling out further actions to hold (China) accountable." Biden said Monday he isn't applying sanctions on China for its role in newly revealed cyber intrusions as his team continues to determine the extent of Beijing's actions.
+"They're still determining exactly what happened. The investigation is not finished," Biden said after an event on the economy when questioned why he wasn't applying further punishment on 
+China
+ for its actions.
+The extent of Chinese involvement in hiring criminal networks to invade and extort money around the world came as a surprise to the White House, officials said. 
+"What we found really surprising and new here was the use of criminal contract hackers to conduct this unsanctioned cyber operation and really the criminal activity for financial gain. That was really eye-opening and surprising for us," a senior administration official said on Sunday ahead of the announcement.
+On Monday, the Justice Department announced that four Chinese nationals and residents were indicted by a federal grand jury in San Diego for "a campaign to hack into the computer systems of dozens of victim companies universities and government entities" in the US and abroad between 2011 and 2018. 
+Three of the individuals were Hainan State Security Department officers who were "coordinating, facilitating and managing computer hackers and linguists" for front companies to conduct hacking for the "benefit of China and its state-owned and sponsored instrumentalities," the department said. Another individual was a computer hacker who allegedly hacked into computer systems used by foreign governments, companies and universities, and created malware and supervised other hackers.
+Biden said he would receive a more fulsome briefing on the situation on Tuesday morning. And he spelled out differences between China's behavior and that emanating from Russia, which his administration has sought to punish through sanctions.
+"My understanding is that the Chinese government, not unlike the Russian government, is not doing this themselves, but are protecting those who are doing it, and maybe even accommodating them being able to do it. That may be the difference," he said.
+Close links to government than Russia-based attacks
+Until now, much of the White House's public efforts 
+have focused on Russia
+, including levying new sanctions and warning of more should Moscow fail to rein in criminal networks conducting ransomware attacks from inside the country.
+Unlike many of the attacks emanating from Russia, however, the attempts from China to extort money or demand ransoms have closer links to the government, according to administration officials. 
+Those activities include "cyber-enabled extortion, crypto-jacking and theft from victims around the world for financial gain," an official said, along with ransomware attacks against companies demanding millions of dollars.
+The official said at least one American company had been targeted for a "large" ransom by hackers working in association with the Chinese intelligence service but declined to provide further details.
+The attack "really raised concerns for us with regard to the behavior and, frankly, with regard to the fact that individuals related to the MSS conducted it," the official said.
+The governments also formally attributed with "high confidence" the 
+massive hack in March of Microsoft's Exchange email service
+ on criminal hackers supported by the Chinese intelligence service. 
+Microsoft publicly linked the hack of its Exchange email service to China in March. It said four vulnerabilities in its software allowed hackers to access servers for the popular email and calendar service, and both the company and the White House advised users to immediately update their on-premises systems with software fixes.
+The official said the US government wanted to assure it had high confidence in its assessment before formally attributing the hack to China. But officials also wanted to combine the announcement with details of China's other activities, along with information like malware signatures and other indicators of compromise that would be useful for other companies at risk of being breached.
+On Monday, the United States will also publish more than 50 "tactics and procedures" Chinese state-sponsored cyber hackers utilize when targeting US networks in the hopes of making vulnerable entities more prepared. The list will also include "technical mitigations to confront this threat," the official said.
+In addition to the United States, the other countries included in the Five Eyes intelligence sharing collective â the United Kingdom, Australia, New Zealand and Canada â will make similar announcements accusing China of engaging in "irresponsible and destabilizing behavior in cyberspace."
+Japan and the European Union will also join the announcement, as will NATO, which is the first time the defense bloc will publicly condemn China's cyber activities.
+Biden has prioritized gathering support among allies to confront China, and during his first foreign trip last month convinced leaders at the G7 and NATO to
+ more aggressively spell out their concerns
+ regarding Beijing's behavior in their concluding documents. NATO's final communiquÃ© mentioned China for the first time.
+Monday's announcement is an extension of those efforts, officials said, singling out cyber-threats as another area of concern for the global community alongside human rights and maritime aggressions.
+The official said China's cyber-activity "poses a major threat to the US and allies' economic and national security" and framed it as "inconsistent with (China's) stated objectives of being seen as a responsible leader in the world."

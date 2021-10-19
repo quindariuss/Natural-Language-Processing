@@ -1,0 +1,16 @@
+Among the targets were companies that work with the US, European Union and Israeli governments to make satellite systems, drones technology and "military-grade radars," Microsoft said.
+It's just the latest effort by an alleged Iranian hacking group to access sensitive data held in the maritime sector. Another Iranian group last year stole information on the military unit of a US Navy member, 
+according to IBM
+.
+"Gaining access to commercial satellite imagery and proprietary shipping plans and logs could help Iran compensate for its developing satellite program," Microsoft researchers wrote in a blog post on Monday.
+Microsoft did not attribute the activity directly to an Iranian government organization, but instead said the hacking "supports the national interests" of Iran based on a number of factors, including hacking techniques associated with another Iranian group.
+John Lambert, head of Microsoft Threat Intelligence Center, told CNN that Microsoft discovered the hacking activity when responding to a breach of a US financial services firm this summer. 
+The goal of releasing information on the intrusions now is to help organizations prepare for follow-on breach attempts, Lambert said. The hackers, he added, could look to use stolen login information to break into the internal networks of targeted organizations. 
+The suspected Iranian operatives tried guessing passwords at roughly 250 organizations, including unnamed US and Israeli defense firms and organizations operating in Persian Gulf ports, according to Microsoft. The hackers managed to breach "less than 20" of those organizations, the tech firm said. 
+The maritime sector has long been of interest to Iran's intelligence services and the country sits on the Strait of Hormuz, through which about a fifth of the world's oil shipments pass. 
+"Given Iran's past cyber and military attacks against shipping and maritime targets, Microsoft believes this activity increases the risk to companies in these sectors," the Washington State-based technology provider said.
+While this activity appears concentrated on Persian Gulf ports, US maritime authorities have also had to raise their network defenses in response to threats. 
+Unidentified hackers in August breached a computer network at the Port of Houston, US officials have said. Early detection of the incident meant the intruders weren't in a position to disrupt shipping operations, according to a Coast Guard analysis of the incident 
+obtained by CNN
+.
+"The shipping lanes are the highways of the sea," Lambert said. "And anything related to that is going to be in the crosshairs and subject to geopolitical dynamics."

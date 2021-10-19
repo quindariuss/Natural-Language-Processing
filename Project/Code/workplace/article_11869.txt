@@ -1,0 +1,11 @@
+States with Democratic governors had higher case and death rates in the early months of 
+the pandemic
+, but trends reversed in the summer. States with Republican governors had higher case rates after June 3, and death rates tipped on July 4.  
+At their peak differences, case rates and deaths rates in Republican-led states were about 1.8 times higher than those in Democrat-led states. Those peaks occurred on June 28 for case rates and August 5 for death rates, but the trends stayed consistent through mid-December. The study analyzed cases and deaths reported by 
+The COVID Tracking Project
+ from March 15 through December 15, 2020.
+Democrat-led states -- such as New York and California -- were early entry points for Covid-19, perhaps contributing to higher incidence rates early on, according to the study's authors. But the reversal in trends "may reflect policy difference that could have facilitated the spread of the virus," they said.
+"Governors' party affiliation may have contributed to a range of policy decisions that, together, influenced the spread of the virus," Sara Benjamin-Neelon, senior study author and professor at Johns Hopkins University, said in a news release. "These findings underscore the need for state policy actions that are guided by public health considerations rather than by partisan politics."
+Other studies have found that Republican governors were slower to adopt mask mandates and stay-at-home orders and that stay-at-home orders typically lasted longer under Democratic governors. 
+However, the new study's findings do not imply that political affiliation of a state leader was a cause of Covid-19 case or death incidence, according to the study's authors.
+While the analysis was adjusted for rurality, the study notes that "the findings could reflect the virus's spread from urban to rural areas." 

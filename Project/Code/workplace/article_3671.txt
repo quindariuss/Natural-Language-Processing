@@ -1,0 +1,22 @@
+Amid a rise of 
+state-sponsored hacks
+ and 
+ransomware cybersecurity incidents
+, seven agencies were found to have failed at effectively securing data, the report concluded, resulting in an average grade of C- for the large federal agencies. 
+Only the Department of Homeland Security had an effective cybersecurity program for 2020, according to the report. "[E]very other agency failed to implement an effective cybersecurity program," it said. 
+The shortcomings at the federal agencies compromise national security and can allow cybercriminals to access personal information, concluded the senators who issued the staff report -- Rob Portman, a Republican from Ohio, and Gary Peters a Democrat from Michigan, who lead the Senate Homeland Security and Governmental Affairs Committee.
+While the average grade of the large federal agencies' overall information security maturity was a C-, the Departments of State, Commerce, Education, Transportation and Veterans Affairs all scored lower than that with D grades.
+The federal cybersecurity report was a follow-up to a 2019 review of eight agencies -- the Department of Homeland Security; the Department of State; the Department of Transportation; the Department of Housing and Urban Development; the Department of Agriculture; the Department of Health and Human Services; the Department of Education; and the Social Security Administration. 
+Although DHS had an effective cybersecurity program in 2020, the department had other issues. Its Inspector General failed to submit its annual evaluation to Congress prior to this report's release. 
+And the department's flagship cybersecurity program for federal agencies, known as EINSTEIN, "suffers from significant limitations in detecting and preventing intrusions," concluded the Senate report. 
+The program is intended to detect and block cyberattacks from compromising federal agencies, as well as provide DHS with threat information to help protect other agencies and the private sector. 
+The report recommended that DHS provide Congress with a plan to update EINSTEIN and to justify its cost.
+There are a range of issues at the agencies uncovered in the report, including failures to protect personally identifiable information adequately, to maintain accurate and comprehensive IT asset inventories, and to retire legacy technology no longer supported by the vendor. 
+For example, six agencies failed to install security patches and other vulnerability remediation controls quickly. Seven agencies used legacy systems or applications no longer supported by the vendor with security updates.
+During one exercise, hundreds of documents with personal information, including 200 credit card numbers, were accessed by investigators without the Department of Education's IT staff noticing. 
+"From SolarWinds to recent ransomware attacks against critical infrastructure, it's clear that cyberattacks are going to keep coming and it is unacceptable that our own federal agencies are not doing everything possible to safeguard America's data," Portman said in a statement. 
+The failures to address cybersecurity vulnerabilities at US federal agencies, "leaves national security and sensitive personal information open to theft and damage by increasingly sophisticated hackers," he added. 
+Portman said, in the coming months, he plans to introduce legislation to address the recommendations raised in the report.
+Portman and Peters also concluded that there is no single point of accountability for federal cybersecurity. 
+Cybersecurity responsibilities are "highly federated, making government-wide information security improvements difficult," according to the Senators. 
+The federal government also lacks a unified cybersecurity strategy to combat the current threat landscape, they said.

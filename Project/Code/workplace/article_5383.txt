@@ -1,0 +1,64 @@
+Polling on the issue is remarkably consistent, however, with a majority of Americans saying they support voters having to show some valid form of ID in order to cast their ballot. Which intrigued me -- given the massive political fight voter ID requirements have spawned in recent years.
+To get my questions answered, I reached out to
+ Ariel Edwards-Levy
+ who, in addition to being the single funniest person on Twitter, is also the polling and election analytics editor at CNN. We exchanged a series of emails over the last 36 hours on the subject. Our conversation is below.
+Cillizza
+: Hellloooooo Ariel!
+So, I have been fixated on one number in a
+ new Monmouth University pol
+l. It's this: 80% of people said they support a photo ID requirement to cast a vote. 80! You couldn't get 80% of people to say the sky is blue at this point!
+Why that number amazes me -- aside from the fact it is SO high -- is that voter ID has been one of the central fights between the two parties over the past decade or so. Republicans say it's a common sense measure to avoid voter fraud. Democrats say it's a not-so-subtle attempt to discourage minority voters to cast a ballot.
+But, in the Monmouth poll, a majority of Democrats (62%) say they favor a voter ID requirement. Almost 9 in 10 independents (87%) back voter ID.
+So, what gives? Is Monmouth an outlier? Or is voter ID always this popular? And, if so, why is it such a massive political fight?
+Edwards-Levy
+: So, there are at least three separate conversations to be having here: one about public opinion on voting regulations, a second about the way that does or doesn't translate into political decision-making, and a third about the actual effects these rules have on voters. I'll dig into that first one for a bit here. 
+Most Americans fundamentally think 
+voting should be easy
+, and a lot of proposals that would expand voting access are popular, even accounting for the recent GOP shift toward more restrictive views on voting. In that Monmouth poll, 71% of Americans want in-person early voting to be made easier; other polls this year have found majority support for
+ automatic registration
+ and
+ no-excuse early and absentee voting.
+ 
+But photo ID requirements stand out as a notable exception. The support Monmouth finds for photo ID requirements might be something of a high water mark, but it doesn't look like an outlier: polls this year consistently show majority support. 
+A few other numbers for comparison: In an 
+April CNN pol
+l, 64% of Americans said that requiring voters to provide photo identification before casting a ballot would make elections more fair. In a March 
+AP-NORC
+ poll, 72% of Americans said they favored requiring photo ID to vote, and in an April 
+Pew Research Center poll
+, 76% were in favor. Those latter two polls find near-universal backing among Republicans, along with support from a smaller majority of Democrats. 
+Given that, why is this a fight? That's getting into the other two conversations. We know that support for a policy among the public doesn't always set it on a smooth path to being enacted (for another case in point, see something like universal gun background checks, which similarly poll well). When we're looking at issue polling, I think there's often a tendency to focus solely on the popularity of a proposal, but it's also worth thinking about the salience of the topic -- how much it's coming up, and how much of a focal point it is for voters on either side of the issue. In this case, you have a vocal bloc of voting rights activists weighing in, whose opposition isn't predicated on whether or not they're on the side of popular opinion.
+It's possible that if Democratic politicians were willing to really dig in their heels on voter ID, that might dampen ordinary Democrats' support. But right now it looks like the 
+momentum might be going the other way
+, with Democratic lawmakers shifting their focus to oppose other forms of voting restrictions. And it's possible that the current state of public opinion on the issue plays into that.
+Cillizza
+:
+:
+ OK, that all makes sense.
+But can we go back a little bit for some context? Has voter ID always been a majority issue in terms of popularity with the public at large? Or is this a new(ish) thing? If there's been any sort of change, do we know why?
+I ask for a very specific reason: Republicans -- both at the state level and nationally -- have spent lots of rhetorical energy vilifying anyone who fights against voter ID. I am wondering whether that extended political campaign had actual effects on public perceptions of the issue?
+Edwards-Levy
+:
+ Opinions seem like they've been pretty stable, which is another way in which it stands out from other voting issues. To go back to that Pew poll, you can see in 
+this chart
+ how both Democrats' and Republicans' opinions on voter ID have been basically stable since 2018, even as the partisan gap on other proposals have widened. A lot of that is probably that GOP support was already so high, it didn't have much room to go up -- and, at the same time, Democrats haven't mobilized against it, either.
+There's actually not a ton of data I've seen on this issue that's more than a decade or so old, but a couple of polls suggest that there was similar majority support for voter ID 
+as far back as 2006
+. 
+Cillizza
+: Before I let you go, I want to hit on something you mentioned earlier: The actual effect these laws have on voters.
+Because, while I love polling A LOT, that's ultimately the question, right? What will it mean in states -- with Republican-controlled state legislatures -- that have either passed or strengthened their existing voter ID laws since the 2020 election?
+Are there any studies on what voter ID laws have meant to turnout?  Does it, as Democrats suggest, primarily impact minority voters?
+Edwards-Levy:
+ Yes, absolutely, both how it might affect elections on a macro level, and also whether it makes it disproportionately difficult for some individuals to vote. This is a little outside of my bailiwick, but one case study, 
+this Atlanta Journal-Constitution analysis of election data
+, found that the state's requirements for voting by mail had an "outsized impact" on Black voters, although they noted that wouldn't necessarily lead to a decline in turnout. (The Justice Department is 
+now suing Georgia
+ over the law that includes that requirement.) And obviously, the precise details of the implementation matter -- for instance, which sorts of ID are accepted as valid.
+Cillizza:
+ Alright, last thing I promise. 
+Finish this sentence: "Majority support for voter ID requirements across a variety of national polls over time tells us _______________."
+Now, tell me why!
+Edwards-Levy
+: "..that a broad groundswell of opposition to voter ID laws has never materialized, even among Democrats, who generally tend to oppose voter restrictions"
+You could argue that says something about the effectiveness of the messaging on each side, or you could say that this is just one of those issues where it's hard to change people's minds.

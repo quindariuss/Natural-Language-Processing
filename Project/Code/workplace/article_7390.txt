@@ -1,0 +1,18 @@
+That attack, which temporarily shut down the pipeline supplying fuel to the eastern United States this week, caused gas stations to run dry and gas prices to spike as Americans flocked to the pumps in a spurt of panic buying.
+Instead, officials described the order
+ -- months in the making --
+ as an initial step toward hardening the systems and software that underpin the country's basic functions. Going forward, Congress will need to act to require the private companies that control much of the nation's critical infrastructure to do the same.
+The order would require
+ new standards on software
+ used by the federal government, including adding encryption and multi-factor user verification to new technology, officials said. The requirements will need to be in place on a short timeline, some by as little as nine months. The government plans to roll out a rating system akin to restaurant health grades to rank products based on their cybersecurity.
+A senior administration official likened the new requirements and labeling to purchasing a minivan with reliable ratings or building an earthquake-proof building in an area prone to seismic activity.
+"The growing number and impact of incidents show us software security has to be a basic design consideration," the official said.
+The order would also create new protocols following a hack, requiring agencies and companies to share information with the federal government in the hopes of preventing the incident from spreading. A new panel will be created to review cybersecurity incidents similar to the transportation board that investigates plane crashes.
+The order is limited to products and companies used by the federal government. But administration officials said they were hopeful the government's vast purchasing power would spur other companies to follow suit in order to remain competitive. And many of the products used by the government -- including Microsoft's Outlook platform and Juniper's networking products -- are used widely in the private sector.
+The order comes after a string of cyber incidents caused widespread disruption in the United States. They 
+include the SolarWinds breach
+, which allowed hackers sponsored by Russia's intelligence service access to US government agencies; Microsoft Exchange vulnerabilities exposed earlier this year; and the Colonial Pipeline ransomware attack, which has caused fuel supply disruptions in the southeastern United States.
+A senior administration official said those incidents shared commonalities, including poor software security and "a laissez-faire attitude toward cybersecurity."
+"For too long we've failed to take steps to modernize our cybersecurity defenses because doing so takes time, effort and money. Instead we've accepted we'll move from one incident response to the next," the official said.
+Still, officials acknowledged that companies like Colonial Pipeline will not necessarily be subject to the requirements for federal contractors, even if the trickle-down effect on software would apply to their networks.
+Instead, an official expressed hope that both private companies like Colonial and lawmakers looking to draft cybersecurity legislation would look to the new executive order as establishing "goalposts" for further action.

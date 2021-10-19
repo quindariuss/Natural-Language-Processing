@@ -1,0 +1,107 @@
+McConnell's response, in which he expressed opposition to the bill, omitted a bunch of key context, got at least one fact wrong, and misleadingly described a top Democrat's comments on the issue. 
+McConnell's office declined to comment on the record for this article.  
+What the bill would do     
+Before we break down McConnell's words, here is some basic background about the John Lewis bill. Named for the late Democratic congressman and 
+icon of the civil rights movement
+, the bill seeks to revive -- and in some ways expand -- a key provision of the Voting Rights Act of 1965: the "preclearance" formula that was 
+struck down by the Supreme Court in 2013
+.    
+Before the court struck down the provision, the Voting Rights Act required 
+the governments of nine states, local governments within these nine states, and some specific local governments in six other states
+ to get advance federal approval, known as preclearance, before implementing changes to their voting laws. The act -- which the US Senate 
+unanimously reauthorized in 2006
+ for another 25 years -- required these governments to obtain this federal approval because they had discriminatory voting policies in place 
+in 1964, 1968 or 1972
+. (Places could apply to be 
+removed
+ from the preclearance requirement after they had a clean record on voting rights for the past 10 years.)   
+The Supreme Court 
+ruling
+ in 2013 invalidated the law's preclearance formula. The court ruled that it was unconstitutional for the Voting Rights Act to use "decades-old data and eradicated practices" as the current basis for selecting which states are forced to go through preclearance.      
+The ruling meant that the rest of the Voting Rights Act continued to exist, but preclearance could no longer occur until Congress created an acceptable new formula based on "current conditions." Therefore, the formerly restricted states were allowed to 
+implement
+ new voting restrictions without obtaining federal permission first.     
+The John Lewis bill -- which faces a 
+tough path to passage in the Senate
+ -- proposes a new preclearance formula. Let's go through five claims McConnell made about the bill at a Tuesday press conference.     
+1) The power of the Justice Department
+What the John Lewis bill does, McConnell said, "is grant to the Justice Department almost total ability to determine the voting systems of every state in America." 
+    
+We'll reserve firm judgment on this claim until we see a 2021 version of the John Lewis bill -- the bill has 
+not yet been introduced
+ in Congress this year -- but McConnell's statement is not true of the version of the bill Democrats introduced in 2020.      
+That 2020 bill would give the Justice Department more power over states' voting laws than the department currently has. However, it would not require preclearance for every state or for every new voting law. Also, like the previous preclearance requirement, the proposed 2020 requirement would not let the Justice Department pick and choose its own preferred voting policies, only to accept or reject changes proposed by the state. For example, the department couldn't respond to a state's proposal for an ID law by, say, making the state set up 50 ballot drop boxes.   
+Finally, as was the case before the Supreme Court ruling in 2013, the John Lewis bill would allow a state to 
+get a federal court to review the policies
+ rather than the attorney general -- or go to court 
+after
+ getting shot down by the attorney general.    
+"I do think McConnell has a point if his point is that part two of the bill represents a new and different regulatory approach. But I think it is at the very least an exaggeration to say that it will allow the DOJ to determine the voting systems of every state in America," said 
+Guy-Uriel Charles
+, a Duke University law professor and expert in elections law.     
+We're being cautious about judging this McConnell claim because key Democratic centrist Sen. Joe Manchin 
+told ABC News in May
+, while speaking about the John Lewis bill, that it would be good to "apply that to all 50 states and territories." Manchin's office declined to elaborate Wednesday about what precisely Manchin was saying he wants to apply that broadly. But it is possible that a 2021 version of the bill could be written to subject every state to a preclearance requirement.   
+Still, that likely wouldn't mean the Justice Department would have free rein to select what voting systems every state would use.    
+Here's a basic summary of what the 2020 version of the bill proposed with regard to preclearance. 
+States in which there were repeated voting rights violations in the previous 25 years would have to get federal approval before making any change to their voting laws. They would have to demonstrate that the changes do not have a discriminatory purpose, and would not have a discriminatory effect, based on race, color, or membership in a language minority group. 
+Every state, regardless of whether they had a history of violations, would have to get federal approval for specific kinds of changes to voting laws. These specific changes include a tightening of voter ID requirements, a reduction in voting materials in languages other than English, or, in certain communities that have substantial minority populations, reductions in the number of voting locations or changes to district boundaries.
+As was the case before the Supreme Court decision in 2013, the state could 
+continue to choose
+ to seek preclearance from the attorney general or a three-judge panel from the US District Court for the District of Columbia. The court route does tend to be 
+much slower and more expensive
+ than the attorney general route, but it means the Justice Department does not have total control over the outcome.   
+The John Lewis bill would also create a new right for "any aggrieved citizen," not just the attorney general, to file a legal action to try to compel a state or local government to abide by the preclearance requirements. 
+So ...     
+The John Lewis bill would, no doubt, give the federal government more power over states. But in its 2020 form, at least, it would not apply to every state or every circumstance, would not let the Justice Department make whatever changes it wants, and would not prevent a state from trying its hand with federal judges rather than the attorney general.   
+2) The John Lewis bill vs. another Democratic bill
+Of Democrats, McConnell said that what "they're trying to do directly through HR 1 they would try to achieve indirectly through this rewrite of the Voting Rights Act."
+   
+McConnell made clear here that the two Democratic bills are not identical. But the John Lewis bill is 
+so different
+ than the 
+stalled
+ HR 1 that it's worth explaining just how dissimilar they are. Specifically, the John Lewis bill is much more limited than 
+HR 1
+.  
+The John Lewis bill would give the federal government a powerful tool to stop states from implementing their own proposed discriminatory voting policies. Conversely, HR 1 -- also known as the For the People Act -- would require states to adopt a long list of particular voting policies picked by the federal government.     
+For example, HR 1 would require states to -- among numerous other things -- provide automatic voter registration and same-day voter registration, appoint independent commissions to set district boundaries, allow people convicted of felonies to vote once they are no longer incarcerated, and offer early voting for at least 10 hours a day for at least the last two weeks of the campaign.
+"You cannot use the Voting Rights Act to require a state to offer 14 days of early voting," Wendy Weiser, director of the democracy program at the liberal Brennan Center for Justice, said Wednesday.     
+3) Where the preclearance requirement applied
+McConnell said: "The Supreme Court did not strike down the Voting Rights Act; it's still the law. What they struck was down the preclearance part of it that applied only to the southern part of the United States ..."     
+McConnell was inaccurate here. The preclearance formula the Supreme Court struck down in 2013 applied mostly to the southern part of the country, but not "only" to the southern part of the country.    
+The 
+nine states
+ that were covered by the invalidated formula included one way-up-north state, Alaska. (The other eight states were Alabama, Arizona, Georgia, Louisiana, Mississippi, South Carolina, Texas and Virginia.) 
+And also covered
+ were certain counties and townships in the northern states of New York, South Dakota and Michigan, along with some in California, Florida and North Carolina.    
+4) The John Lewis bill vs. what is already illegal
+After noting that the Voting Rights Act still exists aside from the preclearance formula, McConnell said, "So there's no threat to the voting rights law; it's against the law to discriminate in voting on the basis of race already." Then, referring to the John Lewis bill, he concluded: "And so I think it's unnecessary."  
+  
+We can't fact check an opinion about what is necessary or not necessary. But it's important to know that the John Lewis bill would not simply duplicate current law. 
+McConnell is right that racially discriminatory voting laws are 
+already illegal
+. But with a preclearance requirement in place, a discriminatory law can be rejected before it comes into effect, or even deterred before it is passed in the first place. Without a preclearance requirement, people have to file 
+expensive and time-consuming litigation
+ to fight new policies after the fact -- and, Weiser noted, a discriminatory law could remain in effect for multiple elections before it is, potentially, struck down.  
+"Preclearance stops that stuff in its tracks so nobody has to go through those elections with discriminatory provisions in place," she said.   
+Since the 2020 election, Republican state legislators around the country, including in states formerly covered by the preclearance requirement, have put forward numerous proposals that would reduce access to the ballot box. Lawsuits have been quickly 
+filed
+ to challenge the proposals that have been turned into law.    
+5) Chuck Schumer's words
+To begin his answer, after he was asked for his position on the John Lewis bill, McConnell suggested that his position is aligned with that of Democratic Senate Majority Leader Chuck Schumer: "Well, as the majority leader said, the voting rights bill is intact. It's the law. It extends well into the future." 
+This is misleading spin about something Schumer said in May. Schumer did not say that the Voting Rights Act is currently "intact," and, contrary to a Tuesday 
+suggestion
+ from a McConnell spokesman, Schumer has not come close to endorsing McConnell's assertion that the John Lewis bill is unnecessary. Rather, Schumer has repeatedly 
+said
+ the Voting Rights Act has a big hole in it -- that it was "gutted" by the Supreme Court decision that invalidated the preclearance formula -- and he has 
+repeatedly
+ 
+called
+ for the passage of the John Lewis bill to "restore" the Voting Rights Act. Schumer spokesman Justin Goodman reiterated Schumer's support for the bill to CNN on Wednesday. 
+McConnell was misleadingly referring to a May comment in which Schumer scoffed at a vague 
+letter
+ in which Manchin and Republican Sen. Lisa Murkowski called for a "reauthorization" of the Voting Rights Act without specifically calling for the John Lewis bill to be passed. Schumer dismissively noted that the Voting Rights Act has already been authorized into the early 2030s; he said, "So their letter to us saying 'authorize it' -- well, it's pretty much done."
+This was perhaps an oddly combative remark, especially given that the letter did suggest that the senators wanted Congress to create a new  preclearance formula. But Schumer never agreed with McConnell that the Voting Rights Act is good enough, or "
+intact
+," without the passage of the new John Lewis bill. Schumer was dismissing the idea of the current Congress merely reauthorizing an existing law that is already authorized for two more decades.

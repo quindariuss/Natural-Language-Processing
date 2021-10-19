@@ -2,3 +2,4 @@ awk '$0="https://www.foxnews.com"$0' links
 grep  -o "/politics\/\(\w\|\-\)*" politics > links
 wget -i linkstmp
 cat jill-biden-virginia-new-jersey-campaign-trail | pup 'p text{}' | recode html..utf-8
+ pup 'div.zn-body__paragraph text{}'

@@ -1,0 +1,131 @@
+Republican Gov. Greg Abbott has 
+claimed
+ that his party is trying to make it both harder to cheat and "easier to vote." While the bill does include an expansion of early voting hours in some counties, the bill on the whole is far more restrictive than expansionary.
+The bill would ban the drive-through voting and 24-hour voting that were used in 2020 by 
+racially diverse
+, 
+Democratic-leaning
+ Harris County, home to Houston. It would ban morning voting on the last Sunday of early voting, a time some Black churches use for "souls to the polls" voting drives. It would create a new identification requirement for mail-in voters. It would create new requirements for both voters with disabilities and people assisting them. 
+The bill would also introduce a variety of new criminal offenses for elections officials. It would make it easier to get elections overturned. And it would empower partisan poll watchers in a variety of ways. 
+Some criticism of the bill has been overstated. Contrary to some 
+claims
+ on social media, for example, the bill would not make it illegal to drive multiple non-relatives to a voting place. Instead, it would require certain drivers -- people who are transporting three or more non-relatives who need to vote from inside the car or from outside the building entrance because they are disabled or sick -- to fill out a form.  
+We can't address every single item in the 
+67-page legislation
+. But since the bill is complicated and there appears to be some public confusion about what it actually says and does, here are the facts on 20 of the bill's significant provisions.
+Early voting hours and locations
+The bill would ban certain kinds of early voting locations, reduce early voting hours in some counties, and ban early voting during a key "souls to the polls" time period. It would, however, add early voting hours in some counties. 
+Bans drive-through voting sites
+The bill would ban drive-through voting sites. In the 2020 general election, drive-through voting was used by more than 125,000 voters in 
+Harris County
+.
+Bans late-night voting and 24-hour voting
+The bill says weekday early voting can occur only between 6 am and 9 pm. That provision functions as a ban on the 24-hour early voting that was 
+offered
+ during the 2020 election by Harris County on some days at certain voting locations. The provision also prevents counties from staying open until 10 pm, as Harris County locations 
+did
+ on other days. 
+Bans Sunday morning hours
+The bill says that voting can't start earlier than 1 pm on the last Sunday of the early voting period -- a day when many 
+Black churches
+ hold "souls to the polls" caravans after morning services. 
+This week, Texas Republicans including Abbott have 
+signaled
+ a willingness to change this provision. 
+Bans ballot drop boxes
+The bill creates a more explicit ban on ballot drop boxes, saying that a mail-in ballot delivered in person has to be received, at the "time of delivery," by an election official who must record the voter's name, signature, and type of identification. This is not a major change from current Texas law, which 
+says
+ in-person ballot delivery can only occur during voting hours on Election Day and that a ballot can only be delivered to the clerk's office by a person who must present identification. 
+The Election Day-only provision was temporarily abandoned in 2020 under Abbott's 
+special pandemic rules
+, but the Texas Supreme Court 
+agreed
+ with Abbott that counties could only have one ballot drop-off site even then. Harris County had 
+wanted
+ to have 12 staffed locations. 
+Adds early voting hours in some counties
+The bill does add some extra mandatory early voting time. 
+The bill would mandate an extra hour of early voting on the last Sunday of the early voting period, requiring counties with 30,000 or more people to offer six hours that day. Current law mandates counties with 100,000 or more people to offer five hours.
+It would require counties with a population of 30,000 or more to offer a minimum of 12 hours of early voting each weekday during the final week; under current law, that 12-hour minimum applies only to counties with a population of 100,000 or more. And before the final week, the bill would require counties to offer a minimum of nine hours of early voting on weekdays; existing law 
+says
+ voting has to be open on these days during a county's regular business hours, which may be less than nine hours.
+Mail-in ballots
+Texas already had strict rules about mail-in voting. The bill would make them stricter.
+Adds a new identification requirement for mail-in ballots
+The bill would require voters applying for a mail-in ballot to provide a driver's license number, Texas identification card number, or the last four digits of their Social Security number -- or to submit a statement saying they have not been issued any of those numbers. They would have to provide this number or statement again when they submit their ballot. Texas currently uses a signature-match system rather than an ID card system to verify mail voters' identities. 
+Bans officials from mailing unsolicited mail-in ballot applications
+The bill would make it a felony punishable by between 180 days and two years in a state jail for a public official to send someone a mail-in ballot application the person did not request, or to pre-fill any part of any mail-in ballot application they are sending to someone.
+Harris County tried in 2020 to send an application to each of its registered voters, but the Texas Supreme Court 
+ruled
+ that the state election code did not allow the mailing of unsolicited applications. And some 
+other
+ counties sent an application to all registered voters who were 65 and older by Election Day, the only age group that is 
+automatically
+ eligible to vote by mail in Texas. 
+Allows officials to look at old signatures
+Under current law, local officials can compare a signature on a mail voter's ballot envelope to "two or more" of the voter's signatures on file with the county clerk or voter registrar from the past six years. Under the bill, the officials could compare the envelope signature to "any known signature" the clerk or registrar have on file, with no limit on how old the signature can be.  
+This provision gives officials more options to find a signature match -- but also gives them more options to find a mismatch. It has raised 
+concerns
+ that a voter could have their ballot rejected based on a signature from decades ago, before they experienced a disability or just had their handwriting change with age. 
+The bill does say that if the voter provides one of the required ID numbers and it matches their voter registration, their signature will be "rebuttably presumed" to be valid.
+Voters with disabilities
+The bill would create new requirements both for voters with disabilities and the people who help them by driving them to voting locations or aiding them in filling out their ballots.
+Adds requirements for voters with disabilities
+Texas allows people to vote by mail only if they meet certain criteria, such as a disability. Under current law, a voter with a disability can obtain a mail-in ballot by checking a general "disability" box on the application 
+form
+. Under the bill, they would have to specify on the form whether they have an illness, injury, "medical confinement ordered by a health care professional," or a mental or physical disability. 
+Current law says a Texan can get a mail-in ballot if they have a sickness or physical condition that "prevents" them from voting in person without a likelihood of needing assistance or injuring their health. The bill would toughen the "prevents" language with a requirement that the person's health issue must make them "not capable of" voting in person without a likelihood of needing assistance or injuring their health -- and further specifies a "lack of transportation" to the voting place isn't enough.
+Adds requirements for people helping voters with disabilities cast a ballot
+Under 
+current law
+, someone who helps a voter cast a ballot -- because the voter can't write, can't see, or can't read the language of the ballot -- has to swear an oath and provide their name and address to an election officer. In the oath, the assisting person has to say they will not influence the voter's choice, will limit their assistance to answering the voter's questions and reading the ballot, and will mark the ballot as the voter wanted.
+Under the bill, the oath would be stricter: it would specify that it is being uttered under penalty of perjury, and it would not allow the assistant to answer the voter's questions. In addition, the assistant would have to fill out a form stating their name and address, their relationship to the voter, and whether they were compensated by a candidate, campaign, or political committee. 
+Adds requirements for people driving voters with disabilities
+The bill would not ban Texans from driving multiple non-relatives to go vote. But it would impose new requirements on certain drivers of non-relatives. Specifically, the requirements apply to people who drive three or more non-relatives who are physically unable to go inside the voting location and therefore need a ballot brought out to them at the curb or entrance.
+The bill says that such drivers would have to fill out a form with their name, address, and general reason they are providing assistance. That form would have to be quickly delivered to the state secretary of state, who would be required to make it "available to the attorney general for inspection upon request."
+Also, the bill says a poll watcher would be allowed to observe "any activity" related to this curbside voting, aside from observing a voter marking their ballot or being assisted in voting. (The bill 
+does not
+ even contain a ban on the poll watcher from entering the driver's car at other moments.) And the bill says that the driver would have to exit the vehicle while the voter votes in the car, except if "other law" would allow the driver to accompany the voter to a voting station.
+Poll watchers
+The bill contains multiple provisions that would give additional rights and powers to poll watchers -- people appointed by a candidate or party to observe the election proceedings.
+Adds a free movement requirement
+The bill says poll watchers "may not be denied free movement where election activity is occurring," other than being kept away from a voter preparing their ballot or being assisted. The bill specifies that the watchers must be allowed close enough "to see and hear" election officers' activities, and it lays out how watchers can obtain a legal injunction if they believe they are being unlawfully obstructed. 
+Guarantees poll watchers can follow election materials
+The bill would also add a new provision saying that poll watchers are allowed to observe "all election activities relating to closing the polling place," including the sealing and transfer of memory cards and computer drives, and to "follow" the transfer of election materials as they are taken from the voting location to the regional tabulation center. 
+Adds criminal penalties for election officials who obstruct poll watchers
+The bill would make it a misdemeanor for an election officer who refuses to accept a poll watcher at a voting location when the law requires that person to be accepted. The bill also says it would be a misdemeanor for an election official to do anything to obstruct a poll watcher's view or to "distance" the poll watcher from an activity in a way that would make their observation efforts "not reasonably effective"; a vaguer misdemeanor, which doesn't mention effectiveness, exists in 
+current law
+. 
+The bill would require a poll watcher to utter an oath affirming that they will not "disrupt the voting process or harass voters." 
+Other provisions
+Adds other criminal penalties for elections officials
+The bill would make it a felony punishable by state jail time for an election officer to knowingly or intentionally fail to count lawfully cast votes, or to knowingly or intentionally count votes that are invalid "or should otherwise not be counted." The bill would also make it such a felony for an elections officer to knowingly or intentionally prevent an eligible voter from casting a legal ballot or cause a ballot to "not reflect the intent of the voter." 
+Makes it easier to overturn elections
+The bill would make it easier to overturn elections. 
+The bill says that, if a person alleges that a candidate, their campaign or someone acting with their knowledge has violated any of nine sections of Texas elections law, the person must prove the allegation by a "preponderance of the evidence" -- a threshold 
+easier to meet
+ than the "clear and convincing evidence" standard that Texas courts 
+currently
+ use in 
+deciding
+ cases about election illegality.   
+The bill also says that the court hearing an election challenge would not have to attempt to figure out whether the illegal votes actually changed the outcome of the race before declaring the election void -- only to see "if the number of votes illegally cast in the election is equal to or greater than the number of votes necessary to change the outcome of an election." 
+Current Texas law, which governs a 
+narrower range
+ of election challenges, gives the court the same permission to void an election without knowing who the illegal votes were for -- but also says, first, that a court can force a voter who cast an illegal ballot to reveal who they voted for. This section of the new bill does not say anything about forcing a voter to reveal their vote.
+Forbids counties from making their own changes
+The bill would forbid any public official from creating, changing, or suspending "any election standard, practice, or procedure mandated by law or rule" in a way not "expressly authorized" by the state election code. 
+Requires video surveillance
+The bill would require counties with a population of 100,000 or more to conduct video surveillance of "all areas containing voted ballots," including during the counting process, and to live-stream that video to the public. These requirements would be optional for smaller counties. 
+Creates a "vote harvesting services" felony
+The bill creates a third-degree felony, and creates civil liability, for someone who knowingly provides or offers "vote harvesting services" in exchange for compensation or benefit. The definition of "vote harvesting services" is vague: "In-person interaction with one or more voters, involving an official ballot, a ballot voted by mail, or an application for ballot by mail, intended to deliver votes for a specific candidate or measure." The American Civil Liberties Union 
+says
+ the vague definition could be interpreted to forbid "normal campaign activity." 
+Requires newly convicted felons to be notified of voting prohibition
+The bill includes a provision, 
+proposed by Democrats
+, that would require courts to notify an adult who has been found guilty of a felony of how the conviction will impact their right to vote in Texas. Texas does not allow people with felony convictions to vote until they have "fully discharged" their sentence, including any parole, probation, or supervision period. 
+This provision is a response to the 
+case of Crystal Mason
+, who received a five-year prison sentence for casting a ballot in the 2016 election (which was not counted) while she was out of prison on supervised release. Mason says she never knew she was ineligible to vote. 
+CLARIFICATION: This article has been updated to clarify how many voting hours large Texas counties are currently required to offer on the last Sunday of early voting.

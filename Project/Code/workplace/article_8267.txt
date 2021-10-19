@@ -1,0 +1,71 @@
+The victim of the attack, Colonial Pipeline is a company that transports more than 100 million gallons of gasoline and other fuel daily from Houston to the New York Harbor. 
+RELATED: Biden administration scrambles to respond to cyberattack on critical pipeline
+Over the weekend, the pipeline operator began working to develop a restart plan for its pipeline system, and was able to start operations for some of its ancillary lines. On Monday, Colonial acknowledged it will take time to restore all of its systems and said hopes to substantially restore operational service by the end of the week.
+Here's what to know about the attack:
+What is a ransomware attack and did this happen out of the blue?
+Ransomware locks out the rightful user of a computer or computer network and holds it hostage until the victim pays a fee. Ransomware gangs have also threatened to leak sensitive information in order to get victims to meet their demands.
+The Colonial Pipeline attack comes amid rising concerns over the cybersecurity vulnerabilities in America's critical infrastructure following a spate of recent incidents, and after the Biden administration last month launched an effort to beef up cybersecurity in the nation's power grid, calling for industry leaders to install technologies that could thwart attacks on the electricity supply.
+It follows a string of other ransomware attacks and other high-profile and deeply damaging cyber breaches, including the 
+SolarWinds 
+related supply chain breach and the 
+Microsoft Exchange Server hack
+ -- both tied to nation state actors. 
+While the latest incident is believed to be tied to a criminal group, it underscores the cybersecurity risk to critical infrastructure and threatens to impact gas prices ahead of the summer travel season.
+Senior White House officials repeatedly said Monday their roles in addressing the latest ransomware incident were limited because Colonial Pipeline is a private company, even though it controls the gasoline supply to most of the eastern US.
+"This weekend's events put the spotlight on the fact that our nation's critical infrastructure is largely owned and operated by private sector companies," said Elizabeth Sherwood-Randall, the White House domestic security adviser. "When those companies are attacked, they serve as the first line of defense and we depend on the effectiveness of their defenses."
+Anne Neuberger, the top official responsible for cybersecurity on the National Security Council, said Colonial Pipeline had not asked for "cyber-support" from the federal government but that federal officials were ready and "standing by" to provide assistance if asked.
+Who is responsible?
+The FBI confirmed Monday that a criminal group originating from Russia, named "DarkSide," is responsible for the Colonial pipeline cyberattack.
+"The FBI confirms that the Darkside ransomware is responsible for the compromise of the Colonial Pipeline networks. We continue to work with the company and our government partners on the investigation," the FBI said in a statement.
+The group posted a notice on the dark web that their motivation was "only to make money" and claiming it did not carry out the attack on behalf of a foreign government, according to a cyber counterintelligence firm.
+"I can confirm that (the posting) came from the DarkSide victim data leak site on the dark web," Randy Pargman, vice president of Threat Hunting & Counterintelligence at Binary Defense told CNN, adding that his firm has verified it. 
+DarkSide typically targets non-Russian speaking countries, a former senior cyber official told CNN. 
+Darkside is "relatively new" in terms of ransomware groups, according to Allan Liska, senior security architect, Recorded Future, who said the group has been around since August of 2020, but "they're fairly aggressive" and have "grown very quickly."
+The group is part of what's called the "ransomware as a service" trend -- they "rent out their infrastructure to other bad guys," he added.
+"You pay a fee to join their service. And then the main threat actor gets a cut of every successful ransomware payment that you make," Liska said.
+Neuberger said Monday that there does not appear to be any ties between "Darkside" and the Russian government, though the US intelligence community continues to assess the situation.
+Asked if the group has ties to Russia or any other Eastern European criminals, Neuberger said the current belief is that Darkside is working as a criminal actor.
+"At this time we assess that Darkside is a criminal actor, but that's certainly something our intelligence community is looking into," Neuberger said at the White House press briefing on Monday.
+President Joe Biden echoed that point Monday, with an additional caveat: "There is evidence that the actor's ransomware is in Russia. They have some responsibility to deal with this." 
+Moscow denied any involvement. "Russia is not and was not involved in any cyber attacks," Kremlin spokesman Dmitry Peskov told CNN later on Monday.
+Are ransomware attacks a new problem?
+Simply put, no.
+The Justice Department 
+said last month
+ that 2020 was "the worst year to date for ransomware attacks," and experts warn that they are only becoming more frequent. 
+On average, ransomware demands exceeded $100,000 last year and in some cases, were up to tens of millions of dollars, according to the department. 
+"Our critical infrastructure sectors are the modern day battlefield and cyber space is the great equalizer. Hacker groups can essentially attack with little individual attribution and virtually no consequence. With over 85% of all infrastructure owned and operated by the private sector, significant investment and attention must be placed on hardening key critical systems," according to Brian Harrell, former assistant secretary for infrastructure protection at the Department of Homeland Security. 
+"I anticipate more attacks like this happening in the future. A key lesson here is that while technology and automation is good, we must also have the ability to efficiently operate manually as well. Attacks will happen, but how quick can you recover and restore critical services?" he told CNN.
+In recent months, 
+ransomware attackers
+ have increasingly targeted schools, hospitals, city governments and other victims that are perceived to have weak security or an ability to pay.
+Just last week, Homeland Security Secretary Alejandro Mayorkas warned of the staggering financial losses incurred from ransomware and acceleration of these types of attacks over the past year. 
+"The threat is not tomorrow's threat, but it is upon us," he said at a US Chamber of Commerce event.
+Mayorkas has been outspoken on the threat from ransomware in recent weeks, calling it an "existential threat" to businesses at the event. 
+More than $350 million dollars in victim funds were paid as a result of ransomware in the past year, and the rate of ransomware attacks increased over the prior year by more than 300%, he said. 
+Do victims usually pay the ransom?
+While it varies from case to case, the FBI's standing guidance is that victims should not pay a ransom. 
+"The FBI does not support paying a ransom in response to a ransomware attack. Paying a ransom doesn't guarantee you or your organization will get any data back. It also encourages perpetrators to target more victims and offers an incentive for others to get involved in this type of illegal activity," according to the FBI website. 
+However, multiple sources have previously told CNN that the FBI will, at times, privately tell victims they understand if they feel the need to pay, something senior White House officials acknowledged on Monday, saying "companies are in a difficult position."
+Asked whether Colonial had paid a ransom to the outlet blamed for the attack, senior White House officials demurred.
+"That is a private sector decision, and the administration has not offered further advice at this time. Given the rise in ransomware, that is one area we're looking at now to say what should be the government's approach to ransomware actors and to ransoms overall," Neuberger said. 
+What does this attack mean for anyone who drives or flies?
+The cyber incident could have economic consequences due to the importance of the Colonial Pipeline. The pipeline delivers nearly half the diesel and gasoline consumed on the East Coast. And it provides jet fuel to major airports, many of which hold limited supplies on site.
+RBC Capital Markets warned that depending upon how long it lasts, "the supply shock could leave the region with widespread fuel shortages."
+The shutdown 
+could extend
+ a recent jump in gasoline prices -- especially if the outage persists â piling on the pain for drivers as the seasonal peak in demand approaches.
+"The number of days that the line is out of service is critical," Tom Kloza, global head of energy analysis for the Oil Price Information Service, which tracks gas prices at 140,000 US stations, told CNN Business.
+Limited supply could mean higher fuel prices for motorists during the spring driving season. US gasoline futures for May delivery gained 1.5% on Monday, rising to $2.16 a gallon. Prices had spiked as much as 4% in early trading.
+The national average pump price of regular gas stands at $2.97 a gallon, according to AAA, up more than 60% from a year ago when prices and demand were bottoming out. The national average could surpass $3 a gallon this summer, and go even higher if hurricanes hit the Gulf Coast or if there are additional supply outages.
+The attack could also trigger challenges for jet fuel deliveries, Kloza said. Many major East Coast airports maintain only three to five days worth of inventory, so a two to five day suspension of a pipeline that in some cases moves fuel directly to major airports -- such as Atlanta's Hartsfield-Jackson Airport -- can have a dramatic impact.
+What is the Biden administration doing about it?
+Biden administration officials worked urgently Monday to ascertain the scope and fallout of a ransomware attack on the Colonial Pipeline, which supplies much of the eastern United States its gasoline.
+The White House has already stood up an emergency working group to contend with potential energy supply issues and loosened rules on petroleum shipping on highways.
+But the broader issue of security gaps in the nation's critical systems -- components of which are decades old -- remains a serious question for the White House, which is finalizing an executive order meant to better respond to cyberattacks.
+The order was written and circulated primarily as a response to the earlier SolarWinds attack, which allowed Russian hackers to access systems across federal government agencies. Yet the draft order applies only to federal contractors, meaning it would not have applied to Colonial Pipeline, the latest company to be targeted.
+Mayorkas also said DHS is also exploring developing a grant program that can reach enterprises that otherwise are outside of existing grant programs, "to really raise the bar of cybersecurity throughout the country."
+Additionally, the Justice Department 
+has created a new task force
+ dedicated to rooting out and responding to the growing threat of ransomware, according to an agency memo obtained by CNN last month.
+The new task force will unify efforts across the federal government to pursue and disrupt ransomware attackers, according to the memo. Actions could include everything from "takedowns of servers used to spread ransomware to seizures of these criminal enterprises' ill-gotten gains," the memo continued.

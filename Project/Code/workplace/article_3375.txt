@@ -1,0 +1,52 @@
+Logging in, or scanning the QR code on T-shirts and flyers also being handed out on the convention floor, took attendees to a 
+page
+ for the State Department's new initiative offering up to $10 million to informants with information on state-backed hackers.
+The Vegas push was made to such a highly targeted cyber audience because for the first time in the Reward for Justice program's almost four decades, informants could elect to receive payments in cryptocurrency and reach out to the US government with sensitive information through a secure portal on the Dark Web. It came after the State Department quietly made the announcement last month amid a flurry of other actions taken by the Biden administration to shore up the country's cybersecurity.
+"Within our program there's a tremendous amount of enthusiasm because we're really pushing the envelope every chance we get to try and reach audiences, sources, people who may have information that helps improve our national security," a State Department official said in an interview, the first since the announcement was made. "It's been edgy for some government agencies, perhaps, but we're going to keep pushing forward in many different ways."
+In the past few months, the Biden administration has accused hackers employed by both 
+Russia
+ and 
+China
+ of breaching multiple US government agencies and departments. The goal of RFJ's new reward is to solicit helpful information from the type of hackers who might know people involved in operations like these. State-backed attackers who target protected computers like those used by the US government, financial services and a variety infrastructure sectors are in RFJ's crosshairs.
+"Something on the Dark Web that allows total anonymity and an initial level of security is probably more appropriate for those folks," said a second official from the State Department, which declined to allow the officials' comments to be on the record. "So just finding people where they are and reaching them with the technology on which they are most comfortable, I think, is the name of the game for Rewards for Justice."
+The new cryptocurrency reward offer, from a program typically associated with rewards for terrorists, says that up to $10 million can be paid for the identification or location of a state-backed hacker attacking US government systems and critical infrastructure like water, power or transportation. (The highest reward RFJ offers is $25 million for the head of Al Qaeda, Ayman al-Zawahiri, who may be dead.)
+The spate of recent cyberattacks and the Biden administration's vocal response to them were not what drove the new cryptocurrency reward, the State Department said. Instead, the administration's growing focus on the country's cybersecurity was fortuitous timing for RFJ. 
+"We've been working on this quite a while and it coincided at a very good time that we managed to get this rolled out as critical infrastructure and ransomware were at the top of the news cycle, so to speak, and a major concern for the US government," said the first official, who is from the Diplomatic Security Service which oversees RFJ.
+Dark Web tips
+The RFJ channel can be accessed using Tor, the most common browser for the Dark Web, which is a hidden part of the internet that regular search engines don't see. Accessing the Dark Web with Tor allows users to be anonymous. In the weeks since the channel opened up, tips about malicious cyber actors have already come in, the officials said. They declined to say how many or describe them because of the sensitivity of the information and sources, adding that it's too early to say whether they'll lead to anything.
+"This is not a quick process. We are receiving tips. We are evaluating tips. We'll share those tips with the interagency partners. They must then use that information and reach out and begin their investigation," one official said. "This is a longer-term process."
+The US government has already had success with information it has received on the Dark Web. In 2019, the Central Intelligence Agency rolled out its own onion site -- as sites on the Tor network are known -- for both recruiting and receiving tips, recognizing it needed to be present in areas where people felt safer reaching out.
+In the two years since the site was launched, the CIA has gotten a wide variety of tips, including about terrorism plots, a US official told CNN.
+"The CIA has received validated information about terrorist networks and attack planning, intelligence matters, cyber and technology issues, and crime, among other areas," the official said.
+Information received can then be corroborated with existing intelligence data or can be used to further validate intelligence already obtained.
+Now, the State Department is jockeying to become a centralized clearinghouse for information that people are trying to get to the US government. The global visibility of RFJ around the world and on the ground, in dozens of different languages, helps cement its position, the State Department officials said, as "an interlocutor to get information to our national security partners."
+"I would like to think in the coming months and years we will have developed such an efficient and successful process that our partners in the National Security Council will come to see us as one of the most effective and reliable ways to obtain information on the national security threats that they are trying to thwart. Period," the other official said.
+Congress gave RFJ the authority to hand out rewards on cyber issues in 2017 and since then they have advertised two specific rewards pertaining to North Korean cybercrime and foreign cyber election interference. The new reward applies only to state-backed actors, so not the criminal hackers whose recent major attacks have caused 
+gas pipelines
+ and 
+food processing plants
+ to shut down.
+Cryptocurrency payments reflect the changing times and join a list of different types of payment that can be made.
+'Suitcases full of cash'
+"We provide wire transfers, we actually can still deliver -- and do deliver - suitcases full of cash, we can provide in-kind rewards" the Diplomatic Security official said. And a now a recipient will be able to choose whichever cryptocurrency they like. 
+Often, the second official said, it's not even about the money.
+"A disproportionate amount of our sources are probably not even people that RFJ are paying but nevertheless might lead to positive national security outcomes for our partners," this official said. 
+The State Department's foray into cryptocurrency is certainly the most public the US government has ever made, but it has been used before, according to Bill Evanina, CEO of The Evanina Group who retired this year as Director of the National Counterintelligence and Security Center after three decades at the FBI and CIA.
+"My knowledge of that would be more in the super classified realm," Evanina said, declining to say more.
+The Office of the Director of National Intelligence, the National Security Agency, the CIA and FBI all declined to comment on how the intelligence community and law enforcement have used cryptocurrency.
+"It is inconceivable that the government has not used cryptocurrency to paid undercover informants or sources," said Erez Liebermann, a former Department of Justice cybercrimes prosecutor.
+'Money's still king'
+The mainstreaming effect of the government's public use of cryptocurrency for payments is welcome news for cryptocurrency advocates.
+"We have long suspected that law enforcement agencies were taking advantage of the properties of cryptocurrencies," said Neeraj Agrawal at Coin Center, a Washington think tank that advocates for cryptocurrency. "It is great to see the administration recognizes the role that cryptocurrencies can play in promoting activism."
+Experts who analyze and engage with malicious cyber actors say it remains to be seen whether a potential windfall of millions will resonate with those inclined to inform on sophisticated hackers employed by powerful countries like China and Russia. They could be afraid of the states they work for coming down on them or be wary of the US government's ability to trace the payments. 
+"They say there's no honor among thieves. You would still get, I think, good leads," said Chris Painter, who was the State Department's first top cyber diplomat and is co-chair of the Ransomware Task Force, a collaboration of public and private sector groups. "If [informants] can do it anonymously and they get paid anonymously, even if they're quasi state-sponsored, they might just do it. Because money's still king."
+As secure as cryptocurrency is perceived to be, the Biden administration has made clear that tracking it is a top priority to fight ransomware. The FBI recently retrieved more than $2 million in Bitcoin
+ they say was from the ransom
+ Colonial Pipeline paid to the group DarkSide, whose attack prompted the shutdown of the key East coast pipeline in May.  
+More reward offers coming
+"Will potential informants have confidence that their anonymity will be protected?" Emsisoft threat analyst Brett Callow asked. "Any potential informants are also cybercriminals and may only rat if they're confident they can do so safely."
+Still, the simple fact that something new is being tried should be celebrated, said both Painter and Cameron Burks, a former chief of staff at the Diplomatic Security Service.
+"I always felt the RFJ program could do a lot more," Burks said, "and this initiative, I think, really demonstrates a forward leaning innovative commitment to going after bad guys, I think, will pay dividends. I'm super proud to see it."
+"I really was surprised," Burks added, "because of government grind, trying to do something as forward leaning as this."
+More reward offers on cybersecurity can be expected "very soon," the State Department officials said, and the use of cryptocurrency is also expected to expand.
+"This program is evolving," one official said. "I think this offer of cryptocurrency is something that we will be using in the future for other types of rewards. It could encourage other types of sources to come to us with information who may not have wanted to come to us before."

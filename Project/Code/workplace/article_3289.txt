@@ -1,0 +1,32 @@
+That's the headline of an 
+article
+ published Wednesday in the National Pulse, a pro-Trump "news" site. It refers to a Rasmussen Research poll that, among other things, asked people who they would vote for today between Joe Biden and Donald Trump. Trump took 43% to Biden's 37%.
+The conclusion, at least according to the National Pulse, is simple: Voters are having buyer's remorse on Biden -- and wish they had given Trump a second term.
+It is, of course, not that simple. 
+Let's start with the pollster: Rasmussen Research.
+CNN doesn't report results from Rasmussen because they conduct automated polls incorporating interactive voice response (IVR) that don't meet our polling standards. (IVR just means an automated voice conducts the poll rather than a human being.)
+The main issue with IVR polling is who is being called, who responds and whether the overall sample is actually representative of the district, state or country being polled.
+As the American Association for Public Opinion Research (AAPOR) 
+notes of the issues with IVR polling
+:
+"First, there are specific state and federal laws that restrict, and even prohibit, certain kinds of automatic calling. For example, it is illegal to call mobile phone numbers using automated dialing methods. This could mean that the growing number of Americans who are only reachable by their mobile phone will not be represented in the sample unless they are dialed manually.
+"In comparison with surveys that use a live interviewer, response rates are likely to be much lower for automated surveys. Further, even when they start answering questions using this methodology, respondents are much more likely to break off and not complete the interview. Thus, error due to nonresponse may affect the accuracy of the poll. It is also difficult to employ methods to randomly select a respondent within the household without the help of a live interviewer."
+Perhaps because of those issues with its sample, Rasmussen has consistently been more favorable for Republicans. Donald Trump was known to tout Rasmussen numbers during both his 2016 and 2020 campaigns because their numbers were so much more favorable to him. And as CNN's Harry Enten has noted, 
+Rasmussen was the least accurate pollster 
+during the 2018 midterm election.
+So, there's plenty of reason to be skeptical of the pollster. 
+Then we get to the question-in-question on this poll, which reads: "If the next presidential election were held today, who would you vote for?"
+Rasmussen reports the results to that question -- again Trump 43%, Biden 37% -- among likely voters. Which is weird. Because, how did they decide who is a likely voter for an election that isn't for another three-plus years? Determining a likely voter screen is notoriously difficult -- and to do so this far from the actual election is, to put it plainly, guesswork.
+My guess as to how Rasmussen got these numbers is that their sample is disproportionately Republican-heavy. Note that in this poll, Rasmussen
+ asked respondents
+ who they did vote for in 2020, and found 45% for Biden, 45% for Trump, 6% for another candidate and 4% unsure. The 
+actual popular vote
+ was more like 51% for Biden to 47% for Trump.
+(Worth noting: 
+Rasmussen's approval rating numbers on Biden
+ are much more negative for the incumbent than more reliable polls.) Those voters are, not surprisingly, more favorable to Trump than Biden. Hence the results.  
+None of this to say that Biden is in a great place, polling-wise, at the moment. His approval rating -- in a variety of credible polls -- 
+is at its lowest ebb since he was sworn in
+.  But this Rasmussen data is deserving of a major amount of skepticism.
+Polling is sort of like a car. You get out what you put in. Put in bad gas, the car doesn't perform. Put in a non-scientific sample and you get weird results.
+The truth is this Rasmussen poll is the opposite of "stunning." Given what we know about the firm and the results they produce, this latest poll is utterly predictable.

@@ -1,0 +1,15 @@
+The move follows a high-profile, if unsuccessful, 
+cyberattack in Florida
+ that sought to compromise a water treatment plant, which highlighted some of the cybersecurity vulnerabilities in America's critical infrastructure.
+The Energy Department announced the push on Tuesday, saying the initiative would outline actionable steps for utility owners and operators that could help them detect and defend against cyberattacks. Experts have said that so-called industrial control systems should rarely if ever be connected to the public internet and that any remote access to those systems should prevent commands from being executed.
+Cybersecurity has been a major focus of the administration's first 100 days, following two alarming cybersecurity incidents: The 
+SolarWinds intrusion
+ campaign by alleged Russian hackers that compromised nine US agencies and dozens of private organizations, and the 
+Microsoft Exchange server vulnerabilities
+ that exposed tens of thousands of systems worldwide. 
+Tuesday's announcement also calls for input from the private sector on future recommendations to further secure the country's infrastructure from cyberattack.
+"The United States faces a well-documented and increasing cyber threat from malicious actors seeking to disrupt the electricity Americans rely on to power our homes and businesses," said Energy Secretary Jennifer Granholm in a release. "It's up to both government and industry to prevent possible harms -- that's why we're working together to take these decisive measures so Americans can rely on a resilient, secure, and clean energy system."
+While the initiative begins with the US electric grid, officials said other sectors will soon receive the same attention.
+"These efforts really underscore, again, the Biden-Harris administration's focus on building back better and considering advancements in our country's infrastructure and our country's fundamental resilience to be a foundational step that we all must take together as we confront cyber threats that could compromise our most critical systems that are essential to US national and economic security," said Eric Goldstein, a top cybersecurity official at the Department of Homeland Security's Cybersecurity and Infrastructure Security Agency.  
+The Biden administration's plan is "very encouraging," said Robert M. Lee, CEO of Dragos, Inc., a cybersecurity firm focusing on industrial cybersecurity. 
+"This is a plan that seems to be done in unison with electric sector leadership and cross-government agency," Lee said. "That bodes well for its success and impact since there was communication and buy in ahead of time. Further, the focus on threat detection is fantastic."

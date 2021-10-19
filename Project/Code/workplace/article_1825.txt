@@ -1,0 +1,25 @@
+The incident at the Port of Houston is an example of the interest that foreign spies have in surveilling key US maritime ports, and it comes as US officials are trying to fortify critical infrastructure from such intrusions. 
+"If the compromise had not been detected, the attacker would have had unrestricted remote access to the [IT] network" by using stolen log-in credentials, reads the US Coast Guard Cyber Command's analysis of the report, which is unclassified and marked "For Official Use Only." "With this unrestricted access, the attacker would have had numerous options to deliver further effects that could impact port operations."
+The Port of Houston is a 25-mile-long complex through which 247 million tons of cargo move each year, according to its website.
+It's unclear who was behind the breach, which appears to be part of a broader espionage campaign. When asked about the incident at a Senate hearing on Thursday, US Cybersecurity and Infrastructure Security Agency Director Jen Easterly said she believed a foreign government-backed hacking group was responsible. 
+Attribution of cyberattacks "can always be complicated," Easterly told the Senate Homeland Security and Governmental Affairs Committee. "At this point in time, I would have to get back with my colleagues, but I do think it is a nation-state actor."
+"The campaign thus far is limited, but we're continuing to work through it and I'm happy to keep you apprised," she told lawmakers.
+The Coast Guard's analysis did not mention a foreign government or the Port of Houston, but Easterly identified the port as the targeted entity. 
+A Coast Guard spokesperson told CNN that "the Coast Guard cannot confirm what entities were behind this recent cyber incident."
+A spokesperson for Port of Houston said, "The Port of Houston Authority (Port Houston) successfully defended itself against a cybersecurity attack in August. Port Houston followed its Facilities Security Plan in doing so, as guided under the Maritime Transportation Security Act (MTSA), and no operational data or systems were impacted as a result."
+The intrusion was part of a broader set of hacks targeting defense contractors, transportation firms and other organizations that US agencies 
+warned the public
+ about last week.
+"We assess that the actors are state-sponsored and that their goal is likely to conduct espionage on behalf of a foreign government," Sarah Jones, senior principal analyst at Mandiant Threat Intelligence, told CNN. "While the nature of the targets certainly aligns with historic Chinese [advanced persistent threat] activity, we have not attributed any of these attacks to Chinese espionage operators."
+In the case of the Port of Houston, the unidentified hackers broke into a web server somewhere at the complex using a previously unidentified vulnerability in password management software at 2:38 p.m. UTC on August 19, according to the Coast Guard report. The intruders then planted malicious code on the server, which allowed further access to the IT system. 
+Beginning about 90 minutes after the initial breach, the hackers stole all of the log-in credentials for a type of Microsoft software that organizations use to manage passwords and access to their networks, according to the report. Minutes later, cybersecurity staff at the port isolated the hacked server, "cutting off unauthorized access to the network," the advisory said. 
+Sean Plankey, a Coast Guard veteran and former senior White House cybersecurity official in the Trump administration, said the quick response to the incident was a sign that the Coast Guard was getting more capable in cyberspace. 
+"Our adversaries know, probably better than most Americans, that our nation's economy runs through our ports," Plankey told CNN. 
+A handful of security incidents in recent years have prompted US officials to focus more on maritime cybersecurity. 
+The Coast Guard in 2019 
+issued a public alert
+ after malicious software "degraded the functionality of the onboard computer system" of a ship bound for the Port of New York and New Jersey that February. While the ship's essential control systems weren't impacted, the Coast Guard found that the vessel lacked "effective cybersecurity measures."
+The US government in January released a maritime cybersecurity plan that set a goal of "closing maritime cybersecurity gaps and vulnerabilities over the next five years."
+Scott Dickerson, who heads the Maritime Transportation System Information Sharing and Analysis Center, an industry threat-sharing hub, said the sector had made progress in raising its cyber defenses in recent years. 
+"Several port communities have established information exchanges, which allow local stakeholders to collaborate more effectively on improving cyber resiliency for the local supply chain," Dickerson told CNN.
+This story has been updated with additional details Thursday.

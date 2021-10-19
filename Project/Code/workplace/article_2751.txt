@@ -1,0 +1,33 @@
+During a news conference detailing her order, Griswold said her staff had inspected the county's voting machines and video surveillance system on Tuesday, but could not "establish a verifiable chain of custody for any of the voting systems components in Mesa County and cannot establish confidence in the integrity or security of those components."
+Griswold went further and accused Peters of having a hand in facilitating the leak.
+"I think this is troubling for the entire state of Colorado, to have someone in a trusted position, literally trusted to protect democracy, allow this type of situation to occur," Griswold told reporters Thursday. "To be very clear, Mesa County Clerk and Recorder allowed a security breach and, by all evidence at this point, assisted it."
+The secretary of state's office began investigating the Mesa County Clerk and Recorder's office on Monday, when staff members first discovered a video online showing login credentials for voting machines.
+Griswold also confirmed that the 21st Judicial District Attorney in Mesa County, Dan Rubinstein, has opened a criminal investigation into the leak.
+Rubinstein confirmed to CNN that his office had been contacted on Tuesday by the secretary of state's office and "was told that they believed that there were potential criminal matters which would be referred to my office for prosecution."
+Stephanie Reecy, a spokesperson for Mesa County, told CNN, via email, that the county's Board of Commisioners will hold an exeutive session Friday to determine what legal course it can take with Peters and her office.
+"A County Clerk in Colorado is an elected position. We are working with legal counsel to determine what authority the Board of County Commissioners has in this matter,"  Reecy wrote. "The Board's immediate focus remains on ensuring a free and fair election process for Mesa County."
+Peters has not responded to repeated inquiries by CNN for comment.
+Tuesday night, while appearing onstage at 
+Mike Lindell
+'s 2020 Cyber Symposium in Sioux Falls, South Dakota, Peters discussed the secretary of state's investigation.
+"I've been persecuted," she told the crowd. "I've been accused of passing down or allowing someone to, uh, expose our passwords in our elections office."
+Without supporting evidence, Peters claimed that Griswold "weaponized her position to attack people that disagree with her" and had targeted her because she is a Republican.
+Griswold's office: 'Non-employee' attended secure meeting
+During its investigation, the secretary of state's office found that a "non-employee" had attended a May 25 "trusted build" meeting where closely guarded voting machine login credentials were visible to attendees. Griswold said her employees had been misled to believe that the "non-employee" in question was a county employee.
+A source briefed on the investigation described the "trusted build" as a routine meeting between county and state officials in a secure setting to update voting machine software. Only the clerk, her office's employees, 
+Dominion Voting Systems
+ staff and representatives from the secretary of state's office were allowed to attend.
+CNN reached out to the "non-employee" for comment, but has not received a response. At this time, the individual does not appear to have a working Mesa County email address.
+Tamper seals and 24/7 surveillance footage are widely used by election officials across the country to ensure "chain of custody" and that no one has improperly accessed or tampered with machines.
+Griswold's order states that video footage from surveillance cameras inside the clerk's office, which should have showed the "trusted build" meeting, was missing.
+"The evidence suggests that the Mesa County Clerk's office directed Mesa County staff to turn off video surveillance of the voting equipment prior to the May 25, 2021 trusted build," the order states. "The video surveillance cameras were not turned back on until August, which is inconsistent with the Department's understanding of the normal course of business practice in Mesa County."
+According to Griswold's order, after the May 25 meeting, tamper seals were not placed on the machines "until 1-2 days after the May 25, 2021 trusted build installation."
+The secretary of state says the login credentials -- unique to Mesa County -- that were present at the May 25 meeting are the same ones seen in the video that was put forth in a Telegram channel affiliated with a leading figure in the QAnon movement.
+The video posted on Telegram claims that the individual who provided the publisher with the material is a Dominion Voting Systems employee. A spokesperson for Dominion tells CNN that that individual is not an employee of their company.
+'Unprecedented in the state of Colorado'
+In an interview with CNN, Griswold said the security breach "is part of the story that's [going on] across the nation" and that its purpose was to make Americans no longer trust in their elections.
+She described the situation as "unprecedented in the state of Colorado."
+"Our expectations of elected officials is to follow the law and follow election rules and protocols," Griswold said, asserting that Peters was undermining faith in elections. "We unfortunately are seeing the clerk spread misinformation about Colorado elections."
+At the Lindell Cyber Symposium, Peters questioned why only the secretary of state's office would have the logins, saying, "That's a question that we need answers to, and we're going to find it."
+Griswold pointed to Peters' actions on May 25 as reason enough why Mesa County -- or any county -- should not have unilateral access to the logins.
+"I think this exact incident is why we have so many protocols and segmented access to election equipment," Griswold said. "No one person should have the keys to the entire system; Tina Peters herself is proving that."

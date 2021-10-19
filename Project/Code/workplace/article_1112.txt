@@ -1,0 +1,16 @@
+The sanctions cut access to US markets for Suex, a cryptocurrency exchange that US officials accused of doing business with hackers behind eight types of ransomware â malicious software that locks computers.
+The Treasury Department also updated its sanctions-related guidance to US businesses to "strongly discourage" firms from paying ransoms to cybercriminals. US officials worry that the multimillion-dollar extortions of major US firms have only invited more ransomware attacks from groups based in Eastern Europe and Russia.
+The news comes as US officials are skeptical that Russian President Vladimir Putin will do anything to rein in cybercriminals operating from Russian soil. On Monday, a grain cooperative in Iowa became the latest US company to suffer from a ransomware intrusion at the hands of suspected Russian-speaking hackers.
+Suex bills itself as an easy way to buy cryptocurrency, which is often difficult to trace, with a credit or debit card. While Suex is relatively obscure in the cryptocurrency market, the Treasury Department estimated that 40% of Suex's transaction history is linked with illicit activity. The exchange did not respond to a request for comment on Tuesday.
+"The impact on the sanctioned exchange will be severe," Tom Robinson, co-founder of cryptocurrency analysis firm Elliptic, told CNN. "Treasury has effectively cut the exchange off from access to the US dollar. Banks everywhere will be on alert."
+The ransomware threat gained national attention in May, when alleged Russian cybercriminals forced 
+Colonial Pipeline,
+ which transports some 45% of all fuel consumed on the East Coast, to shut down for days.
+Colonial Pipeline paid the hackers $4.4 million in cryptocurrency to recover the company's data. The Justice Department 
+seized about $2.3 million
+ of that ransom from the hackers, but officials don't want to see the money leaving corporate accounts in the first place.
+Seeing ransomware as a national security and economic threat, President Joe Biden in June urged Putin to crack down on cybercriminals operating from Russia. However, FBI Deputy Director Paul Abbate said last week that there was "no indication" that Putin had done so.
+On Monday, New Cooperative, a grain distributor with 60 locations in Iowa, confirmed that it was the target of a ransomware attack by a Russian-speaking group known as BlackMatter. Some cybersecurity experts believe BlackMatter is linked to the same group that breached Colonial Pipeline's computers.
+"Out of an abundance of caution, we have proactively taken our systems offline to contain the threat, and we can confirm it has been successfully contained," New Cooperative said in a statement.
+The cooperative declined to comment on the size of the ransom demanded by the hackers. But Recorded Future, a Boston-based threat intelligence firm, said the hackers had demanded $5.9 million, citing transcripts of negotiations between New Cooperative and BlackMatter.
+"We're tracking the ransomware incident, but we're not seeing particular impact [on the cooperative's operations] at this time," Anne Neuberger, a White House deputy national security adviser, told reporters on Monday. "We're in touch with the company and working closely with them."

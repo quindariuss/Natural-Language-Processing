@@ -1,0 +1,17 @@
+"We publish the full data of the police department, including HR, Gang Database, you will find a full range of all data," the group posted on Thursday, adding, "this is an indicator of why we should pay."
+The latest
+ release from the ransomware group, 
+known as "Babuk," raises new concerns about the safety and security risk to officers and others connected to the department. 
+It came days after the 
+group released the personnel files
+ of MPD officers, following through on an earlier threat. 
+At the time, negotiations appeared to break down with the police department making a final offer of "$100,000 to prevent the release of stolen data" in response to a demand for $4 million, according to screenshots reviewed by CNN, as well as posted online by DarkTracer, an account that monitors the dark web.
+A spokesperson for the department confirmed Wednesday that approximately 20 members' information was released through the access obtained from MPD's network by unauthorized parties.
+The department did not respond to request for comment on the additional release. 
+At least 13 other police or sheriff's departments have been affected by ransomware since the start of 2020, five of which have had data stolen and released online, according to Brett Callow, a threat analyst at the security firm Emsisoft. Courts, a state attorney general and multiple law firms have also had data stolen and released, he said. 
+"This is hugely problematic. The incidents put prosecutions at risk and, worse, may even put the lives of officers and civilians at risk," Callow said. 
+In its initial claims, the
+ Babuk group suggested
+ it had obtained information on police department informants and threatened to weaponize that information if the department did not respond within three days.
+The Babuk strain of ransomware was first discovered earlier this year, according to a February threat analysis paper published by the security firm McAfee.
+Little is known about the group behind the malicious software, but it appears to fit the mold of other ransomware attackers in that it primarily targets large, well-funded organizations, the paper said.

@@ -1,0 +1,84 @@
+   
+To justify many of the changes in the law, Texas Republicans are pointing to 2020 election practices in Harris County, which includes Houston, arguing that the county went far beyond the Texas Election Code in allowing drive-thru voting, sending out mail-in ballot applications and allowing voters to register through P.O. box addresses.    
+   
+While Harris County did come under scrutiny for expanding voting access in the wake of the Covid-19 pandemic, a bipartisan, multiagency election security task force 
+found
+ no cases of voter fraud in the county for the 2020 election.   
+   
+Here's a look at the facts around those claims from Texas Republicans:   
+Drive-thru voting    
+Opening drive-thru voting centers was one of the hotly disputed practices that Harris County implemented due to Covid-19.    
+Texas Republicans have argued that the practice is not permitted under the state's election code.   
+   
+"Drive-thru voting has never been allowed in Texas," Texas state Sen. Bryan Hughes told CNN on Monday. "It's not in the election code."   
+  
+Facts First: 
+This is misleading. The Texas code stipulates that polling places should be located inside a building on Election Day, but early voting is allowed within movable structures. The 
+Texas Election Code 
+does not explicitly outlaw drive-thru polling locations.    
+   
+In November, the Texas Supreme Court 
+denied
+ Republican requests to throw out some 127,000 ballots cast through drive-thru voting in the 2020 election.    
+Early voting can take place in any "structure," the definition of which is flexible according to Joaquin Gonzalez, an attorney for the Texas Civil Rights Project, a legal advocacy group.    
+   
+"In looking at the context of 'structure' in other areas, it's broader than just a building," said Gonzalez. "That's actually what the federal court agreed with."   
+   
+Requests to shutdown drive-thru polling locations were rejected by a federal court in Houston, which said that the plaintiffs -- a Republican state representative, two GOP candidates and a conservative activist -- did not have the standing to sue Harris County.    
+   
+The published opinion by US Southern District Judge Andrew Hanen agreed that "structure" was not specifically defined in the Texas Election Code and noted that the code allows for "temporary branch polling places" during early voting. Hanen stated that drive-thru voting was permissible during early voting because tents used at voting locations would be considered "structures."   
+   
+If passed by the Texas House, the proposed legislation would prohibit the use of drive-thru voting by restricting polling locations to buildings and banning the use of moveable structures. SB 7 
+states
+ that "a polling place may not be located in a tent or other temporary moveable structure or in a facility primarily designed for motor vehicles," adding that "no voter may cast a vote from inside a motor vehicle," unless the voters meets the criteria of another section that accounts for disabilities. 
+Ballot applications    
+ 
+Arguing that the "integrity of the elections in 2020" was questioned, Texas Gov. Greg Abbott said that in Houston the "county election's clerk attempted to send unsolicited mail-in ballot applications to millions of voters, many of whom would not be eligible to vote by mail."    
+ 
+Facts First:
+ 
+It's true in that Harris County Clerk Chris Hollins planned to send vote-by-mail applications to all 2.4 million registered voters in the county. Under Texas law only those 65 and older, sick or disabled, confined in jail or out of the county on election day are 
+eligible
+ to vote by mail.  
+  
+ 
+The Texas attorney general 
+sued
+ Hollins for violating Texas election law, alleging that he acted out of his power as county clerk and that mass mailing of ballots would "sow confusion" for voters. The Texas Supreme Court 
+ruled
+ in October that that there was no evidence the pandemic would render the usual distribution of ballots inadequate, ultimately blocking Harris County from sending out applications to all registered voters.    
+ 
+New legislation in the Texas House would make it a felony for election officials to distribute "ballot or balloting materials," including absentee ballot applications, to voters who have not requested them. Texas is one of a 
+handful
+ of states where people do not automatically qualify to vote by mail. If implemented, HB 6 would further reduce the system for mail-in voting in Texas.   
+P.O. Boxes    
+ 
+State Sen. Paul Bettencourt, a Republican, criticized election officials in a March 15 press conference, stating that one of his "pet peeves, and I just can't believe we're still doing this in Harris County, is we're allowing people to be registered to private P.O. boxes."
+   
+"Nobody in this room lives in a 2-inch by 3-inch private P.O. box.," Bettencourt continued. "But in Harris County, 4,880, nearly 5,000 people are still registered."   
+   
+During the midterm elections in 2018, Bettencourt raised similar concerns over the voter roll in Harris County, criticizing a decision by the county's registrar to 
+dismiss
+ a 
+challenge
+ of 4,000 registrations that allegedly used commercial store locations, like UPS stores, as their address.
+ 
+"(W)e have to have a voter roll that functions in Harris County," Bettencourt said at the time. "We cannot conduct an election in the charged atmosphere of 2018 without a voter roll that the public believes in in its integrity."
+  
+Facts First:
+ 
+This needs context. While private P.O. boxes are not accepted for voter registration in Harris County, the Texas Election Code provides that if an applicant does not have a residence address, they are able to use the address at which they "receive mail" with a "concise description of the location of the applicant's residence." 
+ 
+Bettencourt told CNN he is referring to people who register using a commercial postal store address. This is permitted under Texas Election Code.  
+ 
+According to Roxanne Werner, deputy communications director for the Harris County Elections Administrator, voter registration applications in Harris County that list a P.O. Box as an address are not processed. Texans must include a physical address on their voter registration application, in which there is no space to write-in a PO box number. Under address, the application itself says "Do not include P.O. Box."    
+ 
+Store addresses appear the same as any apartment or home address would on voter applications and election officials are unable to challenge a voters' address unless it is clearly a P.O. box, said Werner.  
+ 
+Bettencourt has 
+introduced
+ seven "election integrity" bills to the Texas legislature since March. One of the bills, 
+S.B. 1111
+, aims to eliminate the alleged use of P.O. boxes for registration by making voters provide documentation that they live at their registered address. Under the bill, commercial postal store addresses would be unacceptable.   
+ 
+For those without a physical address, Bettencourt's proposed legislation would require them to provide an affidavit to the registrar saying they have no address and provide "a concise description of the location of the voter's residence."  

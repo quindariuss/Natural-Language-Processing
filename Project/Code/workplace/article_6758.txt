@@ -1,0 +1,22 @@
+The password had been linked to a disused virtual private networking account used for remote access, FireEye confirmed to CNN, and the account was not guarded by an extra layer of security known as multi-factor authentication. 
+Bloomberg
+ first reported the password vulnerability following interviews with Charles Carmakal, senior vice president at 
+Mandiant
+ â the forensic division of FireEye â and Joseph Blount, Colonial's CEO. 
+It is unclear how the attackers obtained the compromised credential. But, the revelation about how hackers could force a critical supply chain company to its knees with something so simple underscores the grave risks posed not only by opportunistic cybercriminals, but also the lax digital hygiene of some major US businesses. 
+US authorities have attributed the pipeline attack to 
+DarkSide
+, a hacking group that emerged last summer offering ransomware as a service. Like many other ransomware groups, DarkSide has targeted large, cash-rich organizations â holding compromised networks hostage until the victims pay a fee. In the case of Colonial, Blount has said he authorized a ransom payment of $4.4 million.  
+Next week, Blount is scheduled to testify before both Senate and House Homeland Security Committees, where he is expected to be pressed on details about the timeline of the attack and Colonial's response.  
+CNN previously reported that on the day the incident was reported, Colonial's "door was wide open," according to a source familiar with the company's cyber defenses at the time. 
+Passwords were a particular vulnerability, the source said.
+Colonial Pipeline did not respond to specific questions about its password security protocol at the time of the ransomware attack, but said that the password reset process and complexity standards are automated. 
+The password that was used was part of a batch of leaked passwords found on the dark web, according to Bloomberg's interview with Carmakal. But it's unclear how the hackers got the credentials for the remote access account.  
+"We don't see any evidence of phishing for the employee whose credentials were used. We have not seen any other evidence of attacker activity before April 29," Carmakal told Bloomberg.  
+Even though the account was no longer in use, hackers were still able to use it to access the company's network, he said.  
+Just before 5 a.m. on May 7, the day before Colonial announced it had been breached, a control room employee saw a note demanding cryptocurrency on a computer, a spokesperson for Colonial confirmed.  
+An operations supervisor began the process to shut down the pipeline and by 6:10 a.m., the shutdown was complete. But the precaution touched off a wave of frustration as consumers were forced to wait in long lines for fuel and compete with panic-buyers who filled jugs and even plastic bags with gasoline, despite pleas from the Energy Department for Americans not to hoard supplies.  
+US authorities later said that while the attack compromised Colonial's IT systems, there was no evidence that its operational systems had been affected.  
+A day later, on May 8, 
+Colonial paid the ransom
+, a spokesperson told CNN. 

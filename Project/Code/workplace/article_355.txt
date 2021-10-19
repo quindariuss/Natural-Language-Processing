@@ -1,0 +1,15 @@
+The FBI and law enforcement agencies in France and Ukraine coordinated the raid, which led to the seizure of $375,000 in cash and two luxury vehicles, and the freezing of $1.3 million in cryptocurrencies, according to Europol. 
+The arrests are a notable win for US law enforcement, which has tried to step up its pressure on cybercriminals based in Eastern Europe and Russia following a series of 
+ransomware attacks
+ that have cost US companies millions of dollars. 
+Europol described the two suspects as "prolific," having demanded between â¬5 and â¬70 million ($5.8 million and $81.3 million) from victims. But a spokesperson for the EU's law enforcement arm declined to identify the two people or what type of ransomware they allegedly used, citing legal reasons and an ongoing investigation.
+"The organized crime group is suspected of having committed a string of targeted attacks against very large industrial groups in Europe and North America from April 2020 onwards," Europol spokesperson Claire Georges said.
+Four FBI personnel were in Ukraine to help coordinate the raid, according to the Europol statement. The FBI did not respond to a request for comment. 
+Mark Arena, CEO of cybersecurity firm Intel 471, said he believed the two people arrested were "affiliates," rather than "core operators," of a well-known ransomware service. 
+"A number of actors use or have used multiple ransomware services, hence we caution against any linking of this action to a single specific ransomware service," Arena told CNN. 
+John Fokker, a former cybercrime investigator with the Dutch police, said that it often takes years for law enforcement agencies to "build a solid case" against ransomware gangs, which publicly boast about their victims but operate in the shadows. In this case, Europol said investigators held a dozen meetings in preparation for the raid. 
+"Ukraine has proven to be willing and committed to arrest ransomware criminals within its borders â something which has been a bigger challenge with Russia," Fokker, who is now head of cyber investigations at McAfee Enterprise, told CNN. 
+President Joe Biden in June urged Russian President Vladimir Putin to crack down on cybercriminals operating from Russian soil, but US officials have been skeptical of Moscow's willingness to do so.
+The White House 
+plans later this month
+ to convene a 30-country meeting to ramp up global efforts to address the threat of ransomware, as CNN first reported. 

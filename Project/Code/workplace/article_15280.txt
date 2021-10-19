@@ -1,0 +1,62 @@
+The 
+computer intrusion campaign
+ that has been linked to Russia has hit multiple federal agencies and the private sector, raising concerns about the security of corporate secrets, government emails and other sensitive data. The Trump administration
+ formally pointed the finger at Russia
+ earlier this month after revelations surfaced in December that hackers had put malicious code into a tool published by SolarWinds, a software vendor used by countless government agencies and Fortune 500 businesses. 
+As Biden officials assume responsibility for investigating the hack campaign, members of Congress, former federal officials and new evidence unearthed by Microsoft this week have added renewed urgency to the search for answers.  
+"This SolarWinds massive breach concerns all of us, and frankly, is not that surprising, given what we have been finding, which is that the federal government is not well prepared to deal with these kinds of breaches," Sen. Rob Portman, Republican of Ohio, said at a hearing this week.  
+In a letter Friday to congressional leaders, Kevin McAleenan, the former acting secretary of the Department of Homeland Security, said it is imperative that 
+Biden's nominee to lead the department
+, Alejandro Mayorkas, be swiftly confirmed. The SolarWinds incident, McAleenan wrote, underscores "the growing need for a renewed focus on our nation's cybersecurity, and in particular the security of our supply chain. In the wake of the SolarWinds breach, DHS needs dedicated and confirmed leadership to work in concert with other government agencies to address this issue immediately â and to ensure we are prepared for potential future attempts." 
+The day after Biden was sworn in, a congressional commission on cybersecurity sent a 
+15-point list of priorities
+ and policy recommendations to the White House, including steps to prevent another government breach.  
+And 
+Microsoft's report on Wednesday
+ further highlighted the sophistication of the attackers, estimating that they may have spent an entire month selecting their targets and developing custom code designed to stealthily compromise each victim. SolarWinds was just one mechanism that the adversary used to gain access to networks, an official from the Cybersecurity and Infrastructure Security Agency said to CNN, emphasizing that other techniques were used to gain access to networks and compromise information as part of long term "intelligence gathering effort."
+Amid growing pressure, the Biden administration is still trying to get up to speed.
+ 
+Efforts by Biden staffers to understand the full extent of the breach were hamstrung before taking office, according to one former senior Homeland Security official. 
+"There is a concern that things could be worse," the former official told CNN. 
+Meanwhile, there are indications that officials have only scratched the surface of the scope and scale, a source familiar with the probe said.  
+Speaking to reporters Wednesday, White House press secretary Jen Psaki said the administration would "reserve the right to respond at a time and manner of our choosing to any cyberattack," but that staffers were only "just getting onto their computers." She declined to answer a question about whether Biden intended to raise the spying issue with Russian President Vladimir Putin. 
+The computer break-ins will be one focus of a forthcoming presidential briefing by the intelligence community, Psaki added.  
+When former President Donald Trump 
+finally weighed in on
+ the massive cyberattack in a pair of tweets in December, instead of condemning the attack -- or Russia -- he downplayed it, criticized the media and baselessly claimed it could have affected US voting machines.
+Biden appears 
+willing to grapple
+ with the espionage effort head-on.  
+"President Biden seems to understand the urgency of this crisis in a way that President Trump did not," said Sen. Mark Warner of Virginia, the top Democrat on the Senate Intelligence Committee. "And in his first days, (he) is moving with fitting speed to investigate it, so that we can take steps to remediate its effects, respond appropriately to Russia, and best determine how to deter and prevent attempts of this kind in the future." 
+But while there is little disagreement among US officials that the intrusion was severe, opinions about a potential response, and what that would look like, vary.  
+A US official told CNN that the evidence currently suggests the hack still qualifies as a highly sophisticated foreign intelligence operation and falls short of an act of cyber warfare -- a nuanced distinction that will factor into any discussions about reasonable response options.  
+But that said, there will almost certainly be a cost imposed for this activity, the official added, noting there is a price to be paid for getting caught, even if the attack technically falls within the lines of foreign espionage.  
+"In all likelihood," the attack was cyber espionage, former 
+Homeland Security acting Secretary Chad Wolf
+ told CNN. At the time he left office earlier this month -- amid an 
+abrupt resignation
+ -- the attackers had not taken any action because of their access into these networks, he said.  
+Gen. Keith Alexander, the former director of the National Security Agency, told CNN that Biden has a range of policy options available to him.  
+"There are ways you can respond by indicting individuals and by diplomatic and economic measures, which they should do," Alexander said, "but any response in cyber in the physical space would probably develop into a bigger attack on us, and we're not prepared to defend against that. The nation is not ready for a cyber engagement of that kind." 
+Alexander added that Congress must pass legislation to enable the public and private sectors to share threat information more easily, and to provide legal immunity to companies that share that data. 
+Biden's response could also be complicated by a shortage of senior personnel. Biden's first confirmed Cabinet pick -- Avril Haines, the director of national intelligence -- 
+acknowledged earlier this week
+ she had not yet received a classified briefing on the hack, underscoring concerns that she and other top Biden officials may already be behind the eight ball due to a difficult transition process.  
+Though she was 
+sworn in Thursday
+ and indicated that the hack was a top priority, other top intelligence and homeland security positions remain vacant.  
+"I've never seen this level of vacancy. It's mind boggling, really challenges continuity," said a DHS official who pointed to CISA as an example of the Trump administration's leadership disarray. "We will have challenges in replacing some talent." 
+Earlier this week, GOP Sen. Josh Hawley 
+blocked quick consideration
+ of Biden's Homeland Security nominee, leaving the third-largest federal department without confirmed leadership. CISA has been led by career official Brandon Wales since Trump 
+fired Chris Krebs
+ shortly after the election. 
+Rob Silvers, a partner at the law firm Paul Hastings, is expected to be tapped to lead CISA in the Biden administration, according to a source familiar with the situation. He served as assistant secretary for cyber policy at DHS during the Obama administration, as well as in other senior roles at the department. Silvers did not respond to a request for comment. 
+"The biggest problem is that you don't have a confirmed secretary," the former senior DHS official told CNN. "That really sets the tone and the trajectory of the ability to start getting things done." 
+During his Senate confirmation hearing Tuesday, 
+Mayorkas
+ said he was intensely studying the SolarWinds attack as a private citizen. If confirmed, he promised to conduct a thorough review of two CISA cybersecurity programs -- Continuous Diagnostics and Mitigation (CDM) and EINSTEIN -- to understand if they are sufficient to stop a threat such as SolarWinds, and if not, to explore additional defenses for the federal government.  
+Wales said CISA "actively engaged with the transition team," including providing 14 briefings focused on the ongoing cyber incident. "We're committed to seamlessly integrating new members of the Biden Administration into the Agency, while continuing aggressive efforts to understand and respond to this complex cyber campaign," he said in a statement to CNN Friday. 
+Given the length of time that the adversary has had access to some networks, remediation -- both short term and long term rebuilding -- will be a protracted process, a CISA official told CNN. 
+CISA already provided ideas to the Biden team to help evolve federal cybersecurity and overcome the challenges identified by the latest incident. Suggestions, the official said, include: funding for CISA to hunt for adversary activity on federal networks; the deployment of new sensors inside federal agencies to detect anomalous activity; and improvements to visibility of the cloud environment, like Office 365.
+Officials are also considering creating a civilian program akin to the Pentagon model that helps ensure third party partners are meeting cybersecurity standards, but that would be a longer term endeavor, the official said.  

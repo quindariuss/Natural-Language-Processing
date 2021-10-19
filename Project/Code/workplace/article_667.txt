@@ -1,0 +1,43 @@
+But it's not Biden officials or Democrats who are pushing the topic most aggressively on Twitter and other platforms. It's Republicans and right-wing media outlets attacking the proposal as a violation of privacy and arguing that the IRS would be improperly spying on everyday Americans' bank accounts.
+Over the past several days 
+Sen. Tom Cotton
+, Fox News host 
+Sean Hannity
+, Sen. 
+Chuck Grassley
+, Rep. Jody Hice, GOP Chairwoman Ronna McDaniel, former US Ambassador 
+Nikki Haley
+ and many top Republicans have tweeted about the proposal, framing it as a big government breach of privacy. This month Mitch McConnell wrote an 
+op-ed
+ for the Courier-Journal warning people not to "let Joe Biden snoop on your bank account."
+The 
+proposal
+, issued by the Treasury Department, would require banks to provide the IRS with more data on accounts that meet a small threshold of $600. Last month, Bloomberg 
+reported
+ that Democrats were considering raising that threshold, possibly to $10,000. 
+Treasury Secretary Janet Yellen said on CNBC Tuesday the information this proposal would provide would be key in helping fill the $7 trillion tax gap.
+But experts aren't so sure the information would be all that useful for the IRS, an agency plagued by budget cuts and outdated technology. Even if Congress passes the proposal, the agency may lack the capacity to make good use of all the new data to find tax evaders.
+ The Proposal
+In 
+May
+, the Treasury Department proposed a plan to "create a comprehensive financial account information reporting regime."
+Under that proposal, banks would be required to submit annual reports to the IRS on "gross inflows and outflows" on accounts -- both business and personal -- with at least $600 or with transactions of at least $600 in a year. Though, as the Bloomberg reporting suggests, Democrats on the Hill are still hammering out the details. 
+Until legislation is passed by Congress, it's unclear how the IRS's authority could expand, what the reporting threshold would be and who would be affected. 
+What information would the IRS receive? 
+During a Senate hearing in late September, Yellen pushed back on claims that the proposal was an invasion of privacy.
+"Banks already report directly to the IRS the interest that they pay on accounts when it exceeds $10," Yellen said. "And this is not a proposal to provide detailed, transaction-level data by banks to the IRS." 
+According
+ to the Center on Budget and Policy Priorities, under the proposal "(t)he IRS will only see two pieces of information: annual gross account inflows and outflows, with no detail on individual transactions."
+Steve Johnson, a professor at Florida State University and scholar on tax procedure, noted that the Treasury's proposal 
+included
+ providing the Secretary with "broad authority to issue regulations necessary to implement this proposal."
+In theory, according to Johnson, the reporting requirement could be expanded from just the two pieces of information -- annual gross inflows and outflows -- "through the backdoor of regulations." 
+Is it useful? 
+Several experts told CNN it is currently unclear how helpful the information would be for the IRS to catch tax cheats currently, but it could be helpful to encourage tax compliance. 
+ 
+"Right now, the IRS clearly does not have the human and financial resources to do anything meaningful with an influx of a lot of information," Johnson said. "(A)part from recent budgetary problems, the single biggest problem the IRS has had, historically, is it's dreadful information systems."
+ 
+The Biden administration wants to give the IRS an additional $80 billion over ten years to increase the agency's workforce by 87,000 new employees across that time period and invest in technological improvements.
+ 
+Garrett Watson, a senior policy analyst at the Tax Foundation, told CNN it would "require years of software updates" in order for the IRS to effectively use the information they want. "That's probably the place to prioritize first and revisiting this (proposal) later, once they actually deploy the software that should make it useful," Watson said.
+ 

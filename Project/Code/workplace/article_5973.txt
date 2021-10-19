@@ -1,0 +1,43 @@
+The attacks have laid bare for President Joe Biden and senior officials
+ the vulnerabilities that exist
+ in private-sector networks to attacks from criminal syndicates based in Russia. 
+They have also exposed the limits of the federal government's ability to prevent major disruptions to American life, at least based on current laws and resistance from some private firms to federal interference.
+As Biden prepares for his first foreign trip, the issue is set to take an outsized role during his talks with European leaders, especially his summit with Russian President Vladimir Putin in Geneva, Switzerland.
+The potential for more widespread shutdowns of various sectors, affecting more Americans or lasting for longer stretches, is a major concern inside the administration that has only grown as the ransomware attacks become more frequent, according to people familiar with the matter.
+Still, the White House stopped short Friday of describing them as "national security threats."
+"I certainly think the President views those as a rising national security concern," press secretary Jen Psaki said. She said the hacks were "an area where we need to continue to keep our focus, keep our assets, focus our energy and brainpower on what we can do to address it."
+A delicate dance
+Biden this week said he was
+ "looking closely" at retaliating in response to a ransomware attack on a major US meat producer, which the White House swiftly identified as having been carried out by a group working from Russia.
+He didn't elaborate, but administration officials and others familiar with the situation say a host of options on dismantling the Russian criminal hacking networks responsible for that attack and others is likely to be included in a "rapid strategic review" Biden ordered recently.
+That includes retaliatory steps,
+ including counterattacks, officials said.
+"We always reserve the option of responding to behavior or actions that are unacceptable and are harmful," Psaki said on Friday. "Some of those responses are seen and some of them are unseen."
+The White House has described the review as focused on disrupting ransomware infrastructure, rallying support among allies to hold countries like Russia responsible for harboring hacking networks and analyzing cryptocurrency transactions to better identify criminals. 
+The US views the ransomware groups operating in Russia as having de facto permission from Moscow, which hasn't taken major steps to crack down on their activity. But US sanctions on Russia have become limited in their efficacy. Since the hackers are not technically sponsored by the state -- unlike those responsible for the SolarWinds attack on government agencies, according to US intelligence -- pinning responsibility on Putin himself is trickier.
+Biden sought to strike a
+ careful balance last month.
+"We do not believe the Russian government was involved in this attack," he said, "but we do have strong reason to believe that the criminals who did the attack are living in Russia."
+Speaking Friday on the sidelines of an economic forum in St. Petersburg, Putin dismissed the accusations that Russia was involved at all.
+"I heard about some kind of meat processing plant, some kind of nonsense," he said. "This is simply ridiculous. The pipeline is just ridiculous."
+Limited options for response
+Law enforcement officials, including those with experience in the federal government, said the options for preventing ransomware attacks are limited.
+"This is not something that the FBI or any single agency is going to be able to solve or prevent. There's no one thing that we can do. There is no silver bullet," said Andrew McCabe, the former deputy director of the FBI and a CNN senior law enforcement analyst.
+"The biggest area where government has fallen behind is imposing meaningful consequences," he added. "These actors are not going to stop and the governments -- i.e., Russia -- that give them safe harbor, that protect them, that allow them to operate from their territory, are never going to step in and stop this until the US government imposes serious impactful consequences. Beyond just sanctions, beyond tough talk. We actually have to start acting against these folks in the space that they occupy."
+The White House has not provided a deadline for its review, though officials said it was being conducted urgently. Biden has told aides he believes the US government needs to be doing more, beyond an executive order that he signed last month, to protect vulnerable systems. 
+That order applied only to federal contractors, but officials said at the time their expectation was that private companies would follow suit.
+Pleas to take ransomware more seriously
+The top White House official responsible for cybersecurity, Anne Neuberger, issued a rare open letter to companies this week calling on them to treat the threat of ransomware attacks with greater urgency.
+"All organizations must recognize that no company is safe from being targeted by ransomware, regardless of size or location," Neuberger wrote. "We urge you to take ransomware crime seriously and ensure your corporate cyber defense matches the threat."
+An attack last month on Colonial Pipeline that resulted in a run on gasoline, prompting fuel shortages along the East Coast, drove home for Biden and officials the gravity of the ransomware problem, one official familiar with the matter said. Biden was at Camp David when the hack was disclosed and received emergency updates from his national security team.
+The issue had been on the President's radar previously, but the speed with which the hack caused disruptions to a major American pipeline startled the President and brought to light the enormous universe of areas that could be affected by ransomware hackers, the official said.
+Ransomware represents an urgent threat to America's national and economic security, Deputy Attorney General Lisa Monaco said Friday on CNBC, calling for US businesses to cooperate more with the FBI and to disclose to law enforcement when they give in to hackers' demands for payment. 
+Monaco's remarks are part of a highly visible effort by the Biden administration to convince the public it is responding aggressively to the ransomware crisis, which has led to widespread disruptions in critical industries.
+Her comments follow claims by
+ FBI Director Christopher Wray comparing ransomware to 9/11
+ and the threat of terrorism. Asked whether she agreed with Wray's characterization, Monaco stopped short of endorsing the analogy. 
+"I absolutely agree we need to treat ransomware and cyberattacks like the national security threat that they are," she told CNBC. "That's why we need to have a national picture, and we need to bring all our tools to bear."
+As Biden prepares to embark on his first overseas trip as president, he is hoping to elevate the issue with key American allies.
+His national security adviser, Jake Sullivan, brought up ransomware in phone calls this week with his German and French counterparts, according to White House statements, a reflection of the heightened urgency around the issue in the White House.
+And it is expected to be a major point of discussion with Putin during the highly anticipated summit in Geneva.
+"Ransomware attacks remind us that the cyber domain is prone to misperceptions and that there are dangerous escalation risks," Eric Green, senior director for Russia on the National Security Council, said on Friday during an event previewing Biden's trip at the Washington think tank Center for a New American Security.

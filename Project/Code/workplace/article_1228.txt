@@ -1,0 +1,16 @@
+Social Security numbers may have been among the exposed data, 
+according to a statement 
+accompanying the notification from Mark McCreary, an attorney for the RGA.
+It was unclear who was responsible for the breach, which exploited Microsoft software, or what the hackers did with any data they may have accessed. Jesse Hunt, an RGA spokesman, did not comment when asked by CNN who carried out the hack or how many people may have had their Social Security numbers exposed. McCreary did not respond to a request for comment.
+It's just the latest fallout from the discovery earlier this year of 
+critical vulnerabilities in Microsoft Exchange Server
+, a popular email software program, that exposed organizations across the US and Europe to hacking. 
+The activity came to light in March when Microsoft said that Chinese government-linked operatives with a history of targeting defense contractors and infectious disease researchers had exploited the software flaws. But after a computer exploit for the flaws became public, cybercriminal groups also took advantage of the situation to target vulnerable organizations with ransomware and other scams. 
+According to the RGA data breach notice, it wasn't until March 10 â eight days after the Microsoft public statement about the hacking campaign â that the RGA became aware of the intruders in its network. The attackers initially breached the network on February 28, according to the RGA, which said that "a small portion of [its] email environment" was accessed. 
+The RGA said that it updated its Microsoft software after the breach. In a notification sent to two Maine residents affected by the breach, the RGA said it was "unable to determine what personal information, if any, was impacted as a result of the incident." 
+The Biden administration in July blamed China for the initial Microsoft breaches, with a senior administration official calling it part of "a pattern of irresponsible behavior in cyberspace" from China. Beijing has denied the accusations. 
+Cybersecurity has continued to be a point of contention between Washington and Beijing. President Joe Biden raised the issue in a September 9 call with Chinese President Xi Jinping, according to a senior administration official.
+At the height of the Exchange Server issue, researchers estimated that tens of thousands of US state and local business were running the vulnerable software. Many of those organizations were able to apply a software update to protect them from compromise. 
+The hacks prompted multiple meetings of the Biden administration's National Security Council, which urged US organizations to raise their defenses. Concerned that more data breaches would follow, the FBI used a court order in April to remove malicious code from hundreds of US computers using Exchange Server.
+"Exchange servers provide attackers with a wealth of information which can be stolen in the form of emails or attachments," said Sean Koessel, co-founder of security firm Volexity. The firm investigated some of the Microsoft hacks, but Koessel said he had no knowledge of the RGA incident.
+"By compromising Exchange Server, attackers are able to go directly to the source, instead of having to compromise a target via other means, such as phishing," Koessel told CNN.

@@ -1,0 +1,57 @@
+The grand jury subpoenas for documents came earlier this month after Durham 
+charged Clinton campaign lawyer Michael Sussmann
+ with lying to the FBI in a September 2016 meeting. During that meeting, Sussmann handed over data purporting to show links between the Trump Organization and Russia's Alfa Bank. That tip became part of the FBI's investigation into Russian interference in the 2016 election but the FBI ultimately couldn't find evidence of a link. 
+In seeking additional documents from Sussmann's former law firm, Perkins Coie, investigators from the special counsel's office appear to be sharpening their focus on the Democratic political machinery during the 2016 campaign and efforts to tie Trump to Russia.   
+Perkins Coie's clients in 2016 included the Clinton campaign and the Democratic National Committee. The law firm also hired on the campaign's behalf a research company that commissioned the dossier from ex-British spy Christopher Steele that alleged that Trump was compromised by Russia.  
+Durham has already accessed reams of the law firm's records, such as billing records, meeting calendars and a log of documents that the firm protects under attorney-client privilege. Some of the newly sought-after documents have been guarded so far by attorney-client privilege. 
+An attorney for the law firm didn't respond to requests for comment.
+Durham's new subpoenas could lead to a court fight over privileged information and draw more about the Clinton campaign into the open.
+While working for Perkins Coie, Sussmann also represented Rodney Joffe, a cybersecurity expert referred to in Durham's 
+indictment
+ as "Tech Executive-1." In 2016, Joffe, who has not been previously identified, worked with researchers to collect internet data about the Trump Organization that Sussmann took to the FBI.  
+Durham's continued use of the federal grand jury in Washington, DC, signals that he could be interested in adding to Sussmann's charges or bringing cases against additional defendants.   
+Still, more than two years after being commissioned by then Attorney General William Barr to investigate whether federal authorities improperly targeted the Trump campaign, Durham has little to show for his efforts. His special counsel probe, which has lasted longer than Special Counsel Robert Mueller's investigation, has so far brought only two lying charges against 
+little-known figures
+, including the case against Sussmann, who has pleaded not guilty.  
+The results have underwhelmed Trump supporters who had hoped former top FBI and intelligence officials would be prosecuted for "spying" on Trump and his campaign.  
+Already the scope of Durham's probe has narrowed after Barr 
+announced last year
+ that investigators had found no wrongdoing by the CIA. Yet Durham has continued his investigation, largely in secrecy, working out of a non-descript office building near trendy Washington's Union Market. 
+The case against Sussmann 
+Durham's single charge against Sussmann relates to a September 2016 meeting he had with then-FBI General Counsel James Baker -- and is largely based on details that appear to rest on Baker's thin memory of the meeting. Baker told Congress in 2018 that he didn't remember Sussmann "specifically saying that he was acting on behalf of a particular client." 
+According to Durham, Sussmann lied in that meeting, hiding from the FBI that he was working for the Clinton campaign, to whom he billed the FBI meeting time.  
+By the time Sussmann met with the FBI, the bureau was already investigating Russian meddling in the 2016 election. But Durham alleges the Clinton campaign's involvement with Sussmann could have made a difference to the FBI, potentially causing the agency to change its approach to investigating the information Sussmann shared. 
+The federal judge overseeing the case, Christopher "Casey" Cooper of the DC District Court, will likely weigh during court proceedings before a trial whether Sussmann disclosing his client to the FBI mattered. If Cooper allows the case to move forward, he could kick that question to a trial jury. 
+In interviews with CNN, several former federal prosecutors criticized Durham's use of what's known as a speaking indictment against Sussmann, laying out a broader case detailing the suspected political motivations and conduct by several people outside of Sussmann's legal practice who aren't actually charged. The former prosecutors say a false statement charge is typically straightforward, and often laid out in a single sheet of paper.  
+"There are two ways to take it: The way charitable and favorable to Durham is this is basically making a case for this being material," said Ken White, a former prosecutor-turned-white collar defense lawyer in Los Angeles who 
+follows Trump-era cases closely
+. "The less charitable interpretation is, this is Durham doing what he's going to do, basically making his pitch for Trump as a victim."  
+Sussmann's legal team, in a statement, has called the breadth of the indictment a political smear. 
+They have already told the court they may challenge parts of his indictment for being irrelevant, in an attempt to keep them from the jury. And they maintain Sussmann committed no crime.
+Dirty Politics
+The larger narrative Durham describes lays out a practice not uncommon in politics and a world that's usually opaque to the general public -- in which campaigns traffic stories that could hurt their opponents, and sometimes try to get law enforcement to open investigations into alleged wrongdoing. At times, the research and authorities' reactions to the research will leak to the news media as part of partisan attempts to affect election outcomes.   
+Lawyers steeped in Washington are often involved in opposition research efforts. Justice Department officials suspected a similar effort was in the works in 2020, when Rudy Giuliani sought meetings with top Justice officials to provide documents related to Joe Biden and his son, Hunter, while providing news organizations some of the same information, according to former Trump administration officials.   
+These practices themselves aren't regulated by the law, and Durham hasn't charged as a crime any actions central to the opposition research itself.   
+"Certainly it's routine for people with contacts in the government to be hired to try to get the government interested into launching an investigation that's advantageous for clients," White said. "It's all part of petitioning the government."   
+John Podesta, 2016 Clinton campaign chairman, declined to comment on the tactics used by the campaign. But he called Durham's indictment of Sussmann an "exercise in diversion and obfuscation." He added that Barr hired Durham specifically to pursue a partisan investigation of Democrats and that after two years "he doesn't have a lot to show for it."  
+An attorney representing the Clinton campaign declined to comment. 
+The tech client 
+Durham's 
+indictment
+ also portrays researchers working with Joffe as harboring doubts about whether the Trump-Alfa Bank information was anything other than innocuous email traffic. But the indictment cites snippets of sentences from emails, leaving out further discussion among the researchers that appears to show they firmly believed the Trump-Alfa Bank connection was suspicious and needed to be investigated.  
+The indictment cites one email conversation in which one of the researchers suggests narrowly tailoring their findings to make a "plausible" case that there was something worth investigating about Trump and Alfa Bank.  The rest of the emailâleft out by prosecutors in the indictment--continues: "If the white paper intends to say that here are communications between at least Alfa and Trump which are intentionally being hidden by Alfa and Trump, I absolutely believe that is the case," according to the email reviewed by CNN.  
+The full emails would likely become a key part of a trial. 
+Elsewhere in the indictment, Durham quotes an email sent to Joffe and others involved in the effort, in which one of the researchers wrote, "Let's for a moment think of the best case scenario, where we are able to show (somehow) that DNS communication exists between Trump and R[ussia]. How do we plan to defend against the criticism that this is not spoofed traffic we are observing? There is no answer to that," the indictment noted. 
+The unnamed researcher continued, "We cannot technically make any claims that would fly public scrutiny. The only thing that drive[s] us at this point is that we just do not like [Trump]."  
+Joffe also wrote that the suggestion of Trump being tied to a Russian bank would be a "jackpot," according to the indictment.  
+But additional emails reviewed by CNN appear to show that after expressing their skepticisms in late August 2016, the researchers expanded the scope of their research and believed they should show their findings to the FBI.  
+In a statement to CNN, Steven A. Tyrrell, Joffe's attorney, said Durham's indictment is "full of cherry-picked portions of emails and selective facts that gratuitously present an incomplete and misleading picture of his actions and role in the events in question."
+Tyrrell said that his client "stands behind the rigorous research and analysis that was conducted, culminating in the report he felt was his patriotic duty to share with the FBI."  
+Trump-Russia Suspicions 
+While the Durham indictment details alleged dirty tricks by the Clinton campaign, there's also a big part of the 2016 story that's missing from it. 
+By the time Sussmann met with the FBI, the bureau was already investigating a Russian hack-and-dump campaign aimed at damaging Clinton. Podesta and the Democratic National Committee were targeted by Russian intelligence agencies and their private emails were released publicly, and a separate Russian bot network fed anti-Clinton propaganda online.  
+Mueller's report found that the Russian effort was aimed at least in part to help Trump win the election, and that Trump's allies welcomed and even encouraged that help. 
+Trump himself fed the suspicions. In July 2016, Trump publicly encouraged Russia to target Clinton. "Russia, if you're listening, I hope you're able to find the 30,000 emails that are missing, I think you will probably be rewarded mightily by our press," Trump said, making reference to thousands of emails that at the time the FBI said had been deleted and not recovered as part of its investigation of Clinton's private email server. The FBI that month had closed the investigation of Clinton and recommended no charges.  
+Durham also doesn't write into his indictment of Sussmann additional reasons why the FBI had suspicions about Trump and Russia. American intelligence was taking in tips on multiple fronts, and ultimately investigators looked at a handful of Trump advisers, including campaign chairman Paul Manafort, as well as foreign policy contacts George Papadopoulos and Carter Page, who had contacts with Russians.  
+Previously, Durham spoke to witnesses and gathered information about the federal government's investigations related to both Papadopoulos and Page. A few of the interviews Durham considered holding never materialized this year, according to several sources familiar with Durham's work. 
+This story has been updated.

@@ -1,0 +1,78 @@
+The saga unfolding in Mesa County, Colorado, centers on Tina Peters, a Republican county clerk and recorder and supporter of former President Donald Trump. Colorado Secretary of State Jena Griswold, a Democrat, has blamed Peters for a leak of closely guarded election passwords that ended up on a QAnon-affiliated Telegram channel. 
+In a statement
+, Griswold's office also said hard drive images from the county's election servers were obtained by conspiracy theorists. One of the hard drive images "is believed to have been taken on May 23," the statement said -- the same day that the secretary of state said that Peters, another staffer and a non-employee entered a secure room where election equipment was stored. The access took place on a Sunday evening, outside of normal business hours, Griswold's office said.
+Griswold told CNN that officials determined who was in the room by reviewing the keycard entry system. 
+"This is a situation of an insider threat," Griswold told CNN. "The Mesa County Clerk knowingly allowed a breach of security, and by all evidence, assisted it."
+"This is part of the effect and perpetuation of the Big Lie," she added.
+The situation in this sprawling county on Colorado's Western Slope has escalated quickly since Griswold 
+first announced on August 9 
+that her office was examining an alleged security breach. The FBI and the Colorado attorney general's office have confirmed to CNN that they are assisting a probe into the matter by the local district attorney.
+Griswold has ordered the replacement of Mesa County's election equipment and on Tuesday took the extraordinary step of announcing she would install a new official to supervise elections -- setting up a clash with the local county board of commissioners, which insists it has the power to name a temporary elections supervisor. 
+No one has been charged with a crime. Peters has not responded to multiple interview requests.
+But as news spread this month of the investigation, Peters was on stage at a South Dakota 
+"cyber symposium" convened by MyPillow CEO Mike Lindel
+l, one of the country's biggest propagators of the false claim that election fraud led to Trump's loss last November. 
+He's now advancing an outlandish claim that foreign hackers infiltrated the computer systems of local election offices to change votes. No proof of election fraud materialized at the event. Images from Mesa County were projected on screens at the conference.
+During a subsequent appearance on Lindell TV, a website tied to the MyPillow CEO, Peters defended her actions and said she did a backup of the voting system to preserve records. But, she said: "I did not post, did not authorize anyone to post any election data or software or passwords online."
+Unprecedented allegations
+In a statement, Griswold alleges that Peters and some of her staff improperly allowed a non-employee to attend to a May 25 "trusted build" meeting, during which closely guarded election machine login credentials were visible to attendees. In public statements, Griswold said her employees had been misled to believe that the "non-employee" in question worked for the county.
+A 
+trusted build
+ is an annual process during which officials upgrade the software on election equipment. 
+The secretary of state's office also says that video surveillance of the Mesa County voting equipment was turned off before the May 25 meeting and the cameras were not turned back on "until well after the trusted build had been completed." 
+As part of its investigation, Griswold's office said its staffers pulled down the images of the hard drives from the file-sharing site, BitTorrent, and "were able to identify Colorado specific 'hashes' or finger prints for software and other information specific to Mesa County."
+In 
+addition to sidelining Peters
+, Griswold has barred two other employees who worked with her in the Mesa County office from administering elections.
+This month's investigation marks the second time state officials have taken action in Mesa County during Peters' tenure.
+In 2020, Griswold's office appointed a special monitor to review Mesa County's practices after Peters' office discovered nearly 600 ballots cast in a fall 2019 election had not been collected from a drop box or counted. 
+At the time, Peters acknowledged the oversight and attributed it to human error.
+Peters, a businesswoman first elected in 2018, survived a recall attempt last year after its organizers failed to collect enough signatures. 
+In her conversation with Lindell, Peters cast herself as defending the integrity of votes in what she called the "last bastion of conservatism" in Colorado. And she complained about being displaced. 
+"The way I feel right now is that the robber has come into my house, and he's still there," she said.
+Matt Crane, a Republican and former Arapahoe County, Colorado, elections clerk who now serves as executive director of the Colorado County Clerks Association, said he's seen no precedent in two decades of election work in Colorado for the "surreal" circumstances playing out in Mesa County. He backs Griswold's investigation.
+In Colorado, where every vote is recorded on a paper ballot, people who want to address voters' concerns about election fraud have a straightforward tool to do so: seek a hand recount of the ballots, he said. 
+"That's the simplest way to validate it," Crane said. "The people spreading disinformation know that, so then the question is: Why do they continue to point at other things?"
+Election issues
+Election watchers say the situation in Mesa County also raises fresh concerns about government officials lending credence to baseless conspiracy theories. The Republican-led Senate in Arizona, for instance, authorized a widely derided "audit" of 2.1 million ballots in Maricopa County and is preparing to soon accept a report on the ballot review from the contractor it hired -- 
+a firm with no experience in election auditing.
+And election experts say they fear that the trend will grow as turnover among the country's election officials accelerates. 
+A recent survey of local election officials found nearly 35% are eligible to retire before the next presidential election in 2024. And nearly one in three local election officials included in a 
+recent survey
+ for the liberal-leaning Brennan Center for Justice say they feel unsafe because of their jobs. 
+In several 
+key battleground states
+, Republicans who have backed Trump's 
+baseless election fraud theories 
+now are running to become election chiefs themselves.
+"If we look around the country and see a huge exodus of election officials because they are tired of being yelled at by the Big Lie supporters, what's going to happen to those empty seats?" said Doug Spencer, an associate professor of law at the University of Colorado and an expert on election law.
+"If we have a thousand people of bad faith get into those offices, then we are kind of in trouble," he said.
+Deep distrust
+The Mesa County controversy also has exposed the deep distrust of last year's election results that persists in parts of the country. Colorado has shifted to the left politically, backing every Democratic presidential nominee starting in 2008. But Mesa County, a community of roughly 150,000 people, remains a Republican stronghold.
+Trump 
+captured nearly 63% of the vote
+ in the county last year to President Joe Biden's 35%. Rep. Lauren Boebert, the firebrand freshman Republican whose congressional district includes Mesa, won the county by a similar margin over her Democratic rival.
+"There's a strong sentiment in this county," Kevin McCarney, the chairman of the Mesa County Republican Party and a Trump backer, told CNN.  "I would say that 30% of Republicans think that this past election was bogus."
+McCarney said he doesn't believe "the game was fixed here in Colorado," but he said he has some lingering doubts about "oddities" in 2020, including Biden's improved performance in Mesa County over Hillary Clinton, the 2016 Democratic president nominee. 
+Biden received nearly 10,000 more votes in the county in 2020 than Clinton had four years earlier. 
+And conspiracy theories surfaced repeatedly 
+during the public comment portion
+ of a recent emergency meeting of the county commission. At the meeting, the panel voted 3-0 to reject Griswold's pick to oversee elections and in favor of their choice, former Colorado Secretary of State Wayne Williams. 
+One woman told commissioners that she heard that 5,000 dead people had cast ballots in Mesa County, and she argued that Mesa County's data had provided the "smoking gun" at Lindell's symposium.
+Others repeatedly mentioned Dominion Systems, the voting technology company targeted by disinformation from Trump and his allies, as a reason to be wary of Williams. As secretary of state, Williams 
+accepted a recommendation 
+from an election review committee in 2015 to adopt Dominion as the state's uniform voting system.
+(Dominion has sued several conservative television networks and 
+figures in Trump's orbit, including Lindell
+, for defamation. The company says Lindell has 
+"maliciously spread false claims."
+ Lindell's lawyer has said his client's claims are protected speech because the election results remain in dispute.)
+Griswold maintains she has the legal authority to name a replacement elections supervisor. Her choice: the county treasurer, Sheila Reiner, who previously served as the county's top election official.
+Reiner and Williams are both Republicans and 
+told a local reporter
+ that they plan to start working together while state and local officials sort out their differences.
+Griswold and County Commissioner Scott McInnis told CNN that both sides were working to strike an agreement to keep the office operating.
+By month's end, the county must replace the equipment Griswold decertified to guarantee its use in a local school board election in November -- an expense that could run into the hundreds of thousands of dollars, McInnis said. 
+Despite the breach allegations, Griswold said no election results have been compromised. 
+"We have so many security redundancies that even with a successful internal threat, it's very likely that we're going to find it, and it's very likely that they are not going to be able to act," she said.
+"No one person has the keys to the castle."

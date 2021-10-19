@@ -1,0 +1,55 @@
+Such vaccine requirements 
+will undoubtedly be challenged in court
+ -- and a few already have. But so far, as long as those vaccine mandates have been crafted with appropriate religious and medical exemptions, courts have been unwilling to intervene to block them.  
+"The overall consensus is that in most situations, mandates are legally permissible," said Wendy Parmet, a law professor and the director of Northeastern University's Center for Health Policy and Law. 
+Whether a vaccine requirement is legal will depend on who is imposing it and how they have shaped it. Mandates that have been rolled out already appear to have been carefully designed with these factors in mind, though there are still some questions of how courts will handle more aggressive government approaches.
+But, big picture, as the Delta variant and mediocre vaccination rates have changed the war on the coronavirus, policymakers have plenty of perfectly legal tools at their disposal for requiring the vaccine. 
+RELATED: Dr. Sanjay Gupta: The importance of being vaccinated
+The 
+most relevant case is a 1905 Supreme Court 
+decision upholding a Cambridge, Massachusetts, requirement that its residents get vaccinated against smallpox. 
+"That case is a real problem for vaccine mandate skeptics," said Nicholas Bagley, a University of Michigan law professor who specializes in administrative and health care law. 
+For employers, almost anything goes for vaccine mandates for workers
+More and more
+ 
+private companies 
+across the country are announcing vaccine mandates
+ every day, and they have plenty of legal discretion to do so. 
+Some companies have instituted straight-up requirements for vaccines for their employees, with those employees refusing to comply being shown the door. Other employers have given workers a choice: get the vaccine, or subject yourself to an onerous set of rules, like weekly tests, mask requirements and social distancing demands. 
+Many public employers, including several federal agencies, are adopting that latter approach.
+"One of the reasons, among many, we are seeing softer requirements -- soft mandates -- from employers, including government employers, at this point is that it minimizes the risk that these requirements will get tied up in the courts," said Lindsay Wiley, a public health law professor at American University Washington College of Law. "I think there is room for employers and government agencies to go further than they are with these soft mandates." 
+Private employers have the most discretion, from a legal perspective. According to Wiley, their main legal constraints are the Civil Rights Act of 1964, which prohibits religious discrimination, and laws that require accommodations for people with disabilities, like the Americans with Disabilities Act, which may limit the questions employers can ask of workers claiming medical exemptions. 
+The US Equal Employment Opportunity Commission 
+put out guidance 
+laying out how employers can require vaccines while complying with those laws. The Justice Department, meanwhile, 
+has announced
+ that, in its interpretation of federal law, employers need not wait for the Food and Drug Administration to give the vaccines its full approval before requiring vaccines for workers (the US' three Covid vaccines have been approved under an emergency use authorization). 
+Employers also may be limited by collective bargaining agreements, but those don't stop employers from implementing vaccine requirements on new or non-unionized employees, 
+as Disney announced on Friday. 
+The other potential curb to an employers' ability to require vaccines would come in the form of laws prohibiting such mandates, as some states have considered implementing. 
+Lots of wiggle room for state and local governments 
+Though they don't have all the discretion that private actors have, public entities have plenty of legal wiggle room for requiring Americans to get vaccinated, at least in certain circumstances. Several state and local governments have announced such requirements for at least some of their employees. 
+"There are some open questions about how much a state government or a local government or even the federal government can do when its' acting as an employer that might be different than how far it can go with respect to the entire population," Wiley said.
+Still, the legal ability for state or local governments to require vaccines in contexts other than employment is well established. There is a history of state or local requirements that students get vaccinated to attend school. Likewise, those governments could institute requirements that participants in other activities, like mass indoor gatherings, be vaccinated. 
+What puts such moves on solid legal ground is the 1905 Supreme Court decision, 
+Jacobson v. Massachusetts
+, that upheld the Cambridge smallpox vaccine requirement. 
+Jacobson
+ was cited by 
+a federal appeals court that on Monday rejected 
+a challenge brought by students to Indiana University's Covid vaccine requirement. 
+Even conservative Justice Neil Gorsuch has 
+signaled
+ that he would vote in favor of the Massachusetts vaccine mandate if the 
+Jacobson
+ case was before the court today. Gorsuch did, however, stress that particularities of how that vaccine mandate was designed; the punishment for not getting vaccinated was just a fine, and the mandate included some exemptions. 
+A New York City measles vaccine mandate 
+upheld by a state court in 2019 
+is another useful example of what courts would be willing to uphold now. New York had a strong case, according to University of California-Hastings College of Law Professor Dorit Reiss, because it targeted the mandate specifically at the neighborhoods where a measles outbreak was raging, and the punishment was a fine, not jail time. 
+"Generally, narrower mandates are probably going to be stronger, legally, than broader mandates, and lesser punishments are going to hold better than more draconian or extreme punishments," Reiss said. 
+Fewer options -- but still options -- for federal policy makers 
+Though the hands of the federal government are tied in some ways, national policymakers still have options for increasing the costs of not getting vaccinated. 
+The executive branch -- without any additional action from Congress -- is the most limited in what it can do, beyond the requirements it's imposed for the workers at its agencies. Given the pushback the US Centers for Disease Control and Prevention has gotten in court for its cruise ship vaccine regulations and its eviction moratorium, it appears extremely unlikely that it or another federal agency could act unilaterally to impose a blanket vaccine mandate.  
+If Congress was to get involved, there are a couple ways the federal government could try implementing a vaccine mandate, though lawmakers "would have to find a way -- find a hook -- to connect that to its existing constitutional powers," Wiley said. 
+Congress' abilities to require vaccines under the Constitution's interstate commerce clause appear to be limited, thanks to the Supreme Court's ruling in the 2012 Affordable Care Act case. But the federal government could explore its authorities under the Constitution's taxing and spending clause. That approach could include creating a tax penalty for the unvaccinated or conditioning federal funding to states on whether those states were implementing a vaccine requirement. 
+"The federal government could do it indirectly pretty easily," Wiley said, "but doing it directly, by saying this is now illegal or you have to pay criminal penalty, as opposed to a tax penalty, would be more difficult for Congress to do." 

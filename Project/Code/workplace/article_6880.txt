@@ -1,0 +1,56 @@
+Food 
+-- A hack of 
+JBS Foods
+, the world's largest meat processor, shut multiple plants over the weekend.
+Fuel 
+-- The 
+Colonial Pipeline hack 
+led to fuel shortages on the East Coast last month. The company has admitted to paying more $4.4 million in ransom, although the FBI has said ransoms of more than $25 million have been demanded.
+Hospitals 
+-- A hack of the 
+Scripps hospital system in San Diego 
+has led to the breach of medical information for more than 150,000 people. The Irish health system was also targeted. More on how hackers target hospitals and first responders below.
+Trains
+ -- A New York City subway system hack from April was 
+reported Wednesday by the The New York Times
+.
+Ferries 
+-- There are also smaller hacks, like 
+the one affecting the ferry system in Cape Cod
+.
+Add those to the 
+previously known hacks that targeted US and state government agencies
+, cities and school districts. Either tied to China, like the subway hack, or Russia, hackers finding support or safe haven in autocratic countries pillaging the West.
+Eyes on Russia. 
+The White House has its eyes on Russia for enabling both the Colonial Pipeline and JBS meat processing hacks. 
+Read CNN's full report on the JBS attack here
+.
+"Harboring criminal entities that are intending to do harm, that are doing harm to the critical infrastructure in the United States is not acceptable. We're not going to stand by that, we will raise that, and we are not going to take options off the table," White House press secretary Jen Psaki said Wednesday.
+President Joe Biden will meet with Putin
+ in Geneva this month and can raise the issue of the hacks.
+Asked Wednesday afternoon whether the US would retaliate against Russia for the attack, he told reporters, "We're looking closely at that issue." As to whether he thought Putin was testing him, 
+the President plainly said: "No."
+This is a business model. 
+But this is larger than a standoff between countries as these criminal hackers target the US. Everything on the internet is at risk.
+"Ransomware right now, this is a business model," Lior Div, CEO of the security firm Cybereason 
+told CNN's Richard Quest
+. "They are in it for the money and they are trying to generate as much revenue as possible for themselves. So as long as people are going to pay, they're going to keep operating in order to generate this massive amount of revenue that they are generating every year."
+That people are paying, then, means this phenomenon is going to get worse before it gets better.
+"I think the takeaway is that if you are a corporate executive or a local government head and you thought that you would be spared, guess what? They went after your gas, they went after your hotdogs, no one is out of bounds here. Everyone is in play in every single corporation," Christopher Krebs, former director of the US Cybersecurity and Infrastructure Security Agency, on recent ransomware attacks, told NBC's Today show.
+Cyber hygiene is necessary. 
+Every US company and organization needs to protect itself, said Eric Goldstein, the current assistant director at CISA, in a statement.
+"Regardless of the ransomware actor or strain, good cyber hygiene is highly effective in reducing the impacts of an intrusion. Our joint advisory released after the Colonial Pipeline attack provides critical guidance for all organizations."
+The hack of the world's largest meat producer, JBS, a Brazilian company whose subsidiaries control a quarter of US beef processing and a large portion of pork processing, was disclosed Tuesday by the White House, which promised to re-focus on the issue and to raise it with Russia, the government thought to be harboring hackers.
+You figure if nine meat plants hadn't gone dark in Arizona, Texas, Nebraska, Colorado, Wisconsin, Utah, Michigan and Pennsylvania, it seems very plausible we likely would never have heard. The US JBS headquarters is based in Greeley, Colorado, and it employs more than 66,000 people. 
+Read about the fallout for them, from CNN's Brian Fung.
+The current discussion in Washington over 
+how to define infrastructure
+ -- is it more than bridges and roads the government should be funding? -- seems small when you consider the prospect of food, fuel and transportation shortages, although the JBS hack is not currently expected to lead to price hikes or shortages, according to industry experts in CNN's reports.
+It's not clear, of course, if the company is paying the ransom. If they're getting back online this quickly, you've certainly got to assume they could have.
+The FBI on Thursday attributed the JBS cyberattack to REvil and Sodinokibi ransomware and praised the meat company for quickly responding to the hack.
+"We have attributed the JBS attack to REvil and Sodinokibi and are working diligently to bring the threat actors to justice. We continue to focus our efforts on imposing risk and consequences and holding the responsible cyber actors accountable," the FBI said in a statement. "A cyber attack on one is an attack on us all." 
+But there are so many hacks we don't hear about.
+The FBI issued an alert in May, for instance, which was published by the American Hospital Association, that a ransomware variant known as Conti had targeted "US healthcare and first responder networks, including law enforcement agencies, emergency medical services, 9-1-1 dispatch centers, and municipalities within the last year." The FBI has identified 16 Conti attacks in the US this year, which are among 400 total known Conti attacks, 290 of which are in the US.
+Ireland's national health service has completely shut its IT system and refuses to pay the ransom, which it said in May has disrupted everything from its 
+Covid vaccine rollout to community health services
+.

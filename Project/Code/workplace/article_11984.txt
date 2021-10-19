@@ -1,0 +1,43 @@
+"This is an active threat," White House press secretary Jen Psaki said Friday. "Everyone running these servers -- government, private sector, academia -- needs to act now to patch them." 
+Psaki's warnings followed a 
+tweet 
+by national security adviser Jake Sullivan Thursday evening that underscored how concerned the Biden administration is. He urged IT administrators nationwide to install software fixes immediately. Sullivan said the US government is monitoring reports that US think tanks may have been compromised by the attack, as well as "defense industrial base entities." 
+Later on Friday, the Cybersecurity and Infrastructure Security Agency underscored the risk in unusually plain language, stating in a tweet that the malicious activity, if left unchecked, could "enable an attacker to gain control of an entire enterprise network."
+In a rare step, White House officials have urged private sector organizations running localized installations of Microsoft Exchange server software to install several critical updates that were released in what information security experts described as an emergency patch release.  
+The cybersecurity firm FireEye said Thursday it had already 
+identified a number of specific victims
+, including "US-based retailers, local governments, a university, and an engineering firm."  
+Pentagon press secretary John Kirby told reporters Friday the Defense Department is currently working to determine if it has been negatively affected by the vulnerability. 
+"We're aware of it, and we're assessing it," Kirby said. "And that's really as far as I'm able to go right now."
+Microsoft disclosed this week that it had become aware of several vulnerabilities in its server software being exploited by suspected Chinese hackers. In the past, 
+Microsoft said
+, the hacker group responsible -- which Microsoft is calling Hafnium -- has gone after "infectious disease researchers, law firms, higher education institutions, defense contractors, policy think tanks, and NGOs." The group in question had not been previously identified to the public, according to Microsoft. 
+The announcement marked the latest information security crisis to hit the US after FireEye, Microsoft and others reported a 
+suspected Russian hacking campaign
+ that began by infiltrating the IT software company SolarWinds. That effort has led to the compromise of at least nine federal agencies and dozens of private businesses. 
+But the malicious activity disclosed this week is not in any way related to the SolarWinds hack, Microsoft said Tuesday.  
+Microsoft typically releases software updates on the second Tuesday of each month. But in a sign of the seriousness of the threat, Microsoft published the patches addressing the new vulnerabilities â which had never been detected until now -- a week early.  
+'We urge network operators to take it very seriously'
+The Department of Homeland Security also released an 
+emergency directive
+ on Tuesday requiring federal agencies to either update their servers or to disconnect them. It is only the sixth such directive since the formation of CISA in 2015, and the second in three months.  
+"We urge network operators to take it very seriously," Psaki said of the directive. The administration is concerned there as a "large number of victims," she added.  
+Once the Hafnium attackers compromise an organization, 
+Microsoft said
+, they have been known to download data such as address books and to gain access to its user account database. 
+One person working at a Washington think tank told CNN both her work and personal e-mail accounts were hit by the attackers. Microsoft sent her a warning that a foreign government was behind it. AOL sent a similar notification for the personal account. 
+The person was then visited by FBI agents who showed up on her doorstep, repeating that this was indeed an ongoing, sophisticated hack by a foreign government and that there is a nationwide FBI investigation underway. 
+The attackers had used their unauthorized access to e-mail the person's contacts, "tailoring [the messages] in a way that the recipient will not doubt I am the sender." The attackers' fraudulent emails sent in the person's name included invitations to non-existent conferences and referred to an article in her name and a book in a colleague's name, neither of which was written by them. 
+Each message, the person said, came with links asking people to click on them. 
+"This is the real deal," 
+tweeted Christopher Krebs
+, the former CISA director. "If your organization runs an OWA server exposed to the internet, assume compromise between 02/26-03/03." 
+In its own advisory, 
+CISA
+ urged network security officials to begin looking for evidence of intrusions as far back as September 2020. 
+The US government's unusually public response to the incident was a surprise to many experts, a reflection of both the Biden administration's focus on cyber issues compared to the Trump White House as well as the scale of the threat.
+"Is this the first time the National Security Advisor has promoted a specific patch?" John Hultquist, the vice president of FireEye's Mandiant Threat Intelligence arm, 
+wondered aloud
+. 
+"When you wake up to the [National Security Advisor] and [Press Secretary] tweeting about cyber," National Security Agency communications official Bailey Bickley tweeted from her personal account, appending a "starstruck" emoji and quoting Sullivan's tweet from the night before. 
+CLARIFICATION: This story has been updated to reflect NSA official Bailey Bickley was tweeting on her personal account and not speaking for the NSA.

@@ -1,0 +1,38 @@
+Chris Inglis is the nominee for the newly-created National Cyber Director role and Jen Easterly has been named to lead the cyber agency at the Department of Homeland Security, the Cybersecurity and Infrastructure Security Agency. Together with Deputy National Security Advisor Anne Neuberger, the trio will lead the country's efforts on cyber policy and security. Inglis and Easterly will have a joint confirmation hearing in front of the Senate Homeland Security Committee, alongside Robin Carnahan, Biden's pick to lead the General Services Administration.
+On the heels of the SolarWinds breach and back-to-back ransomware attacks that crippled critical infrastructure companies -- 
+Colonial Pipeline
+ and 
+JBS Foods
+ -- Inglis and Easterly responded to numerous questions over how to respond to those nation-state and criminal attacks.
+Inglis told lawmakers the threat of ransomware "will not stop on its own accord."
+"It's not a fire raging across the prairie that once it's consumed the fuel, it will simply stop, and we can simply wait for that moment. We must stand in and there's a range of activities that we must undertake," Inglis told lawmakers during his confirmation hearing.
+Like-minded nations need to remove "sanctuary and bring to bear consequences on those who hold us at risk," he said. 
+During their joint hearing Easterly said, ransomware and cyber-attacks broadly are "at a place where nation states and non-nation state actors are "leveraging cyberspace largely with impunity."
+Easterly also expressed support for mandatory private sector reporting to the government on cyber incidents during her confirmation hearing Thursday. 
+"I don't have a sense across the board. But it seems to me that voluntary standards are probably not getting the job done," she said. 
+Last month in response to the attack on Colonial, the Department of Homeland Security mandated that critical pipeline operators comply with several cybersecurity measures, including reporting cybersecurity incidents to the department within 12 hours.
+ "I do think it's important that if there's a significant cyber incident, that critical infrastructure companies have to notify the federal government, in particular CISA," she said.
+Both Easterly and Inglis are well-regarded by public and private industry officials and have deep cybersecurity backgrounds; together with Neuberger, all three are veterans of the National Security Agency. 
+While there's widespread praise for naming such highly-qualified veterans to senior -- and new -- cyber positions, it has raised concerns about potential turf battles as numerous agencies jockey for funds and leadership on cybersecurity.  
+"That's going to have to be worked out when everyone's in place," said Chris Painter, who has held numerous government cyber positions and co-chaired a recently released report by the White House-backed Ransomware Task Force.
+"They tried to define the lanes but all these people have a national security background. They all come from same NSA pedigree. Chris (Inglis) was Anne (Neuberger)'s mentor and that will work well. How all these potential turf battles will work out, who the hell knows."
+"However it works out," Painter added, "the US will have a very experienced and talented crew in place."
+During their confirmation hearing, the ranking Republican on the committee, Sen. Rob Portman of Ohio, pointed to the potential for overlap among several top administration positions -- National Cyber Director, CISA director, deputy national security adviser and chief information security officer at the Office of Management and Budget.
+These positions "have not just roles in cybersecurity but coordinating roles in cybersecurity. I am concerned about the overlap. I am concerned about the duplication leading to a lack of accountability," he said. 
+Pressed by committee Chairman Gary Peters, a Michigan Democrat, on how they would differentiate their roles, Inglis said the National Cyber Director position is primarily intended to create coherence and unity across the federal government.
+Easterly said she sees CISA as the "quarterback" responsible for protecting and defending federal civilian government networks, leading asset response for significant cyber incidents and for sharing information with federal, state, local and private sector partners. 
+She later added that cyber is a "team sport," saying that the agency has a "specific operational mission" to manage and mitigate risk to digital and physical critical infrastructure, working with partners. 
+Whatever power plays arise will face bureaucratic realities already in place: Neuberger's position at the National Security Council means she coordinates the interagency process on cyber and can task responsibilities to the military and intelligence community.  
+The National Cyber Director position, essentially a cyber czar, will drive policy and report directly to the President. The position was created as part of a giant defense bill Congress passed earlier this year before the Biden administration took office. The new role was born from a recommendation of the Cyberspace Solarium Commission -- a group of lawmakers and outside experts established to develop consensus on defending the US against cyberattacks.
+Meanwhile, CISA has been led in an acting capacity by career official Brandon Wales since former director Chris Krebs was 
+fired in the final months of the Trump administration
+ for pushing back against then-President Donald Trump and his supporters' lies about election security. CISA describes itself as the "nation's risk adviser" for the country's cybersecurity and infrastructure and is the lead agency responsible for protecting federal civilian networks.
+If confirmed, Easterly, who previously served as the deputy for counterterrorism at the NSA, would be only the second presidentially appointed director of the young cybersecurity agency.
+Easterly's qualifications are "well above and beyond those stipulated by the law. Her background is incredible," according to prepared remarks from Rep. Mike Gallagher, a Wisconsin Republican, who 
+introduced 
+Easterly at the hearing. 
+CISA, which came to fruition during the Trump administration from a legacy DHS agency, had to carve out its role, alongside more established agencies like NSA, FBI and others. 
+Sen. Angus King, a Maine independent who caucuses with Democrats, co-chairs the Cyberspace Solarium Commission with Gallagher. King introduced Inglis and described him as having a "quiet, but persuasive" leadership style. 
+Inglis served with the co-chairs on the commission, where he played a role in crafting the recommendation for the National Cyber Director, the position he is poised to fill. 
+"All of us have been in meetings where there's one person when they begin to speak, you lean over and say, 'now what are they going to say, because this is going to be important.' That's Chris Inglis," King said. 
+This story has been updated with additional developments Thursday.

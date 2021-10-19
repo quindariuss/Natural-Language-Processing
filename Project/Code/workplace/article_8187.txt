@@ -1,0 +1,16 @@
+ The group announced the contents of the negotiation chat, which show they had demanded $4 million from the police department, according to another screenshot posted online by DarkTracer, an account that monitors the dark web, though CNN could not independently verify the authenticity of that post. 
+On Tuesday, the group said it was posting 20 personnel files of officers after "negotiations reached a dead end" because the amount offered "does not suit us," according to the screenshots independently reviewed by CNN.  
+"If during tomorrow they do not raise the price, we will release all the data," the group added, the posts read.
+Chats appear to show the police department making a final offer of "$100,000 to prevent the release of stolen data."
+"This is unacceptable from our side," the ransomware actor responds. 
+The Metropolitan Police Department confirmed Wednesday that stolen information was released. 
+"Yesterday, approximately 20 members' information was released through the access obtained from MPD's network by unauthorized parties. Additionally, Chief Contee sent an email last week to all MPD members with instructions on how to sign up for a credit monitoring service. There is no further information available to provide at this time," Alaina Gertz, the department's public affairs specialist, said in a statement. 
+Ransomware groups do not typically post transcripts of the negotiations, according to Brett Callow, a threat analyst at the security firm Emsisoft, who said it's unclear why they chose to do so in this case. 
+"MPD is not the first department to have had its data exfiltrated, but the fact that the group is threatening to release details about informants to the gangs on which they're informing makes this incident the most serious by far," he said. 
+Last month, the attackers 
+posted a ransom note
+ claiming they had stolen more than 250 GB of data and threatened to publish the material if they were not paid. The ransomware group Babuk claimed credit for the attack, posting screenshots of the note that were flagged by cybersecurity researchers.
+In its initial claims, the Babuk group suggested it had obtained information on Metropolitan Police Department informants and threatened to weaponize that information if the department did not respond within three days.
+The Babuk strain of ransomware was first discovered earlier this year, according to a February threat analysis paper published by the security firm McAfee.
+Little is known about the group behind the malicious software, but it appears to fit the mold of other ransomware attackers in that it primarily targets large, well-funded organizations, the paper said.
+This story has been updated with comment from the Metropolitan Police Department.

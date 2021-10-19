@@ -1,0 +1,17 @@
+The Federal Aviation Administration review board meeting late last week, which has not been previously reported, is in line with comments made by FAA Administrator Steve Dickson in a new CNN interview. On Saturday, United Airlines Flight 328 made an 
+emergency landing in Denver
+ when its right Pratt & Whitney PW4000 series engine failed with a loud bang only minutes after takeoff.
+"Last week we were already in the process of undertaking activity and analysis to reduce the inspection interval," Dickson said to CNN on Wednesday. 
+The FAA review was prompted after a December failure of a PW4000 series engine on another Boeing 777-200 in Japan. 
+Federal regulators had required thermal inspections of engine fan blades for wear and tear every 6,500 times the PW4000 series engine is turned on, a measure officially known as cycles. Cracks and damage can be so small or hidden that they are not visible to the naked eye.
+The PW4000 series engine that failed Saturday was "far short" of the 6,500 cycles that would prompt the next inspection, the source said.  The National Transportation Safety Board, which is investigating the incident, said it will review maintenance records; it has not specified the number of cycles on the engine since the last inspection.
+The incidents have engine manufacturer Pratt & Whitney recommending significantly more frequent inspections, according to a company service bulletin obtained by CNN. The bulletin, issued two days after the Denver incident, recommended each engine's 22 fan blades be inspected every 1,000 cycles, but it's unclear what the FAA will ultimately require.
+United Airlines Flight 328 rained a mile-long trail of debris over suburban Denver before a successful emergency landing. NTSB Chairman Robert Sumwalt said Monday that he believed one fan blade had 
+broken off the engine due to metal fatigue
+ and that it had struck and broken the adjacent blade. Investigators said one blade had been found inside the engine and the other was found in a soccer field. NTSB said it had recovered the fan blade that failed and shipped it to a Pratt & Whitney lab for analysis. 
+The FAA announced Tuesday evening that it would require seven versions of Pratt & Whitney 4000 engines to
+ be inspected before flying again
+. The thermal inspections involve removing the fan blades from the engine and transporting them to a Pratt & Whitney facility where each blade is pelted with high-frequency vibrations to expose possible flaws.
+"Until we know more about this particular event, we felt that was the safest course of action," Dickson said in the CNN interview. "There's also the possibility that there will be other types of inspections that could be performed going forward using different technologies."
+Dickson said the FAA does not see a pattern of engine failures that should concern travelers and that he would feel comfortable flying on the Boeing 777.  
+"The safest form of travel in human history is commercial jet travel in the United States, or on a US carrier," Dickson said. "And the actions that we are taking at the agency are designed to make sure that it stays that way." 
