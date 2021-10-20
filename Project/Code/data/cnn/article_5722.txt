@@ -1,0 +1,63 @@
+The warning included an accusation that the Chinese safety authority was raising the acceptable limits for radiation detection outside the Taishan Nuclear Power Plant in Guangdong province in order to avoid having to shut it down, according to a letter from the French company to the US Department of Energy obtained by CNN.
+Despite the alarming notification from Framatome, the French company, the 
+Biden administration
+ believes the facility is not yet at a "crisis level," one of the sources said. 
+While US officials have deemed the situation does not currently pose a severe safety threat to workers at the plant or Chinese public, it is unusual that a foreign company would unilaterally reach out to the American government for help when its Chinese state-owned partner is yet to acknowledge a problem exists. The scenario could put the US in a complicated situation should the leak continue or become more severe without being fixed. 
+However, concern was significant enough that the National Security Council held multiple meetings last week as they monitored the situation, including two at the deputy level and another gathering at the assistant secretary level on Friday, which was led by NSC Senior Director for China Laura Rosenberger and Senior Director for Arms Control Mallory Stewart, according to US officials.
+The Biden administration has discussed the situation with the French government and their own experts at the Department of Energy, sources said. The US has also been in contact with the Chinese government, US officials said, though the extent of that contact is unclear.
+The US government declined to explain the assessment but officials at the NSC, State Department and the Department of Energy insisted that if there were any risk to the Chinese public, the US 
+would be required to make it known
+ under current treaties related to nuclear accidents. 
+Framatome had reached out to the US in order to obtain a waiver that would allow them to share American technical assistance in order to resolve the issue at the Chinese plant. There are only two reasons why this waiver would be granted, and one is an "imminent radiological threat," the same verbiage used in the June 8 memo.
+The memo claims the Chinese limit was increased to exceed French standards, yet it remains unclear how that compares to US limits.
+"It is not surprising that the French would reach out," according to Cheryl Rofer, a nuclear scientist who retired from Los Alamos National Laboratory in 2001. "In general, this sort of thing is not extraordinary, particularly if they think the country they are contacting has some special ability to help."
+"But China likes to project that everything is just fine, all the time," she added.
+The US could give permission for Framatome to provide the technical assistance or support to help resolve the issue, but it is the Chinese government's decision whether the incident requires shutting down the plant completely, the documents obtained by CNN indicate.
+Ultimately, the June 8 request for assistance from Framatome is the only reason why the US became involved in the situation at all, multiple sources told CNN.
+However, the Taishan Nuclear Power Plant published a statement on its website Sunday night local time, maintaining that environmental readings for both the plant and its surrounding area were "normal." 
+The two nuclear reactors in Taishan are both operational, the statement said, adding that Unit 2 had recently completed an "overhaul" and "successfully connected to the grid on June 10, 2021." The statement did not define why or how the plant was overhauled.
+"Since it was put into commercial operation, the Taishan Nuclear Power Plant has strictly controlled the operation of the units in accordance with operating license documents and technical procedures. All operating indicators of the two units have met the requirements of nuclear safety regulations and power plant technical specifications," the statement noted. 
+In a separate statement Friday, hours after CNN first reached out for comment, Framatome acknowledged the company "is supporting resolution of a performance issue with the Taishan Nuclear Power Plant in Guangdong Province, China." 
+"According to the data available, the plant is operating within the safety parameters. Our team is working with relevant experts to assess the situation and propose solutions to address any potential issue," the statement added.
+Framatome would not directly address the content of the letter to the Department of Energy when asked by CNN.
+The letter comes as tensions between Beijing and Washington remain high and as G7 leaders met this weekend in the United Kingdom with China an important topic of discussion. There are no indications the reports of a leak were discussed at a high level at the summit. 
+French utility company Electrictie de France (EDF) said in a statement it has been informed of an increase concentration of  "noble gases in the primary circuit" of reactor number one of the Taishan nuclear power plant.
+EDF holds a 30% stake in the company with Chinese state energy company China General Nuclear Power Group in TNPJVC, which owns and operates the power plant in southern China.
+EDF says "the presence of certain noble gases in the primary circuit is a known phenomenon, studied and provided for in the reactor operating procedures," but did not elaborate on gas levels.
+Later on Monday, a spokesperson for EDF said the increased levels of radiation were caused by a "degradation of the housing of the fuel rods."
+The spokesperson affirmed that the levels of radioactivity observed at the plant were below the threshold stipulated by the Chinese authorities, adding that the affected housings are the first of three containment barriers between the rods and the atmosphere. 
+The spokesperson noted that the risk of a potential leakage in the rod housing was first discussed following a planned refueling outage in October 2020 after initial measurements led to suspicions of a "lack of tightness" in the housings.
+However, the spokesperson stressed that without a full analysis, it is too early to confirm whether a complete shutdown of the reactor is needed, adding that EDF currently has no information regarding the origin of the rod housing degradation. 
+CNN has reached out to the Chinese authorities in Beijing and Guangdong province, where the plant is located, and the Chinese embassy in Washington, DC. None have responded directly, though China is amidst a three-day national holiday that runs through the end of Monday.
+A warning from a French nuclear company
+The issue first emerged when Framatome, a French designer and supplier of nuclear equipment and services that was contracted to help construct and operate the Chinese-French plant, reached out to the US Department of Energy late last month informing them of a potential issue at the Chinese nuclear plant.
+The company, mainly owned by EDF, the French utility company, then submitted an operational safety assistance request on June 3, formally asking for a waiver that would allow them to address an urgent safety matter, to the Department of Energy, warning American officials that the nuclear reactor is leaking fission gas.
+The company followed up with DOE on June 8 asking for an expedited review of their request, according to a memo obtained by CNN. 
+"The situation is an imminent radiological threat to the site and to the public and Framatome urgently requests permission to transfer technical data and assistance as may be necessary to return the plant to normal operation," read the June 8 memo from the company's subject matter expert to the Energy Department.
+Framatome reached out to the US government for assistance, the document indicates, because a Chinese government agency was continuing to increase its limits on the amount of gas that could safely be released from the facility without shutting it down, according to the documents reviewed by CNN.
+When asked by CNN for comment, the Energy Department did not directly address the memo's claim that China was raising the limits.
+In the June 8 memo, Framatome informed DOE the Chinese safety authority has continued to raise regulatory "off-site dose limits." It also says the company suspects that limit might be increased again as to keep the leaking reactor running despite safety concerns for the surrounding population.  
+"To ensure off-site dose limits are maintained within acceptable bounds to not cause undue harm to the surrounding population, TNPJVC (operator of Taishan-1) is required to comply with an regulatory limit and otherwise shut the reactor down if such a limit is exceeded," the June 8 memo reads. 
+It notes that this limit was established at a level consistent with what is dictated by the French safety authority, but "due to the increasing number of failures," China's safety authority, the National Nuclear Safety Administration (NNSA) has since revised the limit to more than double the initial release, "which in turn increases off-site risk to the public and on-site workers."
+As of May 30, the Taishan reactor had reached 90% of the allegedly revised limit, the memo adds, noting concerns the plant operator may be "petitioning the NNSA to further increase the shutdown limit on an exigent basis in an effort to keep running which in turn would continue to increase the risk to the off-site population and the workers at the plant site." 
+The NNSA is China's nuclear safety regulatory authority. It oversees the implementation of safety standards at facilities like Taishan.
+The US State Department came into possession of the June 8 letter and immediately began engaging with interagency partners and with the French government, State Department officials said.   
+Over the course of 48-72 hours, the US government has been in repeated contact with French officials and US technical experts at DOE, State Department officials said, noting that this flurry of activity was due to the June 8 letter. 
+Subsequently, there were several urgent questions for the French government and Framatome, they added. CNN has reached out to the French embassy in Washington for comment.
+Still, Rofer, the retired nuclear scientist, warns that a gas leak could indicate bigger problems. 
+"If they do have a gas leak, that indicates some of their containment is broken," Rofer said. "It also argues that maybe some of the fuel elements could be broken, which would be a more serious problem." 
+"That would be a reason for shutting down the reactor and would then require the reactor to be refueled," Rofer told CNN, adding that removing the fuel elements must be done carefully. 
+For now, US officials do not think the leak is at "crisis level," but acknowledge it is increasing and bears monitoring, the source familiar with the situation told CNN. 
+While there is a chance the situation could become a disaster, US officials currently believe it is more likely that it will not become one, the source added.  
+China has 
+expanded its use of nuclear energy
+ in recent years, and it represents about 5% of all power generated in the country. According to China Nuclear Energy Association, there were 16 operational nuclear plants with 49 nuclear reactors in China as of March 2021, with the total generation capacity of 51,000 megawatts. 
+The Taishan plant is a prestige project built after China signed a nuclear electricity generation agreement with ÃlectricitÃ© de France, which is mainly owned by the French government. The construction of the plant started in 2009, and the 
+two units started generating electricity in 2018 and 2019, respectively
+. 
+The city of 
+Taishan
+ has a population of 950,000 and is situated in the southeast of the country in 
+Guangdong
+ province, which is home to 126 million residents and has a GDP of $1.6 trillion, comparable to that of Russia and South Korea. 
+CORRECTION: A previous version of this story incorrectly described the National Nuclear Safety Administration (NNSA). It is China's nuclear safety regulatory authority.

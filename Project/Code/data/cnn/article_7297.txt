@@ -1,0 +1,19 @@
+"Since this incident began, we have been clear that our focus was on the safe and efficient restoration of service to our pipeline system," the company said on 
+Twitter
+. It had launched an
+ initial restart on Wednesday
+ following the shutdown triggered by 
+the ransomware attack
+.
+Last week's complete shutdown of the crucial pipeline led to 
+panic-buying and widespread gas station outages
+ in the Southeast and prompted oil industry executives to warn that gas hoarding was worsening the supply crunch. The pipeline, responsible for carrying fuel from refineries along the Gulf Coast to New Jersey, provides nearly half the gasoline and diesel consumed by the East Coast, making it perhaps America's most important pipeline.
+The company said its team "worked safely and tirelessly around the clock" to restore operations and thanked the White House, Department of Energy, Department of Transportation, the FBI and other government agencies for their support.
+After launching the initial restart of its operations Wednesday evening, Colonial had warned it would take several days for service to return to normal. As of Friday, gas station outages hitting many Southeast states began to ease slightly, though they remained significant. 
+President Joe Biden and Energy Secretary Jennifer Granholm had predicted a "return to normalcy" by the end of the weekend. But the 5,500-mile long Colonial pipeline flows at 5 miles per hour, and 
+Platts analysts said it could take days or even weeks 
+for gasoline, diesel and jet fuel to flow through to most places and refill nearly empty storage tanks.
+"We recognize the critical nature of our system to millions of Americans," Colonial said Saturday, adding that the markets it serves are now receiving product from the pipeline. 
+The company also claimed that has "invested meaningfully in IT and cybersecurity" and has increased total spending on its IT program by more than 50% since 2017.
+CNN reported
+ Thursday that Colonial Pipeline paid ransom to the cyber criminal group responsible for the attack as it sought to retrieve stolen information. Sources familiar with the incident told CNN that DarkSide hackers demanded nearly $5 million from Colonial Pipeline, but could not say how much the company paid nor when the payment was made.

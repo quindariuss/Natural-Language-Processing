@@ -1,0 +1,28 @@
+"Part of the challenge is that you can only secure what you can see," he said, testifying before the Senate Homeland Security Committee. Over the past decade, the system of protection has largely relied upon sensors deployed at the perimeters of networks and upon detecting "known malicious activity," Wales added. 
+Adversaries have advanced and now move from server to server, mostly located in the United States, designed to "ensure that we don't know where they're coming from," Wales said. "And our traditional systems, our traditional protection systems are unable to stop them," he added.. 
+His comments follow two major cyber security incidents in recent months with the SolarWinds breach that compromised nine federal agencies as well dozens of private businesses. On top of that, last week the Biden administration warned Friday that organizations face enormous risks from the recently disclosed Microsoft Exchange vulnerabilities that have affected thousands of private organizations.
+The US has said Russia was likely behind the SolarWinds breach and CNN has reported the Biden administration is 
+preparing to impose sanctions
+. Experts have said Chinese hackers were responsbile for the 
+Microsoft Exchange breach
+ but the US has not accused anyone to date.
+Wales told lawmakers that the US needs to deploy different types of systems, looking inside of federal networks, not just the perimeter.
+The agency is working to advance its efforts on this front with
+ funds provided in the Covid-19 relief
+ bill, which included $650 million for CISA's cybersecurity risk management programs.
+For example, Wales said, when CISA wants to know how many SolarWinds devices are on federal networks, CISA has to do a data call. "CISA does not have access into those," he said. 
+But agencies are required to report to CISA if there is a cyber incident. 
+The federal government is also working to enhance supply chain security for the critical software and products that the federal government purchases, he said. 
+"There's just there's a lot of work to do across the board," he said. 
+Federal agencies still dealing with SolarWinds fallout
+During the hearing focused on the SolarWinds supply chain hack, Committee Chairman Sen. Gary Peters, a Democrat from Michigan, said foreign adversaries, like China and Russia, continue to exploit US cyber vulnerabilities to access confidential and classified information and disrupt government operations.
+"Unless our capabilities are able to match the threats we face, American networks and supply chains remain at risk," he said.
+Wales testified that federal agencies impacted by the SolarWinds breach are continuing to deal with the fallout from the intrusion. 
+"The majority of agencies have been progressing in their initial response and remediation work," said Wales, when asked about assurances that the SolarWinds malware has been removed from all federal systems.
+However, he warned that an "incident of this significance is going to take time." 
+The computer intrusion campaign linked to Russia hit multiple federal agencies and the private sector, raising concerns about the security of corporate secrets, government emails and other sensitive data. 
+"In many cases, agencies are going to want to put in place more, stronger protections and better harden their systems and improve their defenses. And as they do that, over time, you will gain increasing confidence that the adversary no longer has the ability to access. and is no longer present inside of those systems," he said. 
+Last week, on a call with reporters, a senior administration official outlined 
+several steps the Biden administration plans
+ to take in response to the SolarWinds and Microsoft Exchange security incidents, but warned that a direct answer to the SolarWinds hackers is still weeks away.
+The nine federal agencies that were compromised by the SolarWinds intrusion have undergone a four-week review with some still reviewing their systems to be sure that the foreign adversaries have been completely evicted, the official said. Those that haven't finished their reviews are expected to be completed by the end of the month.

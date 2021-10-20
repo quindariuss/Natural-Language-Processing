@@ -1,0 +1,97 @@
+A version of this story appeared in CNN's What Matters newsletter. To get it in your inbox, sign up for free 
+here
+.
+An 
+influential coronavirus model
+ from the Institute for Health Metrics and Evaluation at the University of Washington projects that daily deaths and infections will trend down in the US in the coming months -- but that's conditioned on some key factors.
+We posed a few questions about where the pandemic is headed to 
+epidemiologist Ali Mokdad
+, a professor of health metrics sciences at the IHME. 
+The conversation, conducted via Zoom and lightly edited for flow, is below:
+CNN: 
+Can you walk me through what the 
+model's forecasting as far as daily deaths
+? It looks like it's going to continue to drop at a relatively steady rate, and then it can splinter in a few different directions.
+AM: 
+What we are projecting right now, if mobility continues to stay level or come down and if mask wearing stays very high and goes up, then cases will keep declining with immunization all the way until next winter.
+We predicted a bump in this month and in April simply because of the new variant, B.1.1.7. We knew that it would come in. We also predicted a bump because many Americans told us in surveys -- 25% of Americans -- said once they get the vaccine, they're not going to be wearing the mask.
+So we are taking into account that mask wearing will come down and we've seen it come down slowly in the United States. So that's very important to keep in mind.
+What does it mean for Americans? We're heading into summer. The vaccines are doing a great job. They're effective and they're preventing infections. The warm weather and the vaccines are helping us. Our behavior is hurting us. That balance will dictate what happens in the future. 
+Conditionally, right now, if Americans keep up wearing the mask and keep limiting the mobility, we should see a decline all the way to the next winter. Why next winter? It's a seasonal virus. Next winter, we're going to have a surge. There is no way to avoid it. Like the flu, it's going to come up again.  
+It's going to come up again. But what will determine how big that spike is, is what number we start from. So if we control it in summer, we will have a mild winter. We have to increase the mask wearing in winter. It's very important. You may have to beef it up to 95% and the vaccines will help us to reduce mortality and admissions to the hospital because they're very effective.
+One thing that will slow again with conditional projection, one thing that will slow everything out is having a new variant that would make the vaccines less effect. So we start all over again. 
+CNN
+: 
+How much of a role have the 
+vaccines
+ played in getting us to this point?
+AM: 
+We started in December 14 vaccinating and we didn't have enough vaccines. I mean, it takes some time to show it, but right now we are seeing a huge impact of the vaccine among people who have been vaccinated, especially fully immunized.
+We're seeing a decline in the severe cases, mild or severe. We're seeing a decline in hospitalization and of course, a decline in mortality. So the high risk group, we're seeing a decline.
+CN
+N:
+ I'm curious if vaccine hesitancy is built into your model and how that it might affect US life if we get to a point where supply far outstrips demand?
+AM: 
+Yes. So we are building into our models vaccine hesitancy. And we do it by state, of course.
+Vaccine hesitancy right now is about about 25% of Americans. It varies by state. And yes, we are having a steady supply of vaccines. And we are expecting -- based on the data we have -- that we should receive about 5 million doses a day in the second part of April. So we should have plenty of vaccines. Sometime by the end of April, we will have more vaccines than we have takers. And that's what we are very much concerned about.
+So in one way, we're afraid that we will have more supply than demand. And we've seen it in some states by the way. We've seen it in some states, and I'll be frank, we've seen it right now in some red states.
+So yes, we have to deal with it. And I'm very much concerned about vaccine hesitancy in the US. The positive news is these vaccines are highly effective. The ones we have in US, we haven't seen any side effect of significance to scare us.
+I mean, AstraZeneca is a totally different story. We don't have AstraZeneca. And I'm looking right now at the numbers. I'm assuming in April, by the end of April, each one of us -- you and I -- will know somebody who has been vaccinated and they're still around and nothing happened to them and their DNA was not changed. So people would be more encouraged. And it's on us in the scientific community to get that information as fast as possible.
+We are seeing a decline in hospitalization among the elderly. We're seeing an increase among the young. I mean, it's clear. The data is telling us these vaccines are working. They're effective, they're safe. So I'm hoping people will change their mind. But we are a divided country, unfortunately.
+CNN: 
+What if 
+vaccine hesitancy 
+is higher -- 30%, 35% or higher -- how does that change the picture going into the summer?
+AM: 
+Big problem. Remember, we need herd immunity. So we need at least 75%, 80% of Americans to get vaccinated right now, simply because the vaccines are authorized for adults 16 and above or 18 and above.
+We have already 25% of our population not eligible for the vaccine. I mean, we're already starting without hands tied. Our hands are tied already. So we want people who are eligible for the vaccine, all of them, to take it.
+We can't afford to have, you know, 45% of them saying no. What's it mean? It means the virus is circulating. It means the mutations are happening. It means we may see a mutation that will make the vaccines less effective. 
+CNN:
+ 
+You bring up a sort of nightmare scenario where not enough people get vaccinated, the virus continues to wash through parts of the population, and the virus mutates to a point where our vaccines are less effective and we are back to square one. How likely is something like that?
+AM:
+ It's possible. I mean, I don't want to scare the public, but look at it. When the Brazilian and South African (variants) emerged we were worried and we lost sleep. And we're still losing sleep. 
+We've seen it with AstraZeneca in South Africa, 10% effectiveness. So we are very much concerned about it. We're seeing already signs of it, lucky for us in the US, that mRNA vaccines are much better and they're doing a much better job.
+So to plan for the worst case scenario, we need a booster. We know Moderna and Pfizer are already modifying the vaccine. So somebody like me who got two shots a while back, I need to take the booster before winter. For you, who didn't get the vaccine because of your age, when you get the vaccine, you get the new one before winter. So we have to stay ahead of it. In order to stay ahead of it, we need to know what's circulating at home and what's circulating elsewhere. 
+CNN: 
+And that could be something we do indefinitely?
+AM: 
+Yes. Until we have a handle. Right now, remember why we are concerned. We don't have an effective medication for Covid-19. We don't. 
+The only thing we have in our hands right now is vaccine. And yes, our physicians have much more experience now dealing with Covid-19. They know the science, they know what oxygen. We are able to get more oxygen right now without putting a tube. We are able to anticipate blood clots, we're able to use a lot of things right now. We know the disease, but we don't have medication for it yet. 
+CNN:
+ 
+I want to ask about 
+some states like Texas 
+that have rolled back mitigation measures essentially at the first hints of good news. How is that affecting our country's progress?
+AM:
+ Again, the country is divided and that's a political decision and not a scientific decision. I mean, let's be quite honest about it. We have to speak up. I think we have to speak up even more than ever before.
+I don't need a mask mandate to wear a mask. Many people don't need a mask mandate to wear a mask. We know that's the right thing we need to do. We want the mask mandates for the people who don't want to wear a mask. That's the biggest, important point. And what's really frustrating, quite honestly, is the same people making the same mistake again and again. 
+CNN:
+ 
+So regardless of what state you're in, what should people be doing as they wait to get vaccinated?
+AM: We should wear a mask, definitely wear a mask to protect ourselves and others. If you are wearing a mask already today, please upgrade your mask. Whatever mask you are wearing, upgrade it. I double mask when I go out. 
+I keep a safe distance from everybody. Even when I'm in stores -- someone's ahead of me? I stay away from them. And that's what the public has to do. Let's wear a mask, watch our distance, wash our hands.
+Now, it takes two. Government also has to be responsible. If I decide in my state to do it the right way and live healthy and protect myself and protect my family and protect people who may come in contact with me, the laws and the city have to help me to do so. 
+CNN: 
+Some people are going to hear what you just said about continuing to wear a mask, continuing these best practices, and say: 'Why are we even bothering with this? These vaccines are extremely effective.' What do you say to someone who thinks that?
+AM:
+ No. Because not everybody has been vaccinated, right? We have a long way to go. We're not vaccinating our children. This is our future. How can we protect our children until they are allowed to take a vaccine? We have to live with this virus and we have to contain our urge to go back to normal. 
+People have lost their lives, people have died, people are still suffering from Covid-19, even after they left the hospitals, we owe it to them to do it right. 
+We have to do it. We're not out of danger. And yes, when everybody is vaccinated, that's totally different story, but we are not there yet.
+CNN: 
+What level would you like to see vaccinated before you can responsibly begin to peel back some of these public health measures?
+AM: 
+In winter, we need 80% of the people to be vaccinated. In summer, we may get away with like 60% or 70%, because, simply, we are doing our activities outdoors. 
+CNN:
+ I
+ have to imagine this is going to be a pretty heavy lift from a public health messaging perspective. If people can safely take off their masks this summer and go outside and do things, and then they're told to put it back on in the winter, that's going to be really challenging for a lot of people.
+AM:
+ 
+In all my interviews I'm saying masks will be with us seasonally. So yes, until we get rid of Covid-19 totally -- it's not circulating elsewhere -- we may have to wear a masks seasonally. 
+CNN:
+ 
+You've obviously been tracking this since the start, I'm curious what your mindset is overall about where we're headed?
+AM:
+ You know, I'm by nature optimistic, but I'm really concerned.
+What I see right now -- I'm concerned about the political decisions being made prematurely. I'm afraid of setbacks. I'm really concerned.
+I'm optimistic at the end of the day, we will get there, but there are mistakes that are being made right now. And I'm really concerned. 

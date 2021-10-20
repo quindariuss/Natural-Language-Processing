@@ -1,0 +1,21 @@
+The state Senate has been 
+sparring
+ with Maricopa County officials who didn't comply with subpoenas to release certain information related its voting system following the presidential election. 
+Fueled by former President Donald Trump's 
+claims about widespread fraud
+ in the 2020 election, Arizona state Senate Republicans demanded a hand count of the results in Maricopa County by a third party
+ 
+that began in April.
+Maricopa County's Board of Supervisors on Friday agreed to provide the materials in question to a "special master," who will hire experts to review the records and provide information to the state Senate. Former Arizona Republican congressman John Shadegg will fill that role.
+Florida-based company Cyber Ninjas, conductor of the election audit, has 
+no experience
+ auditing elections, and its chief executive officer promoted Trump's conspiracy theories about the election on social media.
+The settlement essentially "keeps county routers and other sensitive materials out of the hands of the Senate's contractor, Cyber Ninjas," the board said in a news release Friday. "The agreement also protects taxpayers and ends a legal dispute over the Senate's ongoing election review by bringing the County into full compliance with outstanding subpoenas." 
+"The Cyber Ninjas will never be able to touch the routers or access our data," Maricopa County board chairman Jack Sellers said in a written statement. "An independent third party can confirm what we've always said: the election equipment was not connected to the internet and no vote switching occurred."
+The board's hands were tied when the Arizona attorney general imposed a September 27 deadline to meet the requirements of the state Senate's subpoenas or risk losing $676 million in shared state sales tax revenue, the board said in the statement.
+"Under threat of losing hundreds of millions of dollars in revenue sharing, today Maricopa County settled with the State Senate, in a victory for election integrity and the Arizona taxpayer," state Senate President Karen Fann said a statement. 
+Fann, a Republican, added that the county will cover Shadegg's costs to conduct the review. Shadegg may hire one to three computer technology experts to respond to the state Senate's questions, according to the agreement. 
+Further, the agreement limits the Arizona Senate's questions to the county's routers and splunk logs related to the November general election. 
+Arizona's Senate had issued subpoenas asking Maricopa County for a slew of information, including documents, passwords, security information, changes of voter registration records, signed ballot envelopes or images, documents related to any breaches of the election system, information about changes in voting records, county routers and IP addresses and computer logs from two months before and three months after the election.
+But the county had declined sharing some materials due to security concerns. 
+"The Senate will finally get the answers to questions asked for in subpoenas issued to the County months ago," Fann said.

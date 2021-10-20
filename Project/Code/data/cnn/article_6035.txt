@@ -1,0 +1,21 @@
+On Tuesday, the White House disclosed that JBS, a meat processing company, was a victim of a ransomware attack that the Biden administration has said came from a criminal organization likely based in Russia. Following the attack, JBS closed nine of its US beef processing plants, but the company plans to restore operations on Wednesday and has told employees to return to work. Senior officials in the US and Russia have been in contact about the attack.
+Whee Biden was asked on Wednesday afternoon whether the US would retaliate against Russia for the attack, he told reporters, "We're looking closely at that issue." As to whether he thought Putin was testing him, the President plainly said: "No." 
+But the administration is not
+ 
+"taking any options off the table" in response to the 
+incident
+, press secretary Jen Psaki said at a press briefing earlier Wednesday, adding that there's an internal policy review process to consider any actions. 
+Psaki said during Wednesday's briefing that Biden "certainly thinks that President Putin and the Russian government certainly has a role to play." But Psaki wouldn't weigh in on whether the administration believes Putin is attempting to test Biden before the summit in two weeks. 
+"I'm not going to give any further analysis on that. Other than to tell you that our view is that when there are criminal entities within a country, they certainly have a responsibility and it is a role that the government can play," she responded. 
+The White House was unable to confirm whether JBS paid a ransom. 
+The JBS attack comes 
+after a string of cyber breaches and ransomware attacks
+ tied to nation state actors. There was also a recent ransomeware attack on Colonial Pipeline within the last month, which temporarily paralyzed operations for one of the country's largest fuel pipelines. Moscow has denied involvement in the attack, which the FBI has said originated from a criminal group originating from Russia, named "DarkSide."
+In April, the Biden administration announced
+ a series of actions, including sanctions, against Russia for its interference in the 2020 US election, its ongoing actions in Crimea and the SolarWinds cyber attack. The attack on the software developer was one of the worst data breaches to ever hit the US government.
+Microsoft also recently said
+ that hackers who are part of the same Russian group behind the SolarWinds hack have struck again in the US and other countries,
+ launching a new cyberattack 
+on more than 150 government agencies, think tanks and other organizations. 
+In the wake of the JBS attack, the US Cybersecurity and Infrastructure Security Agency (CISA) warned that any organization can be affected by ransomware "in any sector of the economy."
+"As this and other recent incidents demonstrate, the threat of ransomware continues to be severe. Ransomware can affect any organization in any sector of the economy. All organizations should urgently review our available resources and implement best practices to protect their networks from these types of threats," Eric Goldstein, the executive assistant director for cybersecurity at CISA, said in a statement. 

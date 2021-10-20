@@ -1,0 +1,11 @@
+There are an estimated 30,000 affected customers in the US and 250,000 globally, though those numbers are expected to increase, the US official told CNN.
+The White House declined to comment on the number of victims affected.
+"We are undertaking a whole of government response to assess and address the impact. The Cybersecurity and Infrastructure Security Agency (CISA) issued an emergency directive to agencies and we're now working with our partners and looking closely at the next steps we need to take. This is an active threat still developing and we urge network operators to take it very seriously," a White House official said.
+The task force or, "Unified Coordination Group" (UCG), is a multi-agency effort initiated by the National Security Council, that includes FBI, Cybersecurity and Infrastructure Security Agency (CISA) and others, the US official said.
+The National Security Agency also has a role in the response, though it's not immediately clear if its involvement is codified as part of the UCG directive, according to another source familiar with the situation.
+"This has the potential to simultaneously affect organizations that are critical to everyday life in the US," a source familiar with the investigation into the attack told CNN, noting that state and local government agencies were among those affected. 
+The White House official told CNN the situation is an "
+active threat
+."
+White House press secretary Jen Psaki said Friday that "everyone running these servers -- government, private sector, academia -- needs to act now to patch them."
+Psaki's warnings followed a tweet by national security adviser Jake Sullivan Thursday evening that underscored how concerned the Biden administration is. He urged IT administrators nationwide to install software fixes immediately. Sullivan said the US government is monitoring reports that US think tanks may have been compromised by the attack, as well as "defense industrial base entities."

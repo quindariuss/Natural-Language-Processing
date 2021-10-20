@@ -1,0 +1,56 @@
+A version of this story appeared in CNN's What Matters newsletter. To get it in your inbox, sign up for free 
+here
+.
+We've all read this year about the pandemic threatening supply chains and about climate change causing more freak weather that threatens power grids. Meanwhile, hackers have also gotten more brazen, locking companies key to the US infrastructure. 
+This week it's Colonial Pipeline. But it's been hospital systems. Cities. Schools. Everything from the city of Atlanta to the DC Police Department has been hit by ransomware.
+And while they can't be tied in all or even most cases to foreign governments, that should not distract us from the fact that the US appears to be under attack.
+For more straight reporting on Colonial Pipeline, read this 
+CNN report from Zachary Cohen, Geneva Sands and Matt Egan 
+explaining the broad strokes and business implications. 
+This one from Kevin Liptak 
+focuses on what the US government, and specifically President Joe Biden, is going to do about it.
+Here are my takeaways:
+The Colonial Pipeline is a vital piece of US infrastructure.
+Spanning more than 5,500 miles, it transports about 45% of all fuel consumed on the East Coast. It transports 2.5 million barrels per day of gasoline, diesel, jet fuel and home heating oil. No disruptions have yet been felt from the shutdown of the pipeline, but this is not something that should be able to be shut down.
+This sounds like an underground criminal syndicate.
+The ransomware group claiming credit for the Colonial Pipeline attack is called DarkSide, originates from Russia and is thought to rent out its software to other hackers. The US has not specifically tied DarkSide to the Russian government, but rather thinks the group is operating for profit.
+Related: 
+More on DarkSide
+This is apparently going to get worse.
+"All of our industries are going through some form of digital transformation, which means they're becoming more connected and taking advantage of things like cloud resources. That connectivity allows adversaries to come into those systems and compromise them in these ways," 
+Rob Lee, the CEO of Dragos, a cybersecurity firm, told CNN 's Jim Sciutto on Monday
+.
+There are big targets and small targets.
+A good portion of the country could feel the pinch of higher gas prices and potential jet fuel shortages as Colonial Pipeline races to bring itself fully back online. That is a very big attack.
+Fewer people were directly hurt when the 
+DC Police Department was targeted 
+and hackers threatened to release information on confidential informants.
+The range of targets is extensive.
+"Everybody is vulnerable," said Lee. "We are going to experience attacks. The real question is how we're going to be more responsive and more resilient in the face of those attacks so that the consequence doesn't impact our daily lives."
+There's a lot we don't know.
+The exact nature of the Colonial Pipeline attack, whether there were demands or it was discovered, is not clear from the company's statements. PCMag 
+reported in April
+ on how communications from ransomware extortionists can read and how they exert pressure on companies to pay ransom rather than have sensitive data released to customers. 
+For every attack you hear about, there are others you don't.
+More than two dozen government agencies in the US have been hit this year alone, according to experts. Homeland Security Secretary Alejandro Mayorkas raised the alarm about these attacks just last week, 
+in a speech before the US Chamber of Commerce
+ before Colonial Pipeline was hit, calling them an "existential threat" to businesses.
+More than $350 million in victim funds -- ransom, essentially -- was paid as a result of ransomware in the past year, and the rate of ransomware attacks increased over the prior year by more than 300%, he said.
+This will influence the debate over Biden's plan to update US infrastructure.
+Look for a coming debate over whether Biden's $2 trillion plan to update the country's infrastructure does enough to protect it from cyberattacks. 
+Politico wrote in April 
+about concerns that there was not enough attention in the plan to securing the new infrastructure. On the other hand, the existing infrastructure is clearly susceptible to attack.
+Government hacks vs. ransomware attacks.
+Before this Colonial Pipeline ransomware attack, the main recent US breach this year had come not from ransomware pirates seeking a payday, but from Russian hackers potentially seeking intelligence, who got in by hacking software from a Texas company, SolarWinds. They infiltrated at least nine US government agencies, including the Department of Homeland Security, and scores of private companies. 
+Separately, a Chinese-linked hack of Microsoft Exchange servers across the globe likely compromised data that could lead to more attacks.
+There's may be little functional difference between ransomware pirates and foreign governments hacking US systems.
+Here's an excellent quote from Chris Krebs, who until last November was director of the Cybersecurity and Infrastructure Security Agency at DHS. 
+He told CNN that the 
+distinction between a Russian state actor and a crime network operating inside Russia is "increasingly irrelevant."
+"Ransomware crews have been operating out of Russia for years, with great effect on our schools, on our state and local government agencies, on our health care facilities," he said. "They have effectively the tacit approval of the Russian government, and it has to end."
+A lot of the infrastructure we rely on is privately owned.
+I am struck in CNN's reports at the bright line between Colonial Pipeline, the private company carrying fuel through the pipeline, and the US, whose infrastructure depends on it. 
+The tidbit in Liptak's story that caught my eye is that Colonial Pipeline has not asked the government for help.
+"This weekend's events put the spotlight on the fact that our nation's critical infrastructure is largely owned and operated by private sector companies," said Elizabeth Sherwood-Randall, the White House homeland security adviser. "When those companies are attacked, they serve as the first line of defense and we depend on the effectiveness of their defenses."
+Anne Neuberger, the top official responsible for cybersecurity on the National Security Council, said Colonial Pipeline had not asked for "cyber-support" from the federal government but that federal officials were ready and "standing by" to provide assistance if asked.
+Neuberger would also not say if Colonial Pipeline had paid ransom, but noted that companies are in a "difficult situation."

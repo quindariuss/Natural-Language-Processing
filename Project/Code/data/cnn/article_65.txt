@@ -1,0 +1,15 @@
+The data "indicates that ransomware is an increasing threat to the U.S. financial sector, businesses, and the public," says the report from Treasury's Financial Crimes Enforcement Network
+.
+The report comes as the Biden administration has looked for multiple ways to cut off revenue streams for Russian-speaking ransomware groups that have extorted millions of dollars from major US companies. President Joe Biden asked Russian President Vladimir Putin in June to crack down on cybercriminals operating from Russian soil; US officials 
+are waiting to see 
+if Moscow will take any substantive action.
+The Treasury data comprises so-called Suspicious Activity Reports that financial institutions are required to file within 30 days of detecting cases of suspected money laundering or fraud. They cover suspected ransomware-related payments that banks and other businesses are aware of involving themselves or their customers.
+"If current trends continue, SARs filed in 2021 are projected to have a higher ransomware-related transaction value than SARs filed in the previous 10 years combined," the report states. 
+The total value of ransomware-related Suspicious Activity Reports filed during the first six months of 2021 was $590 million (some of those transactions occurred in 2020), compared with $416 million reported in 2020. The increase in reported payments may be due to both the swell in ransomware attacks and the greater awareness of threats and detection tools that organizations have, the report said. 
+The Treasury report "underscores the pervasiveness of ransomware and how it affects numerous facets of the US economy," Amy Chang, head of risk and response at cyber insurance firm Resilience, told CNN. 
+The report, she added, "provides valuable insight for cybersecurity practitioners to utilize, from threat hunting to data modeling to considerations around ransom payments."
+After a string of ransomware attacks in recent months on US critical infrastructure, the issue has become a top economic and national security priority for the Biden administration.
+The White House this week convened a 30-country virtual summit to try to hash out more effective ways to track and prosecute ransomware gangs. Russia was notably absent. The US has tried to pressure Moscow to curb ransomware attacks in bilateral talks.
+In the meantime, US agencies have looked for other ways to slow down ransomware groups. Treasury imposed sanctions last month on a cryptocurrency exchange that US officials accused of doing business with hackers behind eight types of ransomware. 
+US officials discourage businesses from paying ransoms because it risks fueling even more hacks. But some companies say they are faced with no choice to pay off crooks who hold their systems hostage. 
+Treasury officials have also issued updated guidance to US companies on how they can avoid running afoul of US sanctions when they do pay ransoms. 

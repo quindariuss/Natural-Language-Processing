@@ -1,0 +1,77 @@
+A version of this story appeared in CNN's What Matters newsletter. To get it in your inbox, sign up for free 
+here
+.
+What we've learned raises more questions than it answers about how the nation's attorneys acted and what, exactly, they were looking for. But it is clear that the Justice Department under Trump clearly took steps to pursue leaks unusually aggressively, in a manner that targeted Trump's political opponents. 
+That suggests real weaknesses in the backstops that are supposed to prevent abuse of the federal justice system -- and opens up a fresh debate about accountability for actions taken during Trump's presidency that have weakened various pillars of the US government. 
+The 
+Justice Department is already moving on an internal investigation
+, and Democrats on Capitol Hill will undoubtedly want to hold hearings.  
+Get up to speed below on what we know so far.
+The leak hunt that set this off
+Prosecutors were looking for the sources behind news stories from early in the Trump administration about contacts between Russia and Trump associates. As part of that leak hunt, 
+the FBI sent a subpoena to Apple in February 2018
+ seeking metadata on more than 100 accounts as part of an investigation into the disclosure of classified information. 
+The subpoena included a gag order, which meant Apple wasn't allowed to tell anyone about it. That gag order was renewed three times before it expired this year, at which point Apple was allowed to notify the targets, CNN has reported. The House Intelligence Committee has determined that, along with elected members of Congress and staff, the dragnet collected the records of family members, including at least one minor.
+CNN has reported that the records seized included those from staff members who had nothing to do with issues related to Russia or former FBI Director James Comey, including House Intelligence Chairman Adam Schiff's personal office staff.
+ Read more here.
+A pattern of seized communications is emerging
+The political opposition. 
+Democratic lawmakers and their family members learned from Apple that the government had secretly obtained their communications only after the gag order expired. The targets included Schiff and Rep. Eric Swalwell of California, both Trump opponents routinely criticized by Trump throughout his time in office.
+The press. 
+We also learned this week that the Justice Department, apparently as part of aggressive leak investigations, sought and obtained reporters' communications records, 
+including CNN's Barbara Starr
+, for June and July of 2017. It's not clear if the investigations are related.
+RELATED:
+ Trump administration pursued CNN reporter's records in months-long secret court battle
+Three Washington Post reporters who covered the FBI's Russia investigation were told this month that in 2020 the Justice Department had obtained their phone records from 2017. The Department of Justice had earlier, in 2018, disclosed that it had obtained 2017 phone and email communications of reporters writing stories about the Russia investigation for BuzzFeed, Politico and The New York Times.
+Social media companies. 
+Court filings revealed last week that the Justice Department had subpoenaed Twitter in late November 2020 to try to learn the identity of the user behind a parody account that criticized Rep. Devin Nunes, a California Republican and Trump ally.
+Unusual secrecy
+David Vigilante is CNN's general counsel and he described the secretive process by which he was barred from discussing the case or even informing Starr that the government wanted access to her communications logs.
+CNN's arguments to the federal magistrate judge who granted were countered with secret, classified information.
+ 
+A district court ultimately narrowed the government's request for Starr's communications.
+"Since we were never privy to any of the secret submissions made by the government, this was the first characterization of the evidence we had seen, and it was stunning: After months of secret proceedings and heavy-handed enforcement tactics, a neutral judge said that, in large part, the emperor had no clothes," 
+Vigilante wrote in an account of the secret process 
+after the gag order expired. It later became clear that the government had obtained other Starr communications not housed on servers used by CNN.
+Read more here: 
+CNN lawyer describes gag order and secretive process where Justice Department sought reporter's email records
+The Justice Department under President Joe Biden's attorney general, Merrick Garland, has not come forth to let the public know about this activity. Rather, in each case, gag orders have expired. That's what allowed CNN's lawyer to disclose the existence of the legal battle over Starr's communications. It's also what allowed Apple to inform Democrats on the House Intelligence Committee that their communications had been subpoenaed. It will take time and investigation for the public to know the extent of what Trump's Justice Department was up to, if it ever does, since these investigations were wrapped in claims of national security.
+It's also not clear which if any of these investigations may be ongoing.
+We can presume there is a lot more we don't know
+CNN found out about the attempt to seize Starr's communications only because the government wanted access to them from servers owned by CNN's parent company. Lawmakers found out that Apple had been subpoenaed only because the company informed them. The New York Times was told by Google, which hosts its email accounts. 
+It's a safe bet the government didn't just subpoena Apple for Democrats' communications. Similar subpoenas could have been served to Google, for instance, or phone and data providers like AT&T or Verizon.
+The scope and nature of the government's investigations are also unknown. CNN and The New York Times, which first reported on the seizure of lawmakers' communications, have reported that prosecutors were conducting a leak investigation. However, in the case of CNN, the government demanded access to all of Starr's communications -- 
+more than 30,000 email records, CNN reported
+.
+Remember Jeff Sessions?
+Trump's first attorney general, Jeff Sessions, was not involved in the subpoenas related to the House Intelligence Committee, a source familiar with his tenure told CNN's Katelyn Polantz.
+In fact, Sessions had recused himself from matters relating to Russia and Trump never forgave him for allowing the appointment of a special counsel, which ultimately evolved into special counsel Robert Mueller's investigation into potential collusion between Trump associates and Russians. 
+Mueller's investigation dogged Trump's first years in office. It also led to a guilty plea from Trump's former national security adviser, Michael Flynn, and the convictions of his former 2016 campaign chairman, Paul Manafort, and adviser, Roger Stone, among others. 
+Trump never got over his anger with Sessions, who Trump publicly criticized throughout Sessions' time as attorney general. But Sessions vowed to crack down on what he called an "epidemic" of leaks. In 
+November of 2017, he told Congress there were 27 open investigations 
+into leaks of classified information, about nine times what the Obama administration had undertaken. And Obama was criticized for being overzealous in his pursuit of leakers.
+Nevertheless, CNN and the Times reported that prosecutors had wound down their inquiry into House Democrats only to have it spun up again after William Barr took over as attorney general. Trump was obsessed, as his now-defunct Twitter musings showed, 
+with leakers
+.
+This could be another example of 
+Barr's willingness to appease Trump
+, which apparently stopped only at ignoring election results.
+Barr 
+told Politico in a telephone interview 
+he couldn't recall ever being briefed on the matter when he took over as attorney general in 2019 and was "not aware of any congressman's records being sought in a leak case."
+Most Justice Department attorneys are nonpolitical and carry on from administration to administration. Figuring out why the investigation was reinvigorated under Barr and if there was a political element is one key thing to learn.
+Ironically, Trump was the one who complained he was spied on. One of his more persistent gripes as President was that the FBI had essentially spied on him by investigating his aides for their involvement with Russians when the Kremlin was trying to interfere in the US election. 
+Trump used that investigation to allege that former President Barack Obama had spied on his campaign, which was a complete twist of the facts. But, applying Trump's logic, his Justice Department spied on Democrats. 
+What comes next?
+The Justice Department's inspector general will investigate the department's handling of the leak investigations, the office announced Friday. 
+Senate Majority Leader Chuck Schumer and Senate Judiciary Chairman Dick Durbin are calling for Barr and Sessions to testify on the matter.
+"If they refuse, they are subject to being subpoenaed and compelled to testify under oath," the Democrats said in a statement.
+"This issue should not be partisan; under the Constitution, Congress is a co-equal branch of government and must be protected from an overreaching executive, and we expect that our Republican colleagues will join us in getting to the bottom of this serious matter." 
+And Democrats on the House Intelligence Committee
+ plan to ask Apple to look into whether additional members were targeted 
+by the Trump Justice Department, CNN reports. 
+It's less clear what Biden will do. 
+White House communications director Kate Bedingfield on Friday called the reports "appalling."
+"The reports of the behavior of the attorney general under Donald Trump are appalling," Bedingfield said during an appearance on MSNBC from Cornwall, England, where the President was meeting with fellow heads of state at the G7 summit.
+Bedingfield suggested that Biden has a "very different relationship" with the Justice Department than his predecessor, calling out the Trump administration's "abuse of power" with the department, and adding that the Biden administration's Justice Department is "run very, very differently." Biden, Bedingfield said, "respects the independence of the Justice Department, and it's a critically important part of how he governs."

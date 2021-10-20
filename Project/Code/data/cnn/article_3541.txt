@@ -1,0 +1,54 @@
+This giant catalog of information contains genetic blueprints drawn from virus samples studied at the lab in Wuhan, China which 
+some officials believe
+ may have been the source of the 
+Covid-19 outbreak
+, multiple people familiar with the matter tell CNN. 
+It's unclear exactly how or when US intelligence agencies gained access to the information, but the machines involved in creating and processing this kind of genetic data from viruses are typically connected to external cloud-based servers -- leaving open the possibility they were hacked, sources said. 
+Still, translating this mountain of raw data into usable information -- which is only one part of the intelligence community's 
+90-day push
+ to uncover the pandemic's origins -- presents a range of challenges, including harnessing enough computing power to process it all. To do that, intelligence agencies are relying on supercomputers at the Department of Energy's National Labs, a collection of 17 elite government research institutions.
+There's also a manpower issue. Not only do intelligence agencies need government scientists skilled enough to interpret complex genetic sequencing data and who have the proper security clearance, they also need to speak Mandarin, since the information is written in Chinese with a specialized vocabulary.
+"Obviously there are scientists who are (security) cleared," one source familiar with the intelligence told CNN. "But Mandarin-speaking ones who are cleared? That's a very small pool. And not just any scientists, but ones who specialize in bio? So you can see how this quickly becomes difficult."
+Officials conducting the 90-day review hope this information will help answer the question of how the virus 
+jumped from animals to humans
+. Unlocking that mystery is essential to ultimately determining whether Covid-19 leaked from the lab or was transmitted to humans from animals in the wild, multiple sources told CNN. 
+Investigators both inside and outside the government have long sought genetic data from 22,000 virus samples that were being studied at the Wuhan Institute of Virology. That data was removed from the internet by Chinese officials in September 2019, and China has 
+since refused to turn over
+ this and other raw data on early coronavirus cases to the World Health Organization and the US.
+The question for investigators is whether the WIV or other labs in China possessed virus samples or other contextual information that could help them trace the coronavirus' evolutionary history.
+Two scientists who study coronaviruses told CNN they are skeptical that there is any genetic data either in the tranche of 22,000 samples or any other database from the WIV that scientists don't already know about.
+"Basically in [a 2020 research paper published in Nature], the WIV talked about all the sequences they had up until a certain point in time -- it's what most scientists virologists believe, that's pretty much what they had," said Dr. Robert Garry, a virologist at the Tulane University School of Medicine.
+A source familiar with the US investigation would neither confirm nor deny that any of the data pertaining to those 22,000 samples is among what US intelligence agencies are currently analyzing.
+ No 'smoking gun' 
+Sources familiar with the effort say filling in that missing genetic link won't be enough to definitively prove whether the virus originated in the lab at Wuhan or first emerged naturally. Officials will still need to piece together other contextual clues to determine the true origins of the pandemic. 
+But it is a critical puzzle piece that the 
+Biden administration
+ has been prioritizing.
+"The most prized technical data in this context are genetic sequences, database entries and contextual information about the provenance of the samples and the time and context in which they were acquired -- information people would use to place them in a narrative of the origins of SARS, Covid," one source familiar with the investigation told CNN.
+For now, senior intelligence officials still say that they are genuinely split between the two prevailing theories on the pandemic's origins, or some combination of both scenarios. CNN 
+reported
+ last month that senior Biden administration officials overseeing the 90-day review now believe the theory that the virus accidentally escaped from a lab in Wuhan is at least as credible as the possibility that it emerged naturally in the wild -- a dramatic shift from a year ago, when Democrats publicly downplayed the so-called lab leak theory.
+Multiple sources told CNN that absent an unexpected windfall of new information, officials don't expect to uncover a "smoking gun" -- like intercepted communications, for example -- that would offer definitive proof for either theory. The Biden administration's 90-day push is predicated on the expectation that science, not intelligence will be the key.
+Intelligence officials are tasked with addressing several "scientific knowledge gaps" about the virus' evolution, according to the collection guidance governing the 90-day push, distributed to more than a dozen agencies on June 11 by the Office of the Director of National Intelligence and obtained by CNN. 
+The memo instructs the intelligence community to "expand its collection" and consider data already in its possession to identify both the initial host of the coronavirus and any species that it may have passed through as it adapted to humans -- or to find as "any progenitor virus and/or virus that could serve as backbone for genetic engineering purposes."
+But former Director of National Intelligence John Ratcliffe told CNN that the US intelligence community already had sufficient collection on the topic of Covid origins.
+"Obviously the more, the better. But we've had extraordinary insight into this topic for many months, much more than has been declassified. Pretending we didn't is political theater and a classic example of a politician trying to buy time by using the IC as a scapegoat," he told CNN in a statement.
+Digging into the science 
+That's where the genomic data from the Wuhan lab could come in. 
+The genetic code of a given virus is the signature that allows scientists to tell the difference between the Delta and Beta variants of the coronavirus, for example. It can also offer clues as to how the virus has adapted or mutated over time, including whether it shows signs of human manipulation -- a kind of genetic history.
+Many scientists continue to believe that the most likely scenario is that the virus jumped from animals to humans naturally. But despite testing thousands of animals, researchers still haven't identified the intermediate host through which the virus passed as it adapted to humans.
+But some researchers, intelligence officials and Republican lawmakers believe that researchers at the WIV might have genetically altered a virus in the lab, using a controversial kind of research known as "gain of function" that could have infected researchers who then spread it in their community.
+It's also plausible that the initial infection took place naturally outside of the lab, perhaps while a scientist was collecting a sample from an animal in the wild, and that scientist then spread the virus unknowingly when he returned to the lab with the samples, multiple sources familiar with the intelligence explained. 
+"If it was the latter, it was likely brought into a lab to study because someone got sick ... which means there were an unknowable number of other people who were already sick," the source familiar with the probe said. 
+Understanding exactly which viruses researchers at the WIV were working on could provide important evidence for any one of these theories. It's one of the reasons that investigators on Capitol Hill and elsewhere have been keenly focused on the database that was taken offline in 2019. 
+But it might not prove anything definitively, sources familiar with the intelligence say. Even if scientists in the intelligence community are able to use the data from the lab to stitch together a complete genetic history that shows how the virus mutated, they might not have enough information about how it was handled by the Chinese lab to determine with a high level of confidence that it leaked.
+"Despite having that complete history of variants, [officials might] lack the contextual information to make sense of it in a narrative way," the source familiar with the investigation explained. 
+"Even a complete sequence history is difficult to obtain. And doesn't really tell us anything about the origins of the pandemic itself without the context," this person added.
+Some Republicans on Capitol Hill have jumped into the uncertainty with their own report claiming that "the preponderance of evidence suggests" the coronavirus was "accidentally" released from a lab in Wuhan in 2019 -- an assertion that goes far beyond the intelligence community's current view of the matter. 
+90 days -- and then what?
+It's possible that at the end of Biden's 90-day push, the intelligence community won't have reached what's known as a "high-confidence" assessment as to the pandemic's origins. Administration officials have previously suggested to CNN that it's possible a second review could be ordered at the end of the 90 days. 
+A bipartisan group of lawmakers on the Senate Intelligence and Foreign Relations Committees earlier this week sent a letter urging the administration to continue to prioritize the hunt until such a judgment can be made in order to prevent future pandemics.
+But the lawmakers also zeroed in on a related focus for intelligence officials probing the pandemic's origins: China's "efforts to conceal the severity and scope of the outbreak of the SARS-CoV-2 virus that caused the COVID-19 pandemic."
+"We also believe that the investigation should address PRC efforts to prevent international inquiries into the origins of SARS-CoV-2, and other actions PRC authorities have taken to obscure the nature of the virus and its transmission," the lawmakers said. 
+Republican lawmakers in the House, meanwhile, have latched onto the theory that the virus escaped from a lab. GOP lawmakers in a report released Monday by Rep. Michael McCaul of Texas have claimed that "the preponderance of evidence suggests" the coronavirus was "accidentally" released from a lab in Wuhan in 2019.
+Intelligence officials say it's still far too soon to say.

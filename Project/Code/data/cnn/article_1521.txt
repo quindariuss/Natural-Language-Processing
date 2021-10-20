@@ -1,0 +1,56 @@
+A version of this story appeared in CNN's What Matters newsletter. To get it in your inbox, sign up for free 
+here
+. 
+In the US, where vaccines have been widely available for months, it's a shocking number of people -- but while the official total will soon reach 650,000, the sad fact is we don't know the exact number and probably won't for some time. 
+A number of recent revelations illustrate the difficulty in keeping track. 
+The administration of New York's former Gov. Andrew Cuomo did not publicize 12,000 Covid-19 deaths on the official state tally, although they were included in data maintained by the US Centers for Disease Control and Prevention. Cuomo's successor, Gov. Kathy Hochul, has 
+added the deaths 
+to New York's official total.
+Officials in several states, including Kansas, Georgia, Alabama, Oklahoma and Wisconsin, have amended the death certificates of people who died in January of 2020 to show those deaths were caused by Covid-19, according to an 
+investigation by the San Jose Mercury News
+. That's important because the previously first-known US victims were in February and the change suggests the virus was moving throughout the country before previously known. 
+Florida, without fanfare, 
+changed the way it reports some Covid-19 deaths
+ to the CDC, which created some confusion. The state health department says, since March, it has reported deaths by date of death rather than the date a death was recorded. This month it worked with the CDC "to provide a procedural improvement...to ensure the most accurate data is consistently provided to the public."
+Florida's reporting change. 
+On Thursday, for instance, Florida 
+reported 1,338 new deaths 
+to CDC that had not been included in previous totals. The newly reported deaths are not reflected in recent trends, but instead spread around to earlier dates based on the date the death occurred. Death records can take weeks or months to be reported to the CDC. Florida publishes its own Covid data review, but only on Fridays. A new 
+lawsuit 
+seeks to force the state to return to daily reports.
+National totals are also difficult to track. 
+The CDC's recorded total of deaths, more than 631,000, the agency acknowledges, is less than the likely total number of Covid deaths. CNN uses data from Johns Hopkins that puts the recorded US Covid-19 death total at more than 643,000.
+In a 
+report on data 
+from February of 2020 thru May of 2021, when the total number of documented Covid deaths was approaching 600,000, the CDC used statistical models to project a more accurate estimate of the Covid-19 burden, and it suggested the total was 767,000. It would be many more today.
+While the number of reported deaths is closer to reality than either the documented number of Covid-19 infections or Covid-19 hospitalizations, according to the CDC, the officially reported death totals do not capture the entire universe of Covid-19 deaths.
+The CDC lists several reasons, including: the death can occur weeks after infection, it can be attributed to another cause, and Covid-19 can make underlying conditions worse, and so the death can be attributed to another illness.
+Comparing Covid-19 data with excess deaths. 
+The CDC, in addition to monitoring Covid-19 data, also monitors total deaths of any kind. As the New York Times 
+recently noted about Florida
+, the current data suggested the number of total deaths in that state during first week of August was 5,593, far above the average expected number of deaths -- 3,755 -- based on previous years. The state acknowledged 
+fewer than 1,500 Covid deaths
+ for that week in its weekly official release of Covid-19 data. 
+Florida's percentage of excess deaths remains far above much of the rest of the country. See the CDC's state-by-state breakdown 
+here
+.
+Deaths due to Covid-19, but not from Covid-19.
+ The Covid-19 pandemic has also caused more people to die for other reasons than Covid-19, according to estimates. The University of Washington's Institute of Health Metrics and Evaluation (IHME) 
+changed its reporting back in May
+, to argue the toll of the virus has been much higher than previously acknowledged when it included the estimates of this excess mortality attributable to the effects of Covid-19 on society in addition to the disease itself. Covid-19 deaths were more than 500,000 at the time, but pandemic-related deaths were closer to 900,000 in the US.
+Dr. Ali Mokdad at IHME tried to simplify the formula that goes into their statistical model for CNN. In addition to the reported Covid deaths, IHME tries to account for excess deaths that can be attributed to:
+deaths to mental illness brought on by the pandemic
+deaths due to health care people did not get during the pandemic
+deaths due to lockdown risk factors like obesity and smoking
+deaths due to increases in social disruptions like obestiy and smoking
+It then subtracts reductions in deaths due to other viruses, injuries and air pollution.
+"There are a lot of unreported deaths," Mokdad said in a video call. "Covid-19 will affect our mortality in many different ways."
+Those excess death projections were not a part of the IHME projection -- its best guess -- that more than 100,000 more Americans will die of Covid-19 before the end of the year.
+One piece of good news is the Delta variant has been shown to move relatively quickly.
+Mokdad compared it to a fire running out of fuel in states like Florida. 
+"It's run out of wood -- people to infect. And that's why its coming down," he said of Florida, which has seen fewer new infections recently. "The difference will be states that try to slow the disease and reach immunity through vaccination as opposed to rampant infection."
+The CDC tracks numerous projections, from IHME and other organizations, and plots them on a graph together. 
+Asked about IHME's projection -- 112,000 new Covid-19 deaths by December 31 -- Dr. Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases, said Americans have the power to change things.
+"What is going on now is both entirely predictable, but entirely preventable," he 
+told CNN's Jake Tapper
+. "We know we have the wherewithal with vaccines to turn this around."

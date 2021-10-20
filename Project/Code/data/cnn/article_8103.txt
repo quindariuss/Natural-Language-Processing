@@ -1,0 +1,26 @@
+The site previously housed announcements from the criminal ransomware group, identified as DarkSide, as well as files of stolen data from other ransomware incidents, screenshots showed. It now shows a blank page with "Not Found" up top. 
+The 
+FBI confirmed earlier this week
+ that DarkSide ransomware was responsible for the compromise of Colonial Pipeline networks, setting off a shutdown of pipeline operations that led to 
+fuel shortages and massive lines 
+at gas stations along the southern east coast. 
+The group's site went offline sometime Thursday and was still unavailable as of Friday, leading to speculation that it could have been taken down by law enforcement or that DarkSide itself took it down. 
+In an announcement posted late Thursday night that was reviewed by the cybersecurity firms Intel 471 and Recorded Future and translated, the group wrote: "A couple of hours ago, we lost access to the public part of our infrastructure," including its blog and payment server.
+The DarkSide statement also said "the hosting support service doesn't provide any information except 'at the request of law enforcement authorities.' In addition, a couple of hours after the seizure, funds from the payment server (belonging to us and our clients) were withdrawn to an unknown account," according to Intel 471. 
+Mandiant Threat Intelligence, the cybersecurity firm that has been working with Colonial Pipeline to get its operations back up and running, said the statement could be an "exit scam" by DarkSide. 
+"The post cited law enforcement pressure and pressure from the United States for this decision," said Kimberly Goody, Mandiant's senior manager for financial crime analysis. "We have not independently validated these claims and there is some speculation by other actors that this could be an exit scam."
+Two cybersecurity experts also cautioned that if the site was seized by US authorities, it would likely have a notice of seizure on the site with law enforcement logos. 
+But Dave Kennedy, a former National Security Agency hacker who now serves as president and CEO of the information security firm TrustedSec, said that depends on where the group's servers resided. 
+"If it was in a country we have a relationship with, the US government would work in conjunction with the other foreign government to get the servers taken offline," he said. "If the countries where the servers reside are in more of a hostile country, for example Russia, this is where you would see offensive cyber operations occur where hacking the systems and shutting them down would be an available option." 
+Kennedy said he believes the site being offline so suddenly bears the hallmarks of a deliberate takedown. "With the sharp focus on Ransomware groups now by the Biden administration and law enforcement, ransomware groups are shaking in their boots," he said. He noted, however, that DarkSide is still not completely shut down because the individuals behind it are still at large. 
+President Joe Biden said Thursday that the US was going to pursue measures to disrupt the ability of the criminals behind the attack to operate. 
+"We're also going to pursue a measure to disrupt their ability to operate. And our Justice Department has launched a new task force dedicated to prosecuting ransomware hackers to the full extent of the law," he said.
+Colonial Pipeline paid ransom to DarkSide, two sources familiar with the matter told CNN on Thursday. The sources did not say how much the company paid, but DarkSide had demanded nearly $5 million, two other sources familiar with the incident said. 
+DarkSide is "ransomware-as-a-service" operation, meaning that the developers of the ransomware receive a share of the proceeds from other cybercriminal actors, known as "affiliates," who deploy it. 
+Officials and cybersecurity experts believe DarkSide operates out of Russia or Eastern Europe, based on the way it targets victims. 
+On Thursday, Biden said he does not believe the Russian government was behind a ransomware attack, but he said Moscow still bears a responsibility to stop such attacks when they originate within its borders.
+"We do not believe -- emphasize we do not believe -- the Russian government was involved in this attack," Biden said. "But we do have strong reason to believe that the criminals who did the attack are living in Russia. That's where it came from."
+He said the US has been in direct communications with Moscow about the imperative for responsible countries to take decisive action against these ransomware networks.
+Darkside is "relatively new" in terms of ransomware groups, according to Allan Liska, senior security architect, Recorded Future, who said the group has been around since August of 2020, but "they're fairly aggressive" and have "grown very quickly."
+"You pay a fee to join their service. And then the main threat actor gets a cut of every successful ransomware payment that you make," Liska said.
+The group previously posted a notice on the dark web that their motivation was "only to make money" and claiming it did not carry out the attack on behalf of a foreign government, according to a cyber counterintelligence firm.

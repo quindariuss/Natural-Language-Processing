@@ -1,0 +1,32 @@
+The blunder was the latest embarrassment for state Senate President Karen Fann and the Republicans who sought the audit, which is being overseen by a company called Cyber Ninjas. 
+In 
+a letter
+ last week to the Maricopa County Board of Supervisors, Fann wrote -- in claims that have since been proved false -- that "the main database for all election related data" for the 2020 election in Arizona's most populous county "has been removed," and asked the board for an explanation. 
+The Twitter account for the Senate's audit went even further, saying: "Maricopa County deleted a directory full of election databases from the 2020 election cycle days before the election equipment was delivered to the audit. This is spoliation of evidence!"
+Former President Donald Trump also seized on Fann's claim of a deleted database, saying in a statement over the weekend: "The entire Database of Maricopa County in Arizona has been DELETED! This is illegal and the Arizona State Senate, who is leading the Forensic Audit, is up in arms."
+But, Maricopa County officials explained and auditors acknowledged Tuesday, those conducting the audit had made a technical mistake and the database was never deleted.
+Maricopa County Recorder Stephen Richer, a Republican, and the county's Board of Supervisors -- four of five of whom are Republicans -- responded to the claims with 
+a scathing letter Monday
+ that laid out a series of mistakes auditors had made. Among them: They had not properly reconstructed the RAID storage array used by the county when creating copies of the hard drives, which left them unable to access files that otherwise would have been readily accessible. 
+Ben Cotton, the founder of CyFIR, one of the companies involved in the Arizona Senate's audit, said in the closed hearing held by Senate Republicans on Tuesday that the county's explanation was right. 
+"All of this, however, may be a moot point because subsequently I've been able to recover all of the deleted files and I have access to that data," Cotton said. 
+Cotton did not directly acknowledge that auditors had erred and that characterizing the files as having been deleted was false. But his explanation made clear that the database had never been deleted. 
+RAID arrays, used in enterprise servers, are designed for redundancy: They split data among multiple hard drives in a way that allows the data stored on those drives to be maintained and automatically reconstructed in the event that a drive within the array fails.
+However, RAID arrays can be constructed in a number of different ways, and Cotton said auditors did not know which construction Maricopa County had used -- which would have left them unable to fully access the contents of the server. 
+State Sen. Warren Petersen, one of the two Republicans participating in the hearing, asked: "Do you still need to get that database from the county, or will that rebuilding or recovery that you did -- does that have the information you currently need for that database?"
+"I have the information I need from the recovery efforts of the data," Cotton said. 
+After Cotton said he'd found the files, Maricopa County's Board of Supervisors criticized the Republicans who had claimed files had been deleted. 
+"Just want to underscore that AZ Senate's @ArizonaAudit account accused Maricopa County of deleting files- which would be a crime- then a day after our technical letter explained they were just looking in the wrong place- all of a sudden 'auditors' have recovered the files," the board 
+tweeted
+. 
+Maricopa County Supervisor Steve Gallardo, the board of supervisors' sole Democrat, told CNN's Erin Burnett on Tuesday that he felt "not at all" vindicated by the auditor's admission.
+"It's a sham. It's a circus," Gallardo said on "Erin Burnett OutFront." "And the only attempt is to throw red meat to their base and try everything they can to try to undermine our democracy, undermine the will of the voters and continue to push voter suppression bills. That's what this is all about."
+The episode set off one of the most personal clashes in a months-long process that has pitted Republican officials in Maricopa County, who insist the county followed the law and reported accurate results in last year's election, against the GOP-led state Senate, which has sought to offer cover for Trump's lies about widespread election fraud. 
+Richer, the Maricopa County recorder -- a Republican who heads the county's election department -- had responded to Trump's statement by saying on Twitter: "Wow. This is unhinged."
+"I'm literally looking at our voter registration database on my other screen. Right now," Richer wrote. "We can't indulge these insane lies any longer. As a party. As a state. As a country."
+He told CNN's Erin Burnett on "OutFront" on Monday evening that he was "exasperated" by Trump's false claim, and he called the former President's message "tantamount to saying the pencil sitting on my desk in front of me doesn't exist."
+In 
+a meeting Monday held to respond to Fann's letter
+, Board Chairman Jack Sellers, a Republican, said the state Senate is running "a grift disguised as an audit."
+"This board is done explaining anything to these people who are playing investigator with our constituents' ballots and equipment, paid for with real people's tax dollars. People's ballots and money are not make-believe," Sellers said. "It's time to be done with this craziness."
+This story has been updated with comments from Maricopa County Supervisor Steve Gallardo.

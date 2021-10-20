@@ -1,0 +1,43 @@
+Easterly made her debut discussing one of the most challenging threats facing the US not in a suit before a Washington policy audience, but directly to the cybersecurity community, wearing a partly covered up "Free Britney" shirt and introducing policy with dance moves, music and a reference to the long-running sitcom "Seinfeld."  
+That unlikely combination reflects both the deep experience and sense of purpose Easterly brings to the job, as well as the creativity she hopes to foster as only the second Homeland Security cybersecurity chief. In an interview with CNN after her remarks, Easterly spoke about the need to "think very differently about all of the creative ways we can build the cybersecurity workforce and a very diverse cybersecurity workforce."
+That can be by encouraging people to consider that if they are good at puzzles, they may have a career in her agency. "They may not even know that they've got a real aptitude for things like cyber," Easterly said in the interview, touching on her efforts at the Black Hat cybersecurity conference to address more personal causes.
+The "Free Britney" T-shirt reflects Easterly's strong interest in mental health after losing her 
+younger brother to suicide
+. "It was really a life changing event for me," she told CNN. "So many people have these problems going on in their life, and they don't want to talk about it. They don't want to reach out to people. And I think it's really important that we give people the space and the permission to allow them to deal with some of these pretty serious problems."
+Speaking virtually to the Black Hat conference, which provides security consulting, training, and briefings to hackers, corporations, and government agencies, she told the audience that CISA needs to be more "ambitious" when it comes to building up the cybersecurity workforce in the United States and federal government.
+She made a plea to the cybersecurity community to help build up the nation's cyber workforce, pointing to the more than 500,000 unfilled cybersecurity positions in the US.
+'Much more ambitious'
+Easterly, who took the helm of the agency in mid-July, said CISA is already undertaking multiple efforts, including a program to retrain non-cybersecurity federal professionals and a K-12 program that provides cybersecurity curricula to teachers.
+Despite a host of programs aimed at growing cybersecurity talent, she said, "I believe we need to be much, much more ambitious about this and innovative about figuring out how to inform and educate and really inspire the next generation of cybersecurity professionals from the youngest of ages," offering a glimpse into her thinking as director.
+She also urged people to come work for CISA -- an agency housed within the Department of Homeland Security that was established during the Trump administration. During her speech, she provided a QR code for people to join "team CISA."
+"My goal is to make CISA the world's premier cyber and infrastructure defense agency," she said.
+Easterly is making her push as a new Senate report released Tuesday found that key agencies across the federal government continue to fail to meet basic cyber security standards, with systematic failures to safeguard data. 
+  
+Pressed by Black Hat founder Jeff Moss on whether she will be successful at hiring the right talent, she said, "I am going to be relentlessly focused on this."
+"If I don't get it done, it won't be for lack of effort. The government hiring process is Byzantine and really kind of a mess," Easterly said, acknowledging that there is "huge competition" from the private sector when it comes to recruiting talent. 
+Setting the announcement to music that referenced the rock band "AC/DC," Easterly also unveiled a new effort to ramp up cyber defense planning at the agency called the "Joint Cyber Defense Collaborative" or "JCDC," which will coordinate planning and operations between the federal government, local officials, and private companies.
+She made the virtual announcement while dancing to the so-called "Elaine dance" from "Seinfeld." 
+The collaboration will initially focus on combating ransomware and cloud provider incidents with companies such as Crowdstrike, Palo Alto, FireEye, Amazon Web Services, Google, Microsoft, AT&T, Verizon, and Lumen.
+And after Easterly's remarks at Black Hat, she said other companies expressed an interest in signing up.
+"Having spent the last four and a half years in the private sector, I'm a big believer in the power of innovation that comes from our private sector," Easterly told CNN after her speech. "And you know, even after the after my keynote, we had several more who wanted to join, so I think people see this as something that is materially different, and exciting."
+'Strong encryption'
+In prepared remarks, Easterly said the goal is for the government and private sector to work together closely "before an incident occurs to strengthen the connective tissue and ensure a common understanding of processes."
+CNN asked Easterly about concerns 
+President Joe Biden recently raised
+ speaking to the intelligence community, when he said that the US might end up in a real shooting war with a major power as a consequence of a cyber breach.
+Easterly said she deferred to the President and the White House, but added, "I very much worry about the use of cyber to have consequences that may lead to a kinetic war. And you know, frankly, my role as the CISA director is to do everything that I can to help ensure that that doesn't happen by making sure that everybody has all that they need to prevent, to ensure the resilience and security of their networks."
+Easterly also appeared to take a swipe at those in the US government, such as law enforcement, that have called for the weakening of digital encryption in order to peer into the otherwise scrambled communications of terrorists and criminals. Critics of encryption have said the technology â which safeguards all businesses and consumers â can allow bad actors to "go dark."
+Asked to weigh in on the matter, Easterly came out forcefully in favor of "strong encryption," a term typically used to mean encryption that does not permit secret "back door" access for law enforcement. Law enforcement critics have said that allowing back doors into encryption would create vulnerabilities that would be targeted by hackers and would undermine everyone's security.
+"We have to have strong encryption to be able to ensure the defense of our networks. It's foundational, as everybody in this audience knows," Easterly said, in a response that drew a rare round of applause. "I recognize there are other points of view across the government, but I think as the CISA director and me, personally, I think strong encryption is absolutely fundamental for us to do what we need to do."
+Easterly, who is only the second Senate-confirmed CISA director, was part of the team that built US Cyber Command before going on to work at the National Security Agency on cyber and counterterrorism issues and serving as senior director for counterterrorism in former President Barack Obama's National Security Council.  
+She was scheduled to appear in-person at Black Hat, along with Homeland Security Secretary Alejandro Mayorkas, but the DHS team decided to participate virtually "out of an abundance of caution," due to the latest Covid-19 concerns, a DHS spokesperson told CNN. 
+Asked at the conference how she will differentiate herself from CISA's first director, Chris Krebs, Easterly said she will focus on putting the right processes in place to be able to take CISA into our next five and 10 years.
+One more potential difference could be a shift in CISA's election security "rumor control" webpage, which Krebs
+ used at the time to fact check
+ the claims and conspiracy theories being pushed by former President Donald Trump, his allies and supporters around the country.
+Easterly told CNN it might not be called "rumor control" going forward, but CISA will continue its countering misinformation and disinformation mission.
+"We work with election officials of all parties, and we have to be seen as supporting them and supporting the security of their elections, and not to be seen as doing anything that may be interpreted as partisan," she said, adding that she is still thinking through how to address the issues. 
+Shortly after the November election, Trump 
+fired Krebs
+, who rejected Trump's claims of widespread voter fraud.
+"I think there's the founder, right. And then there's the next CEO that comes in and transforms, continues the transformation of the organization," Easterly said. 

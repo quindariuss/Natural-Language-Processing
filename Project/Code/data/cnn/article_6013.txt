@@ -1,0 +1,29 @@
+In a memo sent out Thursday morning, the National Security Council's top cyber official, Anne Neuberger, writes to corporate executives and business leaders that the private sector needs to better understand its critical role.
+"All organizations must recognize that no company is safe from being targeted by ransomware, regardless of size or location," Neuberger writes. "We urge you to take ransomware crime seriously and ensure your corporate cyber defense match the threat." 
+The letter comes after 
+JBS Foods
+, the world's largest meat supplier, reported that it 
+was hit by a cyberattack
+ that the FBI has attributed to hackers believed to be in Russia, resulting in significant parts of its production to be shut down. The company said late Wednesday it expected to be 
+operating near full capacity
+ by Thursday.
+A White House official said Neuberger's letter was prompted by a spike in
+ ransomware attacks
+ and "a very concerning shift from data theft to disrupting critical services." 
+"The most important takeaway from the recent spate of ransomware attacks on US, Irish, German and other organizations around the world is that companies that view ransomware as a threat to their core business operations rather than a simple risk of data theft will react and recover more effectively," Neuberger said, urging companies to "immediately convene their leadership teams" to assess their risk exposure.
+The letter from Neuberger, a deputy national security advisor, was also sent out to key companies that regularly engage with the Department of Homeland Security's agency in charge of safeguarding critical infrastructure, the Cybersecurity and Infrastructure Security Agency.
+The White House is encouraging all companies to carry out recommendations it recently laid out in an executive order focused on cybersecurity, including updating systems and segmenting networks to isolate the operational parts of the networks. The Biden administration also said this week it has launched a review of ransomware practices that include pressuring countries, such as Russia, to not harbor ransomware attacks, and to analyze cryptocurrencies use by criminals.
+The ransomware attack on the Colonial Pipeline Company last month, followed by the weekend attack on JBS USA, a major meat producer, highlight how these incidents can disrupt the companies themselves and critical industries throughout the United States. 
+"These are higher profile targets, which makes them more noteworthy, but we do see small businesses, medium businesses, hospitals, small banks hit every single day," said Danny Jenkins, CEO of cybersecurity firm ThreatLocker. Since 2019, threat actors have been increasingly successful at hitting larger enterprises in newsworthy attacks, according to Brett Callow at Emsisoft, putting the issue front and center for the public and the Biden administration. 
+The latest incident, linked to a criminal group likely based in Russia, prompted an FBI investigation and DHS-led effort to offer technical support to the company in recovering from the ransomware attack. 
+The FBI confirmed Thursday they are attributing the JBS cyberattack to REvil and Sodinokibi ransomware and praised the company for quickly responding to the hack.
+"We continue to focus our efforts on imposing risk and consequences and holding the responsible cyber actors accountable," the FBI said in a statement. "A cyber attack on one is an attack on us all."
+On Wednesday, White House press secretary Jen Psaki said the administration is working closely with the private sector. 
+She told reporters that the White House is "ensuring that private sector entities have a seat at the table, and we can work in close coordination."
+The JBS ransomware attack serves as a "reminder about the importance to private sector entities of hardening their cyber security and ensuring they take the necessary to prepare for this threat that we've seen rising even over the last few weeks," she said.
+The White House is also engaging with the Russian government on the matter and "delivering the message that responsible states do not harbor ransomware criminals," White House deputy press secretary Karine Jean-Pierre said Tuesday. 
+President Joe Biden
+ will address the increased threat
+ of cyberattacks while meeting with Russian President Vladimir Putin later this month, Psaki said, adding that the administration is not "taking any options off the table" in response to the attack on JBS USA. 
+Asked whether Biden thinks Putin could stop the attacks if he wanted to, Psaki said that Biden "certainly thinks that President Putin and the Russian government certainly has a role to play."
+Asked Wednesday if he planned to retaliate against Russia for a ransomware attack that the administration says originated in Russia, Biden told pool reporters: "We're looking closely at that issue."

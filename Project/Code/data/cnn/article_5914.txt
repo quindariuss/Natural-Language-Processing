@@ -1,0 +1,61 @@
+The assaults, which have led the FBI director to 
+make comparisons to 9/11
+, are targeting the country's vulnerable infrastructure as it struggles back to life after pandemic shutdowns and are putting civilians on the front lines of an invisible conflict likely to defy quick fixes to lessen the threat.
+They leave President Joe Biden, who took office amid multiple crises, with thorny dilemmas about how to respond without escalating a full-on international cyber war and expose him to new political vulnerability. Many of the attacks appear to be the work of criminal gangs on Russian soil, heaping more pressure on the President's already tense, high-stakes summit next week with President Vladimir Putin during his first foreign trip.
+Secretary of State Antony Blinken said during a congressional hearing on Monday that Biden would make clear when he saw the Russian leader that "states cannot be in the business of harboring those who are engaged in these kinds of attacks."
+His comment came after 
+Energy Secretary Jennifer Granholm Sunday 
+warned that "very malign actors" had the US in their sights after attacks on a pipeline, government agencies, a Florida water system, schools, health care institutions and, even last week, the meat industry and a ferry service to millionaire's playground Martha's Vineyard.
+"Even as we speak, there are thousands of attacks on all aspects of the energy sector and the private sector generally ... it's happening all the time," Granholm told Jake Tapper on CNN's "State of the Union."
+Alarmingly, the former Michigan governor said that foreign hackers have the capability to shut down the US power network, and counseled firms against paying ransoms demanded by hackers.
+A price to pay
+Maine Sen. Angus King, an independent who caucuses with Democrats, warned that the US was now reaping the consequences for failing to respond sufficiently boldly to past attacks by China, Russia and North Korea.
+"We have been a cheap date. And you can't defend yourself simply by bobbing and weaving and patching. The adversary has to understand they will pay a price, there will be a cost for attacking the United States or for attacking our critical infrastructure,
+" King said, also on "State of the Union."
+The frank comments from the senator and the secretary followed even more strident warnings from FBI Director Christopher Wray, who put the threat in perspective with 
+striking language 
+in a 
+Wall Street Journal interview
+ last week. He agreed there were similarities in the challenges posed by ransomware hackers, who implant computer code that locks systems until victims pay up, to those of the September 11, 2001, when al Qaeda operatives plotted the worst terror attack in US history. 
+"There are a lot of parallels," Wray said, adding that the US government, the private sector and individual Americans needed to recognize the menace. The Justice Department 
+signaled
+ it plans to coordinate its anti-ransomware efforts with the same protocols as it does for terrorism.
+Like the attackers on 9/11, hackers are exploiting gaps in US security systems, and raising questions about the capacity of US intelligence agencies and government departments to combine effectively to thwart attacks.
+Unlike after the attacks on New York and the Pentagon in 2001, the new threat is exposing fractured US political unity. Republicans were quick to seize on the aftermath of the recent hack on the Colonial Pipeline that sparked gas shortages, panic buying and long lines at the pumps last month to suggest 
+Biden was weak and had lost control. 
+Ex-President Donald Trump, who is seeking a political comeback, claimed Saturday that cyberattacks showed lost respect for US leaders since he left office.
+Such political opportunism raises doubts over whether Biden would be able to unite Washington around him, if he needed to muster a counter-attack from a major breach of US cyber defenses by a hostile foreign power. 
+Biden to plot defense then go on offense
+Given the wide scope of the attacks, the White House must hurriedly muster the defenses of a vulnerable private sector while planning responses that can, as King suggests, make culprits pay a painful price.
+Biden has already signed an
+ executive order requiring his government to make "bold changes" and "significant investments" 
+to protect the nation's digital infrastructure that is meant to spur similar precautions by private firms. On Thursday, the National Security Council's top cyber official, Anne Neuberger, 
+wrote an open letter 
+to corporate executives sounding the alarm and warning the private sector needs to do much better. And quickly. "All organizations must recognize that no company is safe from being targeted by ransomware, regardless of size or location," Neuberger wrote.
+But given the huge cost of sweeping changes to cybersecurity posture and security, and the fact that all it takes is one computer user to inadvertently open the gateway to cyber attackers through malware, swiftly ensuring comprehensive protection in the corporate sector is a tough challenge. 
+John Negroponte, the first director of national intelligence -- a post created to fix intelligence agency dysfunction revealed by the 9/11 attacks -- said Biden's executive order was excellent and praised Neuberger in an appearance on
+ "The Lead with Jake Tapper" on Friday
+. But he argued the government may need to force private firms to do more to disclose cyberattacks, saying that a serious attack, for instance, on a health care system could cost lives and cause a deep economic impact.
+"I think there's been a reluctance to move because I think the private sector has resisted being compelled to cooperate in certain areas. And I think ultimately, there is going to have to be legislation," Negroponte said.
+A showdown with Putin 
+The FBI has 
+said that the cyberattack on the Colonial Pipeline
+ was likely orchestrated by the ransomware network known as DarkSide, which experts suspect is based in Russia. The White House said last week that an attack on JBS USA, one of the world's largest food companies, was the work of a "criminal organization likely based in Russia." 
+The new assaults mean even greater scrutiny for Biden's summit in Geneva with Putin on June 16. The US and Russia are already divided by election interference, Moscow's pressure on Ukraine, human rights and strategic issues. But the US President will now be under even more pressure to publicly lay down the law to a rival who has managed at various times to outfox the last three US Presidents. Biden last week offered a cursory "No" when asked whether Putin was testing him. Putin, with the poker face of a former KGB officer, last week said accusations against Moscow
+ were nonsense, 
+Reuters reported.
+The fact that the attacks are blamed on private firms gives Putin a veneer of deniability. But given the nature of the Russian security state and the nexus between organized crime and the intelligence services, it is fair to conclude that Putin could stop the attacks if he wanted to. In fact, the attacks appear to align with the Russian leader's interests. The thrust of his foreign policy over the last decade or so has been to weaken the United States in order to enhance Russia's relative power and prestige. The chaos and political recriminations sparked by cyberattacks are paralleled by the internal discord sown by what US spy agencies say is Russia's disinformation and propaganda warfare during the last two US election campaigns -- on behalf of Trump.
+Republican Sen. Roy Blunt of Missouri said Sunday that the Russians need to start paying a price for tacit acceptance of criminal ransomware attacks.
+"You really have to treat Russia like it's virtually a criminal enterprise," Blunt said on NBC's "Meet the Press." "You know, they harbor criminals, they don't appreciate the rule of law or any kind of level of personal freedom. And I do think we have to push back."
+Retaliation is a danger in itself 
+The question of what kind of retaliation the US should launch is a fraught one. 
+To begin with, the cyber warfare battlefield is in the shadows, meaning there is little public evidence of actions the US may already have taken or the cathartic satisfaction of visible reprisals.
+But any counter-attacks need to be calibrated to avoid an escalation that could not only cause a dangerous standoff between the US and other nuclear powers but could also simply invite more attacks on US soil.
+In April, the administration announced sanctions, including for Russia's interference in the 2020 US election and the attack on software developer 
+SolarWinds 
+-- one of the worst data breaches to ever hit the US government.
+But there is little evidence of an effective deterrence. Microsoft recently said that hackers who are part of the same Russian group behind the SolarWinds hack have struck against more than 150 government agencies, think tanks and other organizations in the US and elsewhere.
+US Defense Secretary Lloyd Austin told
+ CNN in an interview last month
+ that the US has the "capability to conduct offensive operations" and also to defend itself -- but refused to specify exactly what the US might do.
+That is Biden's problem as he wrestles with yet another cascading crisis.

@@ -1,0 +1,32 @@
+The overall picture masks, however, an underlying pattern: Nearly all of the states Biden won will make his goal, while all of the states he lost are unlikely to. 
+The vaccine partisan divide among adults is greater than ever currently. As of 
+Thursday's CDC report
+, 69.9% of adults in the average 
+Biden-won state
+ have received at least one dose, meaning those states have basically already reached Biden's goal with more than a little over three weeks to go. 
+Compare this to the states Biden lost and Donald Trump won, where an average 54.9% of adults have received at least one dose. The Trump-won states aren't anywhere close to where the Biden-won states are. You'd have to go back more than a month for the Biden-won states to be averaging a vaccination rate as low as the Trump-won states. 
+When you break it down by individual states, 13 of the 25 states Biden took last fall have hit the 70% mark. An additional 7 states have at least 67% of all adults with one dose, so they'll likely reach the 70% threshold by the time July 4 rolls around.
+There are zero states that Trump took last fall that have at least 67% of adults with at least one vaccine dose. The closest is Nebraska at 62.8%, which is lower than all but four states Biden won (Arizona, Georgia, Michigan and Nevada). 
+The only Biden-won states that likely won't reach the mark were among the very closest in the last election: Wisconsin and the aforementioned Arizona, Georgia, Michigan and Wisconsin. Biden emerged victorious by less than 3 points in all of them. 
+Indeed, it's not just the binary (did Biden win or lose a state) that is increasingly predictive of vaccination rates, but how much Biden won the state by. On a scale of -1 to +1, the correlation is +0.85 between Biden's 2020 margin in a state and the adult vaccination rate in a state. 
+This type of correlation is rarely seen when comparing a non-political and political stat. It gives you an idea of how much partisanship is driving vaccinations. 
+Back at the beginning of April, when vaccines were becoming more readily available, this relationship didn't exist to anywhere near the same degree. 
+On April 1, the correlation between the 2020 results and the adult vaccination rate was just +0.36. In other words, it was present, but it wasn't dominant. 
+At that point, the Biden-won states had an average of 40.3% of adults with at least one vaccine dose. The Trump-won states were just behind them at 37.5%. 
+Of the top 10 most vaccinated states on April 1, four of them were actually won by Trump. Today, none of the top 10 were won by Trump. In fact, none of the top 20 are. 
+Perhaps what's most worrisome is that the vaccine gap between the blue states and red states is only getting wider. 
+A month ago, the gap stood at 13 points (64% and 51%) compared to the 15 points it is now. Even a week ago, the difference was 14.7 points vs. the 15.0 points it is at this point. 
+When you pile on top of this the fact that the 
+children vaccination rates
+ in a state are very highly correlated with the adult vaccination rates, you have a recipe for potential trouble. No matter what metric you look at, the blue states are much more vaccinated than the red states. 
+Fortunately, the 
+US
+ 
+currently
+ has its lowest case and hospitalization rate since the beginning of the pandemic. 
+Unfortunately, the metrics may go in the wrong direction (as 
+they are
+ in the United Kingdom) as the 
+more contagious
+ and potentially more deadly variant first identified in India (i.e. Delta variant) continues to grow as a share of Covid-19 cases in America.  
+The vaccines work well on this variant. It seems at least possible that in the next few months, we could see a real divide in Covid-related illnesses between the more vaccinated blue states and less vaccinated red states.  

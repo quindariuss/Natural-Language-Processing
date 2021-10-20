@@ -1,0 +1,75 @@
+Unsuspecting victims. 
+CNN wrote earlier this year about people 
+surprised to get tax bills 
+related to unemployment benefits they had never requested.
+As CNN's Tami Luhby wrote at the time
+:
+The surge in fraud began last year after Congress enacted a historic expansion of unemployment benefits, beefing up payments and opening the program to new categories of jobless Americans. At the same time, the unprecedented economic downturn prompted a flood of unemployment claims that overwhelmed state agencies, which struggled to quickly send money to those out of work and desperate. Criminals took advantage of the chaos.
+She adds today: 
+Congress created a new Pandemic Unemployment Assistance (PUA) program that provides benefits to those who don't typically qualify, including freelancers, the self-employed and independent contractors. This program was a particular target of criminals because the US Department of Labor and states allowed claimants to self-certify their employment and earnings. Eligibility for traditional state benefits has to be verified through an employer.
+The need for the extra unemployment was recognized by everyone, passed by Republicans and Democrats and signed into law by former President Donald Trump. President Joe Biden and Democrats extended the extra benefits until early September. Criminals have been siphoning out what they can the whole time.
+States were overwhelmed. 
+That the crush of claims overwhelmed states was well-documented. Websites crashed. Washington state had to call in the National Guard to help process them after identifying hundreds of thousands of 
+potentially fraudulent requests last year
+. The FBI 
+warned of stolen identities 
+being used and victims not knowing their information had been used until they themselves applied for unemployment benefits or received tax forms indicating the jobless payments they supposedly had received.
+Maryland announced in 2020 it had uncovered a large and sophisticated criminal enterprise and stopped $500 million in fraudulent claims in that state alone. The security blog Krebsonsecurity wrote that the Secret Service had uncovered a 
+Nigeria-based crime ring 
+-- called "Scattered Canary" -- exploiting the Covid pandemic with stolen identities.
+The agency 
+announced in May 
+that it had recovered and returned $2 billion to state unemployment agencies. The state of Maryland 
+publishes an ongoing tally of fraudulent claims
+. It's identified more than 293,000.
+But the problem may be much larger than originally thought.
+Blake Hall is CEO of ID.me, a company marketing itself to states to help cut down on this type of fraud. He made the provocative claim to Axios that as much as 50% of all unemployment claims -- more than $400 billion -- could be fraudulent.
+If true, that would represent a staggering figure. 
+I asked ID.me for more specific information and they sent me an argument in favor of their product -- which helps verify claims. They also sought to distinguish between identify theft fraud, where a person's identity is stolen, with eligibility fraud, where someone who is not eligible requests unemployment benefits.
+ID.me confirmed that the biggest target for fraudsters appears to be that new Pandemic Unemployment Assistance program for freelancers and contractors. ID.me said that in states where they operate, more than 30% of Pandemic Unemployment Assistance requests are fraudulent.
+They also documented requests on state unemployment systems from Nigeria and China.
+Luhby tracks unemployment for CNN and offered some detailed guidance on what we know for sure. Here's what she wrote:
+Estimates of the extent of the fraud vary widely. 
+The US Department of Labor Inspector General Office in late March estimated that at least $89 billion of the estimated $896 billion in federal unemployment program funds could be paid improperly, with a significant portion attributable to fraud. This is based on a 
+historic improper payment rate of at least 10%
+.
+States, which distribute the funds, have also provided their own estimates. Some experts say that because claims are paid out by states, the level of fraud nationally can be harder to track.    
+California. 
+In January, California reported that about $11 billion in fraudulent claims had been paid during the pandemic, about 10% of the total. Up to an additional 17% of the total $114 billion in claims paid were being investigated for fraud. The Employment Development Department estimated that 95% of fraudulent claims were in the Pandemic Unemployment Assistance program. (In 2019, fraud accounted for about 6% of California's total unemployment payments.) In April, Sacramento District Attorney Ann Marie Schubert, who leads a regional task force, 
+said estimates show that more than $20 billion 
+was paid to criminals.
+Colorado: 
+In April, Colorado's Department of Labor and Employment said $19.4 million has been paid in fraudulent benefits. 
+Nearly 43,000 claims were found to be illegitimate
+, but the agency is investigating more than 1 million suspected fraudulent claims. (In 2019, fewer than 90 fraudulent claims were discovered.)
+Ohio:
+ The state Department of Job and Family Services said it had identified $330 million in fraudulent payments in December, the former head of the agency said in a February 
+news conference
+.
+Washington:
+ In April, the Washington State Auditor's Office found that nearly $647 million in illegitimate claims were paid in 2020. About $370 million has been recovered. The state Employment Security Department said improper payments were below 10%. (In 2019, the loss due to fraud was 3.4%.) The auditor also flagged another $461 million in questionable payments, 
+though the unemployment agency took issue with this designation
+.
+A more recent fraud scheme is 
+scammers posing as state unemployment agencies 
+and sending residents text messages asking for personal information, the FBI is warning. 
+What Congress and states are doing to combat the fraud.
+ Many states have ramped up their identity verification controls, including hiring ID.me and other companies. As part of Congress' December relief package, states had to increase their identity verification of Pandemic Unemployment Assistance claimants, requiring applicants to submit additional documentation. The US Department of Labor has provided more funding to states to improve their verification processes.
+The Justice Department has established an unemployment insurance fraud task force to investigate numerous fraud schemes.
+CNN's Kristen Holmes, who has also been looking into this, adds: 
+A group of Democratic senators h
+as introduced legislation
+ to establish a uniform system to distribute funds -- meaning one set of cybersecurity standards as opposed to more than 50 individual websites. 
+According to Senate Finance Chair Ron Wyden, an Oregon Democrat, the bill "requires a complete overhaul of unemployment insurance technology, and paves the way for one website to apply for jobless benefits, not 53. The bill also requires minimum standards for accessibility and equity. Black and Hispanic workers have been far less likely to access benefits, even though they have been far more likely to lose their jobs during this crisis because they work in the hardest-hit industries. Congress must not allow another recession to come and go without reforming our unemployment insurance system, and that starts with an overhaul of technology."
+Bottom line: 
+The consequence of this increased vigilance is that legitimate claimants have gotten stuck in the system and have experienced delays in getting their benefits.
+The other important unemployment story.
+ Half of US states have decided  to stop accepting the $300 federal supplement to unemployment benefits -- they'd have run out at the end of the summer anyway. The boost, along with two other pandemic jobless programs, will end in some states starting this weekend.
+RELATED:
+ Are unemployment benefits causing working shortages? Here's what we know.
+The reason governors have cited is a widespread worker shortage, particularly in industries such as food service.
+"While these federal programs provided important temporary relief, vaccines and jobs are now in good supply. And we have a critical problem where businesses across our state are trying to hire more people, but many are facing severe worker shortages," 
+Maryland Gov. Larry Hogan said 
+in a statement last week announcing he'd forgo the federal benefits on behalf of Marylanders starting in July. 
+While Democratic governors are not cutting benefits, many are prodding jobless residents to get back to work by restarting work search requirements. (Nearly all GOP-led states have done this too.) And two states, Colorado and Connecticut, are offering return-to-work bonuses. 
+Read more on that here.

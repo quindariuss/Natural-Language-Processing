@@ -1,0 +1,63 @@
+The actions include expanding background checks for certain types of guns, regulating stabilizing braces built for pistols, making new investments in intervention programs for violence-prone communities, and creating model "red flag" legislation for states to pass.  
+Here's a look at some of the claims Biden made during his Rose Garden announcement and the facts around them:  
+ Gun manufacturers and liability 
+Biden claimed that "the only industry in America -- a billion-dollar industry -- that can't be sued -- has exempt from being sued -- are gun manufacturers."
+Facts First: 
+This is false. Gun manufacturers are not entirely exempt from being sued, nor are they only industry with some liability protections.  
+Under the 2005 
+Protection of Lawful Commerce in Arms Ac
+t, gun manufacturers cannot be held liable for the use of their products in a crime. However, gun manufacturers can still be 
+held liable
+ for (and thus sued for) a range of things, including negligence, breach of contract regarding the purchase of a gun, or certain damages from defects in the design of a gun.   
+In 2019, the Supreme Court 
+allowed
+ a lawsuit against gun manufacturer Remington Arms Company to continue. The plaintiffs, a survivor and families of nine other victims of the Sandy Hook Elementary School mass shooting, are attempting to hold the company, which manufactured the semi-automatic rifle that was used in the killing, partly responsible by targeting the company's marketing practices, another area where gun manufacturers can be held liable. 
+Other industries also have some exemptions in liability. For example, vaccine manufacturers 
+cannot
+ be held liable in a civil suit for damages from a vaccine-related injury or death.  And for the next four years, pharmaceutical companies developing the Covid-19 vaccines will have 
+immunity
+ from liability under the 2005
+ Public Readiness and Emergency Preparedness Act
+. Those who claim to have been harmed by vaccines may 
+receive
+ money from the government, not the pharmaceutical company, via the Vaccine Injury Compensation Program.  
+Background checks and gun shows 
+Biden claimed that "If you walk into a store and you buy a gun, you have a background check. But you go to a gun show, you can buy whatever you want and no background check." 
+Facts First: 
+This framing from Biden is misleading, since it leaves the false impression that gun shows are exempt from background check laws. Purchases at gun shows are not exempt from background checks, which are required on purchases from licensed gun dealers whether you are in a gun store, a gun show or anywhere else. Only purchases from private sellers, whether at a gun show or elsewhere, do not require a background check in most states. 
+Under federal law, anyone who is purchasing a gun from a federal firearms licensed (FFL) dealer must go through the National Instant Criminal Background Check System (NICS). These licensed dealers include anyone trying to make money by selling guns, or who sell guns regularly. They must be an FFL dealer and regardless of where they sell guns (online, at a store or gun show) they have to put buyers through the NICS. 
+Under 
+federal law,
+ private sellers not looking to turn a profit and who "only make occasional sales of firearms from (a) personal collection" do not have to run buyers through a background check system, 
+according
+ to the ATF. The private seller exemption is often referred to as the "gun-show loophole," which is an overly vague term that fails to capture the complexity of the law.   
+State laws around background checks vary widely. In 14 states and District of Columbia, for instance, private sellers must subject each buyer to a background check. 
+It is 
+illegal
+ for a private seller to sell a gun to someone who is not legally permitted to own a firearm. Private sellers cannot sell a gun to a resident of another state without first shipping the gun to an FFL dealer who will run the buyer through the NICS before handing over the weapon. 
+Red flag laws and suicides 
+Biden touted so-called red flag laws, also known as Extreme Risk Protection Order laws, which allow people to ask a court to temporarily remove guns from people believed to be a danger to themselves or others. He said that states with red flag laws have "seen a reduction in the number of suicides in their states." 
+Facts First: 
+This needs context. Research on this subject is limited, some of the available research data is mixed, and suicide rates have increased around the US in the 21st century. 
+The national US suicide rate has 
+increased
+ 
+significantly
+ 
+since
+ 1999, though there was a slight 
+decline
+ in 2019. Suicide numbers have worsened in both states with red flag laws and states without red flag laws. (The Giffords Law Center to Prevent Gun Violence 
+says
+ 19 states and the District of Columbia have such laws.)
+So why isn't Biden's claim false? Because 
+some
+ 
+academic research
+ has found that Indiana and Connecticut had fewer firearm suicides than would have been expected without their red flag laws. According to this research, in other words, the laws may have had a reduction effect even if the overall number of suicides in one year remained higher than the number in the previous year. 
+However, there is additional nuance to consider. One 
+study
+ on Indiana and Connecticut found that while Indiana's red flag law was associated with an overall reduction in suicides of all kinds compared to the expected number, the overall picture was mixed in Connecticut. In Connecticut, this study found, a state move to increase enforcement of its red flag law, beginning in 2007, coincided with an increase in non-firearm suicides that was actually bigger than the reduction in firearm suicides. 
+In a 2020 review of the data on the effects of various gun policies, researchers at the RAND Corporation took note of the positive findings out of Indiana but 
+said
+ the overall evidence on the effect of red flag laws on both total suicides and firearm suicides is "inconclusive." The RAND report called for additional study on the subject.

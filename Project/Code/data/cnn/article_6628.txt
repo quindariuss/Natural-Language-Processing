@@ -1,0 +1,77 @@
+A version of this story appeared in CNN's What Matters newsletter. To get it in your inbox, sign up for free 
+here
+.
+Require them! 
+First, from CNN's Covid newsletter on Wednesday:
+The European Parliament has approved an EU vaccine passport that will go into effect on July 1. The digital record will prove that a person has been vaccinated against Covid-19, tested negative for the virus or has recovered from the disease. People from outside the EU are also expected to be able to use the certificate, including travelers from the US.
+Here's 
+a longer, detailed guide to the EU Digital Covid Certificate
+, including how to get it and which of the EU countries are going to require it.
+Individual liberty!! 
+Now compare the effort in Europe with the anti-vaccine requirement rules put in place by governors in Florida and Texas, where there's a looming showdown between the conservative politicians and some cruise lines that want staff and passengers to have the shot before traveling together in confined spaces.
+This is from CNN's Eric Bradner and Marnie Hunter:
+The entrenched positions Florida Gov. Ron DeSantis and Texas Gov. Greg Abbott have staked out against so-called vaccine passports is at odds with the policies cruise lines are implementing as they seek to resume operation this summer -- potentially putting the jobs of cruise line workers based in their states at risk while causing confusion for people planning to board those ships.
+DeSantis last month signed a law that would bar "vaccine passports" and impose a $5,000-per-incident fine on businesses that require proof of vaccination. At a rate of $5,000 per passenger, that could result in Florida seeking to levy massive fines on cruise ship operators.
+Read their full report.
+The cruise lines also must contend with the US Centers for Disease Control and Prevention, which has granted latitude to ships where the 
+vast majority of staff and passengers are vaccinated
+.
+What about US travel restrictions?
+ President Joe Biden has also said the US will not impose any kind of 
+vaccine verification system
+, although he has not fought it in the way the Republican governors have. 
+Covid tests are required 
+for international travel into the US.
+He has also not ended travel restrictions on tourists from 33 countries, including the UK and the "Schengen" group of 26 mostly EU countries that have, like US states, done away with internal border restrictions. (I went down a 30 minute Googling rabbit hole on the 
+Schengen Area
+ today. I'd like to visit soon.) CNN reports, however, that Biden and UK Prime Minister Boris Johnson are expected to commit on Thursday to working to open up travel between the US and the UK.
+ Read more here.
+Biden is enroute to the UK and Europe
+ for the G7 meeting and a summit with Vladimir Putin in Geneva. While most of the preliminary coverage has focused on how exactly he'll stand up to Putin and whether he'll find accord for a global corporate minimum tax, this travel issue is sure to come up.
+National security adviser Jake Sullivan told reporters on the way to Europe that the US has established two working groups with other countries to discuss the possibility of reopening travel as quickly as possible. However, he said the groups are not expected to lift any restrictions during Biden's trip. 
+Much of Europe is still "high" risk. 
+The CDC issued new guidance for international travel Monday, offering new advice for travel to more than 120 countries. It moved one Schengen country, Iceland, to the lowest Covid risk level, but others -- including France, Germany, Spain and Italy -- remain in the "high" category, along with the UK, which is neither Schengen nor EU. Vaccination in rates in Europe lag behind the US, although the UK's vaccination rate, like the US, is above 40% of the total population. Europe's vaccination rate could catch up to the US this summer, 
+according to a Brookings review of early problems 
+that limited access to vaccines in Europe in the Spring.
+The Caribbean, FYI, has a number of countries on CDC's lowest risk list. 
+Related: These countries are welcoming US travelers
+The CDC's exact guidance for "high" risk countries is this: "Make sure you are fully vaccinated before traveling to Italy. Unvaccinated travelers should avoid nonessential travel to (insert high risk summer travel destination here).
+European countries welcome tourists. 
+Spain, France and Denmark started welcoming vaccinated tourists from the US back this week. Americans over the age of six wishing to travel there need a QR code from a Spanish website and a vaccine certificate.
+Sorry, kids who can't yet get the vaccine. You're going to have to stay home.
+Airlines, anticipating a return to normalcy, 
+are on a hiring binge
+.
+Do restrictions even work? 
+There's also news Monday suggesting travel restrictions were not that effective since they did not stop a Covid variant first detected in Spain in 2020 from spreading throughout the Continent.
+From CNN's reporting: 
+Mild travel restrictions such as recommendations to quarantine after international journeys failed to stop a new variant of coronavirus from taking over in Europe and spreading to other parts of the world last summer...  And the new variant took over even though it wasn't any more contagious than previous variants -- something that shows that health officials and lawmakers need to take care before they declare a new variant to be more dangerous or to say it's driving renewed spread of the virus.
+What else?
+Trump administration pursued CNN reporter's records in months-long secret court battle.
+ From 
+CNN's report
+: 
+The pursuit -- which started in July 2020 under then-Attorney General William Barr with a demand for two months' of CNN Pentagon correspondent Barbara Starr's 2017 email logs -- continued even after a federal judge told the Justice Department its argument for access to Starr's internal emails was "speculative" and "unanchored in any facts."
+The Trump administration's secret pursuit represents a highly unusual and unrelenting push for journalists' records. It included putting CNN general counsel David Vigilante under a gag order prohibiting him from sharing any details about the government's efforts with anyone beyond the network's president, top attorneys at CNN's corporate parent and attorneys at an outside law firm.
+Where is there bipartisanship?
+ 
+On China.
+ From 
+CNN's report
+: 
+The Senate passed rare bipartisan legislation on Tuesday aimed at countering China's growing influence by investing more than $200 billion in American technology, science and research... Nineteen Senate Republicans joined Democrats voting for passage... The sweeping legislation -- called the US Innovation and Competition Act -- aims to confront China's influence on multiple fronts... it still needs to pass the House.
+Where is there no bipartisanship? On guns.
+ 
+From 
+CNN's report
+: 
+After months of negotiations, the effort to reach a bipartisan agreement on gun background checks has ended, a key GOP senator said Wednesday, leaving Democrats with a final option to move forward on House-passed bills that have no chance of passing in the Senate.
+Sen. John Cornyn, a Republican from Texas who has been negotiating with Democratic Sen. Chris Murphy of Connecticut to strike a long-shot bipartisan deal on background checks, said on Wednesday that they were "unable to find an agreed-upon outcome" and the talks have ceased.
+ 
+What broke the Internet on Tuesday? An obscure service provider.
+ 
+From 
+CNN's report
+:
+ Reddit, CNN, Target (CBDY), Amazon (AMZN), a UK government website and countless others all went dark after a technical issue at cloud service provider Fastly.
+Although the outage was short-lived, it served as a jarring reminder of the internet's fragility. More than that, at a time when concerns are growing about cyber risks to critical physical US infrastructure, the Fastly outage may raise alarms about risks to our digital infrastructure, too. 

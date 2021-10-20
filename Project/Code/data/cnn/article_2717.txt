@@ -1,0 +1,54 @@
+A version of this story appeared in CNN's What Matters newsletter. To get it in your inbox, sign up for free
+ here
+.
+Currently, about 58.5% of the US population has received at least one Covid-19 vaccine dose and roughly 50.1% is fully vaccinated, according to data from the US Centers for Disease Control and Prevention.
+While mandates -- whether from the federal government, state and local officials or private business -- can raise thorny legal issues, there's growing precedent that they pass muster.Â Supreme Court Justice Amy Coney Barrett on Thursday 
+declined a request
+ to block Indiana University's vaccine mandate, signaling that similar mandates going into effect will hold up in court.Â 
+And businesses are going ahead, creating facts on the ground, 
+reports CNN's Matt Egan
+: 
+The Business Roundtable, a powerful lobbying group chaired by WalmartÂ CEO Doug McMillon, has surveyed member companies on their vaccine requirement plans, a person familiar with the matter told CNN Business.
+That survey, which has not been released publicly, found that more companies are considering mandating vaccines compared with a few months ago, the source said. News of the survey was first reported by The New York Times.Â 
+CNN posed a few questions about vaccine mandates to 
+Dorit Reiss
+, a law professor who specializes in vaccine policy at the University of California Hastings Law School in San Francisco.Â 
+The conversation, conducted over the phone and lightly edited for flow, is below.
+CNN: 
+Which institutions can mandate that people get vaccines?
+DR:
+ Practically, every level of government and private actors, and the question is more in the details. The federal government has limited power, but within those powers it can, for example, mandate vaccines for federal federal workers, for the military. It can mandate within its sphere.Â 
+So the federal government has those powers. States have plenary power in public health, which means they have pretty broad power to require vaccines across a range of issues. Also for states, who can act will vary. Sometimes the executive, the governor or an agency can act, and some it will require legislative action.
+RELATED: Biden to meet with CEOs requiring their employees get vaccinated, urge others to follow their lead
+Employers can set work condition and require vaccination for the employees. There are some caveats to that, but generally employers can set workplace rules in the US and private businesses can also set the terms of engagement and require vaccines for people who enter.
+There are limits on all of those, but that's the general starting point.Â 
+CNN: 
+You 
+said that employers can require vaccination with some caveats. Can you explain what those caveats are?Â 
+DR: 
+First, if the work force is unionized the collective bargaining agreement may require negotiating with union before you can mandate the vaccine. That's going to depend on the specific place and the specific collective bargaining agreements. It's going to be a case-by-case question.
+Second, the Americans with Disabilities Act requires employers to accommodate workers with disabilities, including people who medically cannot take the vaccine. So employers are going to have to give exemptions -- or something -- to people who cannot medically vaccinate. That doesn't mean first employers can't enforce conditions. So employers can say: "You have a real medical reason. We won't vaccinate you, but you need to test every week or something like that."
+Third, the Civil Rights Act of 1964 requires employers not to discriminate on a number of things, including religion, which for our purposes means that if a worker has a sincere religious objection for a workplace rule, the employer may have to accommodate them unless it's an undue burden. The trick here is that the undue burden here is a low bar. It means no more than minimal cost. So some clever people are saying: 'You can still require vaccine in the workplace because it's more than minimal cost to allow a Covid-19 outbreak. The accommodation here doesn't mean treat them the same as everybody else. It might mean you don't have to vaccinate, but you have to test and mask.
+RELATED: Who can require you to get a Covid vaccination?
+Finally,Â and this applies across the board and it is kind of the elephant in the room: there's a legal question about whether you can mandate a vaccine under an Emergency Use Authorization. It's still an open legal question, but there's more and more indication that yes, you can.
+The only court decision on the topic so far said that yes, you can mandate the vaccine under an EUA. It's a low-level court decision, so it's not binding, but that's the one decision we have yet. And the memo by the Office of Legal Counsel also makes a case that that you can mandate the vaccine under an EUA. And that too is not binding, but it will have an influence. So we have more and more indications that yes, you can mandate the vaccine under an EUA, but it's still an area of legal uncertainty.Â 
+CNN: 
+All three vaccines in US use right now are being administered under Emergency Use Authorization. How would 
+full FDA authorization 
+change things from a legal perspective in terms of businesses or universities mandating vaccination?
+DR: 
+It removes what isÂ probably the biggest concern of universities and employers because most universities and employers have a history of mandating vaccines. They may have to give exemption, but it's pretty uncontroversial that they can mandate vaccines in the right cases.Â 
+The EUA is the biggest question. So itÂ will remove a major source of uncertainty.Â 
+CNN: 
+W
+e've seen some 
+really big companies
+ require vaccination. Do you think that is going to cause a ripple effect among smaller businesses that might not have been willing to mandate vaccination in the first place?
+DR:
+ Yes, I think as more companies mandate we'll see more companies become comfortable with mandating.Â 
+CNN:
+ What
+ would happen if the White House tried to implement a blanket vaccine mandate for all eligibleÂ US citizens?
+DR: 
+First of all, there will be a legal challenge saying that that's beyond federal power and it would be a pretty strong legal challenge because the federal government is one of limited powers and that is a very broad use of power that it traditionally doesn't have.
+So there'll be a legal challenge that would probably stop that.

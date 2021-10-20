@@ -1,0 +1,11 @@
+Mayorkas made the announcement during a speech outlining his vision for the department's cybersecurity effort. It's one of several steps the department is taking to ramp up its capabilities in the wake 
+the SolarWinds supply chain hack 
+that targeted the federal government and the Chinese-linked 
+hack of Microsoft's Exchange email service
+.
+"Our government got hacked last year, and we didn't know about it for months," he said of SolarWinds, pointing out the need for the federal government to modernize cybersecurity defenses and deepen partnerships with the private sector. 
+DHS will soon launch an awareness campaign so that private companies are aware of the resources CISA offers. The department will also launch an "expanded cybersecurity grant program" to facilitate the use of CISA resources, Mayorkas said. 
+Mayorkas praised CISA, saying it is best positioned to be the "tip of the spear and the front door for the US government's engagement with the industry on cybersecurity."
+But the Biden administration has yet to nominate a CISA director, leaving the top civilian cybersecurity agency without confirmed leadership while trying to launch these initiatives. 
+Mayorkas also said the department will start a series of "sprints" -- targeted DHS efforts -- which include a focus on ransomware, securing industrial control systems, protecting transportation systems, safeguarding election security and advancing international capacity building.
+Echoing others, Mayorkas said, the administration is working on nearly a dozen actions for an upcoming executive order and more details will be shared soon.

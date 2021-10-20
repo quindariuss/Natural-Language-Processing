@@ -1,0 +1,32 @@
+An 
+Axios/Ipsos poll
+ of all parents with a child under 18 showed that 46% have either had their child vaccinated or that their child has already received one dose. 
+What's the point: 
+The vast majority of those receiving a Covid-19 vaccination so far have been adults, as 12- to 15-year-olds were only recently allowed to get vaccinated. While older people are 
+most susceptible to the coronavirus
+, children (especially older children) 
+can get it
+ and pass it on to others. That's why it's important that everybody get vaccinated. 
+Unfortunately, the trendline of where children are getting vaccinated so far shows an expected but still disappointing development. The same places where adults aren't getting vaccinated are not seeing children getting vaccinated either, which will only exacerbate the growing discrepancies in the places where the most people are protected from the virus. 
+An examination of the 
+CDC data shows
+ that we've vaccinated a little more than one-fifth of all children aged 12 to 17. That matches what the Kaiser polling found. 
+Drilling in by state, the correlation between the vaccination rates of adults (age 18 and older) and those of children (age 12 to 17) is quite strong. It stands at +0.94 (on a scale of -1 to +1) when looking at those who have received one dose of a Covid-19 vaccine, as of Thursday's CDC report. 
+By my calculation, all but two of the states in the top 25 for adult vaccinations are in the top 25 for child vaccinations. The inverse is true for the bottom half.
+If you were to rank the states from best vaccination rate to worst, the median difference between each state's spot on the adult list and children's list is just 3 spots. 
+(To determine the 12- to 17-year-old vaccination rate by state, I took the number of age 18+ vaccinated with at least one dose and subtracted it from the age 12+ vaccinated with at least one dose by state. I then divided by the 12- to 17-year-old population in each state, according to the 2019 
+Census population estimates
+.) 
+The fact that the same states that have done well in vaccination among children and adults shouldn't be surprising. 
+Last month's 
+Kaiser poll
+ suggested that this would occur. Among parents who had either been vaccinated or wanted to be immediately, 48% said they would get their children vaccinated right away. Among those who said they wouldn't get vaccinated or would only do so if forced, just 2% said they would get their children vaccinated right away. 
+But even if the data isn't shocking, it's only helping to solidify worrisome trends. 
+One of the biggest divides in the adult vaccination map has been the blue/red state divide I 
+spoke about last week
+. Concentrating on the top 25 states for vaccinations of children, President Joe Biden won 22 of them in last year's election. This includes him winning all the top 19. This is similar to him winning 21 of the top 25 states for vaccinations of adults. 
+Likewise, there is a large socioeconomic divide. When it comes to the educational divide, 20 of the top 25 states for child vaccinations are where the number of adults with college degrees is above the average for all states. For adults, it's 21 of the top 25 states. 
+The top 25 states for child vaccinations are also where poverty rates are lowest. In total, 22 of the top 25 states have child vaccination rates below the national average for poverty rates. For adults, it's a similar 23 of 25. 
+Finally, the urban/rural divide is basically the same among both groups too. For child vaccination rates, 18 of the top 25 states are places where a larger percentage of the population lives in urban areas than the average state. Among adults, it's 17 of the top 25 states. 
+The bottom line is that there are going to be places and social circles where getting the virus in the months to come is going to be a lot more difficult than in others. Some social circles (better educated, wealthier and urban) are going to be more immune from the virus because the vast majority of people in them (children and adults) will be vaccinated. 
+Hopefully, we, as a country, are able to come up with some strategy to fight this vaccine discrepancy. Otherwise, a lot more people than necessary will be in harm's way.  

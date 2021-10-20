@@ -1,0 +1,20 @@
+Easterly, a two-time recipient of the Bronze Star, was nominated by 
+President Joe Biden
+ in April to be the second director of the Cybersecurity and Infrastructure Security Agency. The agency has been led in an acting capacity by career official 
+Brandon Wales
+ since then-director Chris Krebs 
+was fired 
+for pushing back against lies by then-President Donald Trump and his supporters about election security. 
+Easterly's confirmation comes at a crucial time for the administration as it works to respond to a flood of recent 
+ransomware and cybersecurity incidents
+. She will assume the post on the heels of the ransomware attack targeting software vendor Kaseya, and in the wake of the SolarWinds breach and back-to-back ransomware attacks that crippled critical infrastructure companies -- Colonial Pipeline and 
+JBS Foods
+. 
+Republican Sen. Rick Scott of Florida had blocked a vote on Easterly's confirmation for unrelated reasons, holding it up ahead of the July Fourth holiday weekend. Scott had previously said it wasn't about Easterly or cybersecurity, but about DHS nominees and a "lack of accountability" from the Biden administration to address the border crisis. 
+Democratic Sen. Gary Peters of Michigan had urged colleagues to confirm her to the role. 
+"I warned that without confirming Ms. Easterly, we risked leaving ourselves vulnerable to cyber-attacks. And in the two weeks since I last called on my colleagues to approve this critical nomination, nation-state actors and criminal organizations have continued their relentless targeting of the United States," Peters, chairman of the Homeland Security and Governmental Affairs Committee, said in a statement Monday. 
+Easterly's confirmation drew praise from Palo Alto Networks Chairman and CEO Nikesh Arora, who called her a "tremendous leader who has driven the nation's cyber defense in government and the private sector."
+Easterly said during her confirmation hearing last month that ransomware and cyberattacks are "at a place where nation-states and non-nation-state actors are leveraging cyberspace largely with impunity."
+She also expressed support for mandatory private-sector reporting to the government on cyber incidents. "I don't have a sense across the board. But it seems to me that voluntary standards are probably not getting the job done," Easterly said at the time.
+The Cybersecurity and Infrastructure Security Agency, which describes itself as the "nation's risk adviser" for cybersecurity and infrastructure, is the lead agency responsible for protecting federal civilian networks.
+Easterly has said she sees the cybersecurity agency as the "quarterback" responsible for protecting and defending federal civilian government networks, leading asset response for significant cyber incidents and sharing information with federal, state, local and private-sector partners.

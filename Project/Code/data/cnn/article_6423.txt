@@ -1,0 +1,19 @@
+The bipartisan draft by Sens. Mark Warner, a Virginia Democrat; Marco Rubio, a Florida Republican; and 
+Susan Collins, a Maine Republican
+, reflects a renewed effort by Congress to pass long-awaited federal rules surrounding cybersecurity breach notifications. There is currently no single federal standard, which critics have said for years is a hindrance to protecting the nation from cyberattacks. 
+Warner is the chair of the Senate Intelligence Committee, Rubio is the panel's top Republican and Collins has been involved in the push to craft comprehensive federal cybersecurity legislation since at least 2012.
+The bill circulating in Washington, obtained by CNN, would apply to US government agencies, as well as federal contractors and critical infrastructure owners and operators, such as businesses in the manufacturing, energy and financial services sectors. Industry representatives and trade groups have already received copies of the discussion draft. 
+Those entities would be required to issue breach reports to the Department of Homeland Security's 
+Cybersecurity and Infrastructure Security Agency
+, according to the discussion draft. The legislation would direct the agency to establish a secure mechanism to receive the reports.
+The bill includes liability protections for companies that submit breach notification reports
+, 
+which cybersecurity experts have said is critical to ensuring that businesses are not afraid to come forward to disclose breaches and to help US officials bolster the nation's cybersecurity.
+Some industries are already under stricter reporting requirements. The Transportation Security Administration, for example, recently imposed a
+ 12-hour breach reporting requirement 
+on US pipeline companies. Under the draft bill, those requirements would take precedence over the 24-hour deadline. 
+The draft bill directs DHS to develop additional rules with definitions and requirements associated with implementing the law, and for DHS and its cybersecurity agency to submit annual reports to Congress about the notifications.
+A top official with the Cybersecurity and Infrastructure Security Agency called this week for more cybersecurity incident reporting to the agency, arguing that it would help the US government protect critical industries across the country from cyberattacks. 
+"We need the ability to get visibility into national cybersecurity risks," Eric Goldstein, executive assistant director for cybersecurity at the agency, said during a House Homeland Security Committee hearing Tuesday. "We need to understand where adversaries are intruding into networks across this country. We need to understand the techniques that they're using to break in. We need to understand what they are doing or trying to do. The more of that kind of information that we get, we can then protect others."
+"The more that we as a country can do to drive reporting of cybersecurity incidents to CISA, as TSA recently did with their sort of directives, and certainly as several of your colleagues have suggested, via the other avenues that will help drive that change," Goldstein told lawmakers.
+CORRECTION: An earlier version of this article incorrectly described Sen. Susan Collins' longtime efforts on cybersecurity. She has focused on comprehensive federal cybersecurity measures.

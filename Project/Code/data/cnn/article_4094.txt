@@ -1,0 +1,57 @@
+The review is being conducted by Cyber Ninjas, a cybersecurity firm that has no experience in election auditing. And the company's chief executive officer, Doug Logan, made some Thursday claims that were immediately called into question by the county and independent experts.  
+Here's a brief look at two of them.
+The 74,000 ballots
+Logan 
+said
+ that
+ door-to-door questioning
+ of Maricopa County voters is the "one way" the auditors could determine whether what they are seeing in the elections data are "real problems" or "clerical errors of some sort."
+"For example, we have 74,243 mail-in ballots where there is no clear record of them being sent," he said.
+Logan made clear that this wasn't necessarily a case of fraud, saying it could be a "clerical issue." But his claim about an unexplained 74,000-plus ballot gap between the county's list of mail-in ballots received and its list of mail-in ballots sent out was amplified on Twitter by 
+Liz Harrington
+, the spokeswoman for former President Donald Trump, and by numerous other Trump supporters, 
+such as Republican Colorado Rep. Lauren Boebert
+. Some of them, including Boebert, went further than Logan did.
+"In Arizona, 74,000 ballots were counted with no record of being sent in. That's not normal. That's not right. That's not safe nor is it secure," Boebert wrote.
+On Friday, Trump himself went further than Logan. In a written statement, he claimed that the Thursday Senate briefing showed "74,000 mail in ballots received that were never mailed (magically appearing ballots)." 
+Facts First
+: 
+There is no evidence of either fraud or any significant error with these ballots, and certainly not "magically appearing ballots." Both  
+Maricopa County
+ and outside experts say there is a simple explanation for the gap Logan claimed had not been explained: the existence of in-person early voting. Contrary to Logan's claims, the ballot lists he was talking about include not only mail-in ballots but also ballots cast early in person.
+Here's why it's entirely normal for Maricopa County's submitted-ballots list to include a significant number of votes that do not match up with entries on the requested-ballots list. After the deadline to request a mail-in ballot, which was October 23 in 2020, the requested-ballot list doesn't get updated by the county. But the submitted-ballots list does get updated after that October 23 deadline -- with the votes of in-person early voters. 
+Logan's suggestion of some sort of unsolved mystery was definitively debunked by Garrett Archer, an election analyst at ABC15 television in Phoenix and a former official in the Arizona secretary of state's office, who is 
+known locally and on Twitter for his mastery of the state's elections data
+. 
+Archer explained that the county stops updating the requested-ballots list, known as "EV32," after the last day people can request a mail ballot, 
+October 23
+. So ballots cast in person after October 23, Archer said, were included on the submitted-ballots list, known as "EV33," but did not have a corresponding item on the "EV32" requested-ballots list.
+Archer analyzed the files and found that there were 74,241 ballots on the submitted-ballots list without a corresponding entry on the requested-ballots list -- nearly identical to the figure Logan cited, "74,243." But Archer found that more than 99.9% of the ballots in question were recorded in the submitted-ballots list on October 26 or later. 
+That is in line with the October 23 cut-off date Archer had previously noted for the requested-ballots list. 
+The explanation: October 24 and 25 were weekend days when county clerks didn't update the submitted-ballot list, Archer said, so they added the ballots cast by in-person voters on those weekend days to the submitted-ballot totals starting on October 26.
+"This is a glaring omission in the analysis," Archer 
+tweeted
+ of the auditors. "It is either grossly negligent for failing to see a pattern of ballots being returned after a certain date or the statements were deliberately misleading."
+Tammy Patrick, an elections expert who spent more than a decade working at Maricopa County's elections department, also said on Twitter that the requested-ballots list stops getting updated 11 days before Election Day but the submitted-ballots list continues to get updated until the day before Election Day. 
+Patrick 
+tweeted
+ of the auditors: "AGAIN: They don't know what they're looking at." 
+Archer 
+said
+ the two EV files are created for the benefit of the political parties' campaign efforts and not meant to be comprehensive records of all ballots, so they are not ideal documents for a forensic audit. The county 
+made
+ a similar remark on Twitter, calling them "not the proper files to refer to for a complete accumulating of all early ballots sent and received."
+Meanwhile, some citizens interpreted Logan's remarks as a claim that the total number of mail-in ballots the county recorded as received was higher than the total number the county recorded as having sent out. We don't think that's what Logan actually said, but for the record, Maricopa County 
+tweeted
+ on Friday that this was not true, either.
+Without the access Logan's team has, we can't say for certain that there are no errors or issues with the two lists; it's entirely possible that some issue or another will be uncovered at some point. It's possible, Archer said, that there were clerical errors with the small number of ballots -- 29 -- that he found had been recorded on the submitted-ballots list before October 26 but did not have a corresponding entry on the requested-ballots list.
+But Logan had suggested there was a massive, unsolved data problem. Experts have made clear that he simply did not understand the data.
+Signature verification
+Logan also claimed that Maricopa County simply stopped verifying voters' signatures at some point of the election. 
+"Yeah, we've had an affidavit that specifically stated that when mail in ballots were received that so many of them were received that the standards reduced over time," Logan said. He said the affidavit claimed the verification process started with 20 "points of comparison," then "after some time" was reduced to just 10 points of comparison, then to five points of comparison, "and then eventually they were just told to let every single mail-in ballot through."
+Facts First
+: 
+The office of Maricopa County Recorder Stephen Richer, a Republican elected in 2020, strongly denied this claim. "At no point during the 2020 election cycle did Maricopa County modify the rigorous signature verification requirements. Any suggestion to the contrary is categorically false," the recorder's office 
+said
+ on Twitter. 
+Logan was not clear on who supposedly reduced the comparison standard and how widespread the supposed change was. We can't, of course, definitively fact check what happened or didn't happen at each and every elections office in the county, especially without seeing the affidavit Logan referred to.

@@ -1,0 +1,16 @@
+Hackers with suspected ties to China repeatedly took advantage of vulnerabilities in Pulse Secure VPN, a widely used remote connectivity tool, to 
+gain access to government agencies
+, defense companies and financial institutions in the US and Europe, a report released early this month showed. 
+For the last several weeks, the Cybersecurity and Infrastructure Security Agency has been working to determine the extent of the problem and help agencies secure their systems, including asking them to run an "integrity tool" to check for possible compromise. 
+"CISA is aware of at least five federal civilian agencies who have run the Pulse Connect Secure Integrity Tool and identified indications of potential unauthorized access," Deputy Executive Assistant Director of Cybersecurity Matt Hartman said in a statement. 
+"We are working with each agency to validate whether an intrusion has occurred and will offer incident response support accordingly," he added. 
+Reuters
+ first reported on the number of impacted agencies. 
+CNN reported last week that CISA had identified 24 federal civilian agencies that use Pulse Connect Secure devices, but it was not yet known whether the agencies were compromised.
+The discovery of potential breaches comes a little over a week after CISA issued a rare "emergency directive" ordering all federal civilian agencies to determine how many instances of the product they have, run the "integrity tool," install updates and submit a report to CISA. Emergency directives are used when there is a high potential for compromise of agency systems.
+Since March 31, CISA has been assisting multiple entities whose vulnerable Pulse Connect Secure products have been exploited by a cyber threat actor, according to a CISA spokesperson.
+The US government has yet to determine responsibility for the hack.
+The intrusions into Pulse Secure devices "do not show the same highly complex tradecraft, or evidence of a supply chain attack, as we saw in the 
+SolarWinds intrusions
+," CISA cybersecurity chief Eric Goldstein previously told CNN, warning that it was still early in the investigation. 
+They also don't appear to have the same "indiscriminate targeting" as the Microsoft Exchange Server campaign, where "various adversaries" compromised thousands of servers, he said. 
