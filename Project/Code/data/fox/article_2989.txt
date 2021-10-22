@@ -1,0 +1,79 @@
+
+      This material may not be published, broadcast, rewritten,
+      or redistributed. ©2021 FOX News Network, LLC. All rights reserved.
+      Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by 
+Factset
+. Powered and implemented by 
+FactSet Digital Solutions
+. 
+Legal Statement
+. Mutual Fund and ETF data provided by 
+Refinitiv Lipper
+.
+    
+&#39;The Five&#39; discuss Biden&#39;s economic policy &#39;disaster&#39;
+They 
+cut off a pipeline
+ to the Eastern Seaboard for days, tried to poison a 
+Florida water-treatment
+ plant, held hospital IT systems hostage and stole an undetermined trove of information in the 
+SolarWinds
+ hack – all as the Biden administration searches for a way to respond.
+Cyberattacks
+ are on the rise, and they’re increasingly targeting major infrastructure installations, like transportation hubs, energy facilities and utility companies.
+The technology to prevent many of these attacks already exists, experts say, and hacks targeting critical infrastructure, which can threaten American lives, are akin to acts of war.
+So 
+President Biden
+ signed an 
+executive order
+ Wednesday to strengthen U.S. cyberdefenses and bolster the Cybersecurity and Infrastructure Security Agency, known as CISA.
+BLACKBURN WARNS CYBERATTACKS ‘BIG PART OF 21ST CENTURY WARFARE’ AMID COLONIAL PIPELINE HACK
+&#34;U.S. public and private sector entities increasingly face sophisticated malicious cyber activity from both nation-state actors and cyber criminals,&#34; the 
+White House
+ said in a statement. &#34;These incidents share commonalities, including insufficient cybersecurity defenses that leave public and private sector entities more vulnerable to incidents.&#34;
+The administration also called on private companies to increase spending on their own cybersecurity, but it stopped short of bolstering offensive capabilities.
+Biden’s executive actions would likely require federal agencies and contractors to meet minimum cybersecurity protocols – but that doesn’t go nearly far enough, according to former 
+Rep. Denver Riggleman
+, R-Va., who spent 20 years in intelligence for the military, the National Security Agency and in private industry.
+GOOGLE SEES NEW TRICK IN RENEWED NORTH KOREA CYBERATTACKS
+&#34;We need to pick the first country that f---- with us in a cyber way and bring them to their knees,&#34; he told Fox News Wednesday.
+His solution is dramatically ramping up spending for offensive cyber capabilities, and then using them disproportionately in response to any future attacks, especially when they are linked to the governments of Russia, China, Iran or North Korea.
+&#34;We choose a target that we have access to, and once we identify that target, we take out that target – and we then we [should] take it another step,&#34; he said. &#34;If you want to come in and hit the Colonial Pipeline, which only serves several states, we&#39;re going to hit your major hub and want to take down half your country for a week.&#34;
+FBI WARNS US COMPANIES ABOUT CHINESE TAX SOFTWARE EMBEDDED WITH HIDDEN MALWARE
+Nongovernment hackers should be treated like terrorists and squashed as well, he said, because cyberattacks targeting major points of infrastructure have similar effects as terrorism, even if they’re motivated by profit.
+&#34;If we had 96 hours with 10 states without gas and power, people would be raiding houses in 72 of those hours,&#34; Riggleman said. &#34;The worst cascading effect is the way people react, right? When they don&#39;t have power, they don&#39;t have water, they don&#39;t have energy. It&#39;s scary stuff.&#34;
+Creating that kind of asymmetrical deterrent should pair the increase in cyber offensive spending with funding to modernize the cyberdefenses of U.S. infrastructure, which appears to be glaringly exposed in the wake of numerous recent cyberattacks.
+&#34;It&#39;s gonna take a flip in resolve, and I would hope that the Biden administration has that resolve,&#34; he said.
+For comparison, the Biden administration rolled out new sanctions against Russia after it was implicated in the 2020 SolarWinds hack, which victimized a dozen government agencies, including CISA itself, and about 100 private companies, Microsoft among them. 
+CISA, which is part of the Department of Homeland Security, is slated to receive $2 billion of the department’s $60 billion budget, Riggleman said. And only about $6 million of that goes to incident response.
+Even without increasing CISA’s budget, Riggleman said lawmakers on both sides of the aisle need to unite to protect America from its enemies.
+One way to infuse tens of millions of dollars into the agency immediately, he proposed, would be to redirect funding from nonessential programs, such as if there was $25 million slated for teaching elementary schools how to use computers.
+&#34;I think what you need to do is an audit – and if you see things that look ridiculous, we have to come to a point where mission-specific objectives override political objectives as some might define as woke or whatever,&#34; he said.
+And there’s no excuse for critical infrastructure facilities that feel the need to have armed guards, locked gates and secured perimeters to overlook their cybersecurity, according to Lior Frenkel, CEO and co-founder of Waterfall Security Solutions.
+Speaking over the phone from Israel, he told Fox News Wednesday that his company and its competitors already have thousands of facilities in the U.S. and abroad protected by its technology, which thwarts Trojan horse-style ransomware attacks.
+The solution, he told Fox News Wednesday, is to lock down the direction in which information flows.
+BATTERED BIDEN UNDER SEIGE AS CRISES CONFOUND THE WHITE HOUSE
+&#34;Water can&#39;t go up the waterfall – given there&#39;s a physical barrier, which is exactly what we do,&#34; he said. 
+But water, like encrypted data, can still go down, allowing infrastructure facilities to send out information freely to the cloud without being at risk of a cyberattack in the opposite direction.
+Frenkel said his company serves thousands of infrastructure clients already, about half of them in the energy sector and more in water, chemicals and transportation. 
+DC POLICE HACKED: RANSOMWARE GANG SAYS NEGOTIATIONS REACHED ‘DEAD END’
+&#34;I founded this company because it drives me crazy that it’s so easy to penetrate, remotely, such critical systems that have such a big impact on society – and yet it’s so hard physically,&#34; he said. &#34;You have armed guards and security all around it. … But you can hack through the firewall and you&#39;re in and can do practically whatever you want.&#34;
+Biden&#39;s Wednesday executive order made no mention of bolstering the United States&#39; offensive cyber capabilities, but it did establish a national Cybersecurity Safety Review Board to investigate future major incidents.
+CLICK HERE TO GET THE FOX NEWS APP
+The White House did not immediately respond to a Fox News request for comment.
+As Republicans and Democrats try to negotiate what could be a multitrillion-dollar infrastructure deal in Washington, D.C., experts say whatever they agree upon should acknowledge cybersecurity in all critical new infrastructure projects.
+Michael Ruiz is a U.S. and World Reporter for Fox News. Follow him on Twitter at @mikerreports. If you&#39;ve got a tip, you can email him at Michael.Ruiz@Fox.com.
+Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox
+Subscribed
+You&#39;ve successfully subscribed to this newsletter!
+
+        This material may not be published, broadcast, rewritten, or redistributed. ©2021 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by 
+Factset
+. Powered and implemented by 
+FactSet Digital Solutions
+. 
+Legal Statement
+. Mutual Fund and ETF data provided by 
+Refinitiv Lipper
+.
+      

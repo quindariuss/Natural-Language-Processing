@@ -1,0 +1,74 @@
+
+      This material may not be published, broadcast, rewritten,
+      or redistributed. ©2021 FOX News Network, LLC. All rights reserved.
+      Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by 
+Factset
+. Powered and implemented by 
+FactSet Digital Solutions
+. 
+Legal Statement
+. Mutual Fund and ETF data provided by 
+Refinitiv Lipper
+.
+    
+FOX News contributor Byron York reacts to the President&#39;s permanent ban from Twitter
+Twitter 
+on Monday unveiled a new &#34;community-driven approach&#34; to misleading information on its platform, allowing users to add notes to tweets they believe are false in an attempt to &#34;add context&#34; for other users.
+It’s called Birdwatch, and Twitter launched its pilot program Monday. Fox News was given an early look at the program.
+TWITTER SUSPENDS @REALDONALDTRUMP PERMANENTLY 
+On Birdwatch, no account and no tweet is exempt from annotation, meaning users can &#34;add context&#34; to tweets posted by news outlets, reporters and elected officials.
+Birdwatch will allow users to identify information in tweets that they believe are misleading or false, and write notes or notations to those tweets in a way they feel is providing &#34;informative context.&#34;
+Participants will be able to annotate any tweet once. They will have the option to cite source material in their annotation, including from news outlets — meaning users can annotate one news outlet’s tweets by citing other news outlet’s tweets.
+&#34;We know people come to Twitter to stay informed, and they want credible information to help them do so,&#34; Twitter VP of Product Keith Coleman said. &#34;We apply labels and add context to Tweets, but we don’t want to limit efforts to circumstances where something breaks our rules or receives widespread public attention.&#34;
+Coleman said Twitter wants to &#34;broaden the range of voices that are part of tackling this problem,&#34; and said the Big Tech giant believes &#34;a community-driven approach can help.&#34;
+&#34;We believe this approach has the potential to respond quickly when misleading information spreads, adding context that people trust and find valuable,&#34; Coleman said. &#34;Eventually we aim to make notes visible on Tweets for the global Twitter audience, when there is consensus from a broad and diverse set of contributors.&#34;
+During the pilot, Twitter will be looking at trends and challenges accounts may encounter and said it will welcome feedback from news agencies and reporters.
+TWITTER TO EXPAND COVID-19 VACCINE POLICY TO COMBAT &#39;HARMFUL,&#39; MISLEADING TWEETS
+Twitter explained to Fox News that the company is &#34;not doing a fact check&#34; with Birdwatch and said that it is &#34;not a true-or-false tool,&#34; but instead, a way to &#34;add context.&#34;
+Birdwatch is only in its pilot phase beginning Monday and available to a limited number of users. Twitter welcomes all users to apply to be part of the pilot, but only 1,000 users will be chosen to participate.
+&#34;We want to invite anyone to sign up and participate in this program, and know that the broader and more diverse the group, the better Birdwatch will be at effectively addressing misinformation,&#34; Coleman said.
+To be admitted, a user must be located in the United States, have a verified email, a verified U.S. phone number, and no violations of Twitter policies within the last year. Twitter told Fox News that if a user has broken the rules or had their accounts suspended, that would be &#34;disqualifying&#34; to be considered for the pilot.
+&#34;We&#39;re looking to reduce the likelihood of bad actors as we’re getting started here,&#34; Jonah Grant, Twitter&#39;s staff software engineer, said. 
+It is unclear when the new tools could become available for all Twitter users.
+During the first phase of the pilot, notes on tweets will only be visible on a separate Birdwatch site, where pilot participants will also have the ability to rate the &#34;helpfulness&#34; of notes added by other contributors.
+&#34;These notes are being intentionally kept separate from Twitter for now, while we build Birdwatch and gain confidence that it produces context people find helpful and appropriate,&#34; Coleman said. &#34;Additionally, notes will not have an effect on the way people see Tweets or our system recommendations.&#34;
+Twitter, though, acknowledged that the pilot &#34;might be messy and have problems at times&#34; but said they &#34;believe this is a model worth trying.&#34;
+&#34;We know there are a number of challenges toward building a community-driven system like this,&#34; Coleman said, addressing the potential for the tool to be manipulated and the potential for it to be &#34;dominated by a simple majority or biased based on its distribution of contributors.&#34;
+&#34;We’ll be focused on these things throughout the pilot,&#34; Coleman said, adding that the company has embedded a member of the University of Chicago’s Center for RISC on their team in an effort to reach &#34;beyond our virtual walls and integrating social science and academic perspectives&#34; into the development of Birdwatch.
+TWITTER REMOVES IRAN SUPREME LEADER&#39;S &#39;MISLEADING&#39; TWEET ON US COVID-19 VACCINES, IN LINE WITH NEW POLICY
+Grant said that upon signing up for Birdwatch, users will learn of the tool&#39;s &#34;values,&#34; which are: &#34;to contribute to build understanding, act in good faith, and to be helpful, even to those who disagree.&#34; 
+&#34;We want people to write for a different audience than they do on Twitter,&#34; Grant said. &#34;We want people to be helpful, even for those who disagree.&#34; 
+Coleman added that on main Twitter, a user&#39;s audience is their followers, which he said are typically &#34;people who already agree with you.&#34; 
+&#34;Birdwatch is a different mindset,&#34; Coleman said, adding that a user is &#34;contributing to everyone,&#34; including for those &#34;who may not share the same perspective.&#34; 
+Meanwhile, Coleman said that Twitter has conducted &#34;more than 100 qualitative interviews&#34; with individuals &#34;across the political spectrum who use Twitter,&#34; and said they &#34;received broad general support for Birdwatch.&#34;
+&#34;People valued notes being in the community’s voice (rather than that of Twitter or a central authority) and appreciated that notes provided useful context to help them better understand and evaluate a tweet (rather than focusing on labeling content as ‘true’ or false’),&#34; Coleman said.
+Twitter’s goal is to build Birdwatch &#34;in the open&#34; and have it shaped by the Twitter community, but also said it was taking &#34;significant steps&#34; to make Birdwatch &#34;transparent,&#34; by making the data contributing to Birdwatch publicly available and downloadable.
+&#34;As we develop algorithms that power Birdwatch—such as reputation and consensus systems—we aim to publish that code publicly in the Birdwatch Guide,&#34; Coleman said. &#34;We hope this will enable experts, researchers, and the public to analyze or audit Birdwatch, identifying opportunities or flaws that can help us more quickly build an effective community-driven solution.&#34;
+TWITTER SLAPS WARNING LABEL ON ANDREW YANG, STACEY ABRAMS TWEETS PREMATURELY DECLARING VICTORY IN GEORGIA RUNOFF
+Birdwatch comes as Twitter has taken a more aggressive approach to misinformation on the platform. 
+Twitter Senior Director of Public Policy Strategy and Development Nick Pickles said the company, for over a year, has focused on research and public commentary that outlined what Twitter users were looking for with regard to misinformation. 
+&#34;The key thing we heard was they wanted Twitter to provide them with more context on misleading infromation and remove harmful information,&#34; Pickles said. 
+Twitter, in recent months, has taken action to expand a number of their policies to monitor misleading information -- specifically surrounding the 2020 presidential election and coronavirus vaccines.
+And earlier this month, Twitter moved to permanently suspend former President Trump from the platform, after the company said he violated their policies. The move provoked the ire of some who claimed conservative speech was being censored by the tech giant. 
+Also, earlier this month, Twitter suspended more than 70,000 accounts that were engaged in sharing &#34;harmful QAnon-associated content,&#34; which they say were dedicated to &#34;the propagation of this conspiracy theory&#34; across the platform.
+TWITTER SUSPENDS MORE THAN 70,000 QANON-LINKED ACCOUNTS 
+Pickles explained that Twitter began applying labels and removing certain misleading content in a way that has made people &#34;pause.&#34; 
+&#34;We recognize these solutions don&#39;t solve,&#34; Pickles said, pointing to the &#34;challenges of fact checking,&#34; but said Birdwatch is &#34;reflective of this approach.&#34; 
+Pickles said there is a &#34;desire&#34; for people on Twitter to &#34;move quickly&#34; and provide more context to potentially misleading infromation. 
+&#34;People want to be part of the conversation on what sources are credible to give people more context,&#34; Pickles said. 
+&#34;We&#39;re excited about it,&#34; Coleman said, adding that the company does not want to &#34;stop at the boundaries of where our policies are.&#34; 
+&#34;We want to give more poeple voice in the process ind eciding whent o add context, and deciding what that context says,&#34; Coleman said, underscoring that there is more trust behind a community-based approach &#34;than when it is done by any singular institution or tech company.&#34; 
+Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox
+Subscribed
+You&#39;ve successfully subscribed to this newsletter!
+
+        This material may not be published, broadcast, rewritten, or redistributed. ©2021 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by 
+Factset
+. Powered and implemented by 
+FactSet Digital Solutions
+. 
+Legal Statement
+. Mutual Fund and ETF data provided by 
+Refinitiv Lipper
+.
+      

@@ -1,0 +1,75 @@
+
+      This material may not be published, broadcast, rewritten,
+      or redistributed. ©2021 FOX News Network, LLC. All rights reserved.
+      Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by 
+Factset
+. Powered and implemented by 
+FactSet Digital Solutions
+. 
+Legal Statement
+. Mutual Fund and ETF data provided by 
+Refinitiv Lipper
+.
+    
+Fox News Flash top headlines are here. Check out what&#39;s clicking on Foxnews.com.
+EXCLUSIVE: 
+House
+ Republican Reps. Jim Jordan and Andy Biggs are demanding answers from 
+FBI
+ Director Christopher Wray after a newly declassified opinion from the Foreign Intelligence Surveillance Court revealed &#34;widespread&#34; 
+FISA
+ violations.
+Republicans, throughout the Trump administration, were vocal about abuses of FISA after the FBI obtained a FISA warrant against former Trump campaign aide Carter Page. 
+Wray
+ last year called the actions taken to obtain that FISA warrant &#34;unacceptable&#34; and told Congress they &#34;cannot be repeated.&#34;
+But, last week, the Office of the Director of National Intelligence declassified an opinion from the FISC – the court with oversight of the FISA system – which Jordan and Biggs said revealed the FBI &#34;has been seriously and systematically abusing its warrantless electronic surveillance authority.&#34;
+FLASHBACK: WRAY SAYS FBI CONDUCT SURROUNDING CARTER PAGE FISA WARRANT &#39;UNACCEPTABLE,&#39; &#39;CANNOT BE REPEATED&#39;
+The opinion, from November 2020, detailed the FBI&#39;s &#34;apparent widespread violations&#34; of privacy rules in conducting surveillance under section 702 of the Foreign Intelligence Surveillance Act, but was not related to the controversial FISA warrant against Page. 
+&#34;We write to request information about the FBI&#39;s illegal spying activities,&#34; Jordan, of Ohio, and Biggs, of Arizona, wrote to Wray Tuesday.
+Section 702 authorizes the attorney general and the director of National Intelligence to jointly authorize warrantless surveillance of non-U.S. persons reasonably believed to be located outside the United States, subject to limitations.
+The section requires the adoption of &#34;targeting procedures&#34; to ensure that acquired information is limited to non-U.S. persons to prevent the &#34;intentional acquisition&#34; of U.S. domestic communications, according to U.S. Code. The section also requires the use of minimization and querying procedures, specifically requiring that the government obtain a FISC order for any review of Section 702 query results in criminal investigations unrelated to national security.
+But, the opinion revealed that the FBI &#34;violated the querying standard&#34; after the Justice Department audited the government’s compliance with Section 702 querying safeguards. The FISC determined that the &#34;FBI’s failure to properly apply its querying standard when searching section 702-acquired information was more pervasive than was previously believed.&#34;
+The opinion further documented that &#34;the government has reported numerous incidents regarding searches of section 702 FISA information without first obtaining court permission.&#34; Pointing to the discovery of 40 queries in which the FBI accessed information for investigations involving &#34;healthcare fraud, transnational organized crime, violent gangs, domestic terrorism involving racially motivated violent extremists, as well as investigations relating to public corruption and bribery&#34; — all unrelated to foreign surveillance.
+The FISC opinion noted that &#34;none of these queries was related to national security and they returned numerous Section 702-acquired products in response.&#34;
+Judge James E. Boasberg, the chief judge of the FISC, concluded that the court is &#34;concerned about the apparent widespread violations.&#34;
+Jordan and Biggs, in their letter to Wray, though, called the concerns &#34;particularly disturbing in light of prior FBI misconduct&#34; detailed by the Justice Department Inspector General Michael Horowitz in his 2019 report, which revealed a pattern of &#34;abuses and deficiencies in the FBI&#39;s FISA process.&#34;
+Horowitz&#39;s report revealed that the FBI had abused the FISA process to illegally surveil Page. The report also outlined 17 significant &#34;errors or omissions&#34; and 51 &#34;incorrect or unsupported factual assertions&#34; in the FBI&#39;s application to conduct warrantless surveillance.
+FISA WARRANTS DROPPED SHARPLY DURING CORONAVIRUS PANDEMIC, INTEL AGENCIES SAY
+&#34;Similarly, in March 2020, the OIG warned you of extensive noncompliance with Woods Procedures, which act as a safeguard and are designed to minimize factual inaccuracies in FISA applications by maintaining supporting documentation for each factual assertion in the application,&#34; Jordan and Biggs wrote.
+&#34;The OIG alerted you to unsupported, uncorroborated, or inconsistent information in the Woods Files of all 25 surveillance applications on U.S. Persons that the OIG examined,&#34; they continued.
+They added that the recently declassified FISC opinion, which was released in November 2020, &#34;only raises more questions about the FBI’s respect for the constitutional and statutory parameters of FISA.&#34;
+&#34;Given the seriousness of this matter for civil liberties, please provide the following information immediately,&#34; Jordan and Biggs wrote, requesting an explanation why the FBI was &#34;still&#34; &#34;abusing&#34; FISA; a detailed accounting of every instance since December 2019 when the FBI has &#34;queried, accessed&#34; information pursuant to FISA for purposes unrelated to national security; and an explanation on what specific actions Wray has taken to address the concerns in the November 2020 opinion to &#34;prevent the FBI from using its section 702 authorities to surveil, investigate, or otherwise examine U.S. citizens.&#34;
+In response to the 2020 FISA 702 Certification Opinion, a senior FBI official said the FISC opinion showed the high standards the government, including the FBI, has been expected to meet, saying the FBI &#34;takes those standards seriously.&#34; 
+The official told Fox News the FBI has taken &#34;numerous steps to facilitate compliance with the 702 query procedures,&#34; including implementing additional documentation requirements to ensure personnel &#34;have thought about the querying standard and articulate why they think it has been met,&#34; while also modifying &#34;multiple systems to better help personnel meet those legal requirements.&#34; 
+The official told Fox News the FBI then &#34;developed new guidance and training on those requirements and deployed the training to all FBI personnel with access to unminimized Section 702 information.&#34; 
+&#34;Anyone who did not complete the training no longer has access to that information,&#34; the official said, adding that the changes all took effect by December of 2019. Amid the coronavirus pandemic, the bureau was &#34;still assessing the efficacy&#34; of the changes, but has been &#34;committed to getting this right.&#34; 
+The official noted that most query incidents referenced in the report &#34;occurred prior to implementation of the FBI&#39;s system changes and training regarding the additional documentation requirements discussed above.&#34;  
+The official also noted that the FBI was &#34;dedicated to full adherence with FISA’s requirements and to keeping the American people safe from national security threats.&#34; 
+The official said that last year, the FBI also established the Office of Internal Auditing, headed by a senior FBI official, devoted to conducting additional internal reviews. The official said the office was established to &#34;ensure that rigorous and robust auditing, which is an essential ingredient to an effective compliance regime, is carried out.&#34; The official added that the office would &#34;help the FBI to conduct internal reviews on a continuous basis&#34; to establish ways to &#34;strengthen&#34; the FISA 702 compliance measures.
+Separately, Wray last year, in his first testimony following the Horowitz report, said he had already &#34;ordered more than 40 corrective actions to our FISA policies and procedures&#34; and said he has &#34;gone above and beyond&#34; in outlining the ways it &#34;should be changed&#34; to provide &#34;accountability, rigor and discipline.&#34;
+&#34;I do not think anyone has carte blanche to bypass rules, and I intend to make it painfully clear that is unacceptable at the FBI today,&#34; Wray added at the time.
+Meanwhile, the number of people targeted by FISA warrants plummeted in 2020 due to the coronavirus pandemic, national intelligence officials said last week. 
+An annual 
+report
+ released by the Office of the Director of National Intelligence (ODNI) showed that only 451 people were placed under electronic surveillance or issued search warrants obtained through the Foreign Intelligence Surveillance Act, also known as FISA, in 2020.
+The figure is a sharp drop from the 1,059 people targeted by federal officials in 2019 -- a decline the report suggested was due to the coronavirus.
+&#34;The impact of the COVID-19 pandemic likely influenced target behavior, which in turn may have impacted some of the numbers reported for that year,&#34; the ODNI report said.
+CLICK HERE TO GET THE FOX NEWS APP
+But the global pandemic does not explain the even greater decline in the number of people targeted by federal authorities between 2018 and 2019.
+Since reporting began in 2014, the number of issued FISA warrants peaked in 2018, with over 1,830 people targeted for surveillance – meaning the U.S. saw a more than 770 target decrease before last year.
+The decline in FISA warrants first coincided with fierce political scrutiny the FBI faced following the revelations of the Page surveillance. 
+Fox News&#39; Caitlin McFall contributed to this report.
+Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox
+Subscribed
+You&#39;ve successfully subscribed to this newsletter!
+
+        This material may not be published, broadcast, rewritten, or redistributed. ©2021 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by 
+Factset
+. Powered and implemented by 
+FactSet Digital Solutions
+. 
+Legal Statement
+. Mutual Fund and ETF data provided by 
+Refinitiv Lipper
+.
+      

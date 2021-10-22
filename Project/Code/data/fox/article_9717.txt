@@ -1,0 +1,62 @@
+
+      This material may not be published, broadcast, rewritten,
+      or redistributed. ©2021 FOX News Network, LLC. All rights reserved.
+      Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by 
+Factset
+. Powered and implemented by 
+FactSet Digital Solutions
+. 
+Legal Statement
+. Mutual Fund and ETF data provided by 
+Refinitiv Lipper
+.
+    
+Former State Department adviser Morgan Wright suggests how the Biden administration should respond to a rise in ransomware attacks
+President Biden
+ is hosting virtual meetings this week with more than 30 countries to &#34;accelerate cooperation to counter ransomware,&#34; but the White House did not extend the invitation to 
+Russia
+, senior administration officials said, noting that United States and the Kremlin have a &#34;separate channel&#34; where they &#34;actively&#34; discuss the matter.
+Senior administration officials said the president’s meetings on Wednesday and Thursday are intended to build upon U.S. leadership in rallying allies and partners to address ransomware threats around the globe, which officials said have been increasing in &#34;scale, sophistication and frequency&#34; and have victimized governments, individuals and private companies around the globe.
+TREASURY SANCTIONS SUEX VIRTUAL CURRENCY EXCHANGE OVER RANSOMWARE TRANSACTIONS
+The officials went on to outline the White House’s four-point strategy to tackle ransomware — disrupting ransomware actors; bolstering more resilience to withstand ransomware attacks; addressing abuse of virtual currency to launder ransomware payments; and leveraging international cooperation to disrupt the ransomware ecosystem.
+Countries scheduled to attend the virtual meeting are Australia, Brazil, Bulgaria, Canada, Czech Republic, Dominican Republic, Estonia, France, Germany, India, Ireland, Israel, Italy, Japan, Kenya, Lithuania, Mexico, the Netherlands, New Zealand, Nigeria, Poland, the Republic of Korea, Romania, Singapore, South Africa, Sweden, Switzerland, Ukraine, United Arab Emirates, the United Kingdom and the European Union.
+&#34;Russia is not participating at this time,&#34; a senior administration official said, adding that the administration has &#34;a separate channel in which we’re actively discussing ransomware&#34; with Russia.
+
+      U.S President Joe Biden, right, and Russian President Vladimir Putin enter the &#39;Villa la Grange&#39; during their meeting in Geneva, Switzerland in Geneva, Switzerland, Wednesday, June 16, 2021. 
+      
+(AP Photo/Alexander Zemlianichenko, Pool)
+Officials said that the president established a U.S.-Kremlin experts group for the U.S. to engage &#34;directly&#34; on the issue of ransomware.
+&#34;We do look to the Russian government to address ransomware criminal activity coming from actors within Russia,&#34; an official said, adding that the Biden administration has &#34;also shared information with Russia regarding criminal ransomware activity being conducted from its territory.&#34;
+&#34;We’ve seen some steps by the Russian government, and are looking to see follow up actions and broader international cooperation is an important line of effort, because these are transnational criminal organizations,&#34; an official said, adding that they &#34;leverage global infrastructure and money laundering networks to carry out their attacks.&#34;
+CLICK HERE TO GET THE FOX NEWS APP
+Biden, during his summit in Geneva with Russian President Vladimir Putin in June, raised the issue of ransomware. Biden, at the time, said he told Putin that &#34;certain critical infrastructure should be off limits to attack.&#34; Biden said he gave a list of &#34;16 specific entities defined as critical infrastructure,&#34; saying it ranged from energy to water systems. 
+Putin, though, during his press conference after the meeting, denied that Russia was responsible for cyberattacks and instead claimed that the most cyberattacks in the world were carried out from the U.S.
+But Biden administration officials stressed Tuesday that working with international partners is imperative to ensure the U.S. can disrupt attacks, including &#34;the illicit use of virtual currency that really drives the growth of ransomware.&#34; 
+Last month, the Treasury Department imposed sanctions on the virtual currency exchange SUEX OTC, S.R.O. after determining it had &#34;facilitated transactions involving illicit proceeds&#34; for at least eight ransomware variants.
+The Biden administration has explained that some virtual currency exchanges have proven to be a &#34;critical element&#34; for ransomware, as virtual currency &#34;is the principal means of facilitating ransomware payments and associated money-laundering activities.&#34;
+BIDEN SIGNS NATIONAL SECURITY MEMO TO PROTECT CRITICAL INFRASTRUCTURE CYBERSECURITY
+The Treasury Department’s Office of Foreign Assets Control’s designation of SUEX is the &#34;first designation of a virtual currency exchange with complicity in criminal ransomware activity.&#34; The Treasury Department said virtual currency exchanges, like SUEX, are &#34;critical to the profitability of ransomware attacks, which help fund additional cybercriminal activity.&#34; 
+&#34;Treasury will continue to disrupt and hold accountable these entities to reduce the incentive for cybercriminals to conduct these attacks,&#34; the Treasury Department said, adding that the designation of SUEX was done in coordination with the FBI. 
+The Biden administration&#39;s effort to strengthen cyber defenses comes after a string of ransomware attacks earlier this summer, with foreign malign actors targeting pieces of U.S. critical infrastructure.
+CYBERSECURITY OFFICIAL WARNS OF MORE RANSOMWARE ATTACKS
+In June, a ransomware assault shut down the U.S.-based meat plants of the world’s largest meatpacker, Brazil-based JBS. The White House said the hack was likely carried out by a criminal group based in Russia. 
+The attack on JBS came just weeks after the largest U.S. fuel pipeline, the East Coast&#39;s Colonial Pipeline, was targeted by a criminal group originating in Russia.
+Senior administration officials said the overall &#34;optimal&#34; approach is modernizing the national defense, federal government, state and local government and critical infrastructure, as well as the broader private sector so they are &#34;modern enough to meet the threat.&#34;
+President Biden, in July, signed a national security memorandum directing his administration to develop cybersecurity performance goals for critical 
+infrastructure
+ in the U.S. – entities like electricity utility companies, chemical plants and nuclear reactors. 
+The memo  also formally established Biden&#39;s Cyber Security Initiative, a voluntary collaborative effort between the federal government and critical infrastructure entities to facilitate the deployment of technology and systems that provide threat visibility indicators and detections. 
+Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox
+Subscribed
+You&#39;ve successfully subscribed to this newsletter!
+
+        This material may not be published, broadcast, rewritten, or redistributed. ©2021 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by 
+Factset
+. Powered and implemented by 
+FactSet Digital Solutions
+. 
+Legal Statement
+. Mutual Fund and ETF data provided by 
+Refinitiv Lipper
+.
+      

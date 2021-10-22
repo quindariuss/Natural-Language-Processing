@@ -1,0 +1,99 @@
+
+      This material may not be published, broadcast, rewritten,
+      or redistributed. ©2021 FOX News Network, LLC. All rights reserved.
+      Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by 
+Factset
+. Powered and implemented by 
+FactSet Digital Solutions
+. 
+Legal Statement
+. Mutual Fund and ETF data provided by 
+Refinitiv Lipper
+.
+    
+Former secretary of state Mike Pompeo discusses on &#39;The Story&#39;
+U.S.
+ and 
+British agencies
+ disclosed on Thursday details of &#34;brute force&#34; methods they say have been used by 
+Russian intelligence
+ to try to break into the cloud services of hundreds of 
+government
+ agencies, energy companies and other organizations.
+An advisory released by the U.S. National Security Agency describes attacks by operatives linked to the GRU, the 
+Russian military intelligence
+ agency, which has been previously tied to major 
+cyberattacks abroad
+ and efforts to disrupt the 2016 and 2020 American elections.
+In a statement, 
+NSA Cybersecurity
+ Director Rob Joyce said the campaign was &#34;likely ongoing, on a global scale.&#34;
+PUTIN: US AND BRITAIN BOTH BEHIND BLACK SEA ‘PROVOCATION’
+Brute force attacks involve the automated spraying of sites with potential passwords until hackers gain access. The advisory urges companies to adopt methods long urged by experts as common-sense cyber hygiene, including the use of multi-factor authentication and mandating strong passwords.
+Issued during a devastating wave of ransomware attacks on governments and key infrastructure, the advisory does not disclose specific targets of the campaign or its presumed purpose, saying only that hackers have targeted hundreds of organizations worldwide.
+The 
+NSA
+ says GRU-linked operatives have tried to break into networks using Kubernetes, an open-source tool originally developed by Google to manage cloud services, since at least mid-2019 through early this year. While a &#34;significant amount&#34; of the attempted break-ins targeted organizations using Microsoft&#39;s Office 365 cloud services, the hackers went after other cloud providers and email servers as well, the 
+NSA
+ said.
+The U.S. has long accused 
+Russia
+ of using and tolerating 
+cyberattacks
+ for espionage, spreading disinformation, and the disruption of governments and key infrastructure. 
+The Russian Embassy
+ in Washington did not immediately respond to a request for comment Thursday.
+Joe Slowik, a threat analyst at the network-monitoring firm Gigamon, said the activity described by 
+NSA
+ on Thursday shows the GRU has further streamlined an already popular technique for breaking into networks. He said it appears to overlap with Department of Energy reporting on brute force intrusion attempts in late 2019 and early 2020 targeting the U.S. energy and government sectors and is something the 
+U.S. government
+ has apparently been aware of for some time.
+
+      
+      
+( )
+CHINA, RUSSIA, EXPLOITING UNITED NATIONS TO PUSH BACK AGAINST US INTERESTS, REPORT SAYS
+Slowik said the use of Kubernetes &#34;is certainly a bit unique, although on its own it doesn’t appear worrying.&#34; He said the brute force method and lateral movement inside networks described by 
+NSA
+ are common among state-backed hackers and criminal ransomware gangs, allowing the GRU to blend in with other actors.
+John Hultquist, vice president of analysis at the cybersecurity firm Mandiant, characterized the activity described in the advisory as &#34;routine collection against policy makers, diplomats, the military, and the defense industry.&#34;
+&#34;This is a good reminder that the GRU remains a looming threat, which is especially important given the upcoming Olympics, an event they may well attempt to disrupt,&#34; Hultquist said in a statement.
+The FBI
+ and the 
+Cybersecurity
+ and Infrastructure Security Agency joined the advisory, as did the British National Cyber Security Centre.
+The GRU has been repeatedly linked by U.S. officials in recent years to a series of hacking incidents. In 2018, special counsel Robert Mueller’s office charged 12 military intelligence officers with hacking Democratic emails that were then released by WikiLeaks in an effort to harm Hillary Clinton’s presidential campaign and boost Donald Trump’s bid.
+More recently, the Justice Department announced charges last fall against GRU officers in 
+cyberattacks
+ that targeted a French presidential election, the Winter Olympics in South Korea and American businesses.
+CLICK HERE TO GET THE FOX NEWS APP
+Unlike 
+Russia’s foreign intelligence agency
+ SVR, which is blamed for the SolarWinds hacking campaign and is careful not to be detected in its cyber ops, the GRU has carried out the most damaging 
+cyberattacks
+ on record, including two on Ukraine’s power grid and the 2017 NotPetya virus that caused more than $10 billion in damage globally.
+GRU operatives have also been involved in the spread of disinformation related to the coronavirus pandemic, 
+U.S. officials
+ have alleged. And an American intelligence assessment in March says the GRU tried to monitor people in U.S. politics in 2019 and 2020 and staged a phishing campaign against subsidiaries of the Ukrainian energy company Burisma, likely to gather information damaging to 
+President Joe Biden,
+ whose son had earlier served on the board.
+The Biden administration
+ in April sanctioned 
+Russia
+ after linking it to
+ election interference
+ and the SolarWinds breach.
+Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox
+Subscribed
+You&#39;ve successfully subscribed to this newsletter!
+
+        This material may not be published, broadcast, rewritten, or redistributed. ©2021 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by 
+Factset
+. Powered and implemented by 
+FactSet Digital Solutions
+. 
+Legal Statement
+. Mutual Fund and ETF data provided by 
+Refinitiv Lipper
+.
+      

@@ -1,0 +1,65 @@
+
+      This material may not be published, broadcast, rewritten,
+      or redistributed. ©2021 FOX News Network, LLC. All rights reserved.
+      Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by 
+Factset
+. Powered and implemented by 
+FactSet Digital Solutions
+. 
+Legal Statement
+. Mutual Fund and ETF data provided by 
+Refinitiv Lipper
+.
+    
+FOX News national security correspondent Jennifer Griffin joins &#39;Special Report&#39; with latest on cyberattack
+Senate
+ Intelligence Chairman Mark Warner has sent a letter to the 
+FBI
+ and Environmental Protection Agency (EPA) seeking more information regarding the recent 
+computer breach
+ at a 
+Florida
+ water treatment facility, citing the need to ensure that potential security weaknesses are addressed.
+Warner, a Virginia Democrat and chair of the Senate Select Committee on Intelligence, 
+penned the letter
+ to Matt Dorham, assistant director of the FBI’s Cyber Division, and Radhika Fox, acting assistant administrator for the EPA’s Office of Water.
+HACK OF WATER SUPPLY IN SMALL FLORIDA TOWN SIMILAR TO ISRAELI ATTACK BLAMED ON IRAN
+He cited Cybersecurity &amp; Infrastructure Security Agency (CISA) data that indicates 80% of the nation’s drinkable water comes from about 153,000 public water systems, &#34;and any type of attack, including a cyber attack, could result in ‘illnesses or casualties and/or a denial of service that would also impact public health and economic vitality,’&#34; the letter states.
+He added: &#34;Additionally, other critical infrastructure sectors such as healthcare, emergency services, energy, food and agriculture, and transportation systems depend on the cyber resilience of water facilities.&#34;
+
+      In this screenshot from a YouTube video posted by the Pinellas County Sheriff&#39;s Office, Pinellas County Sheriff Bob Gualtieri speaks during a news conference as Oldsmar, Fla., Mayor Eric Seidel, left, listens, Monday, Feb. 8, 2021, in Oldsmar, Fla. (Pinellas County Sheriff&#39;s Office via AP)
+      
+((Pinellas County Sheriff&#39;s Office via AP))
+FBI ISSUES ALERT AMID FLORIDA OLDSMAR WATER-TREATMENT HACKING INVESTIGATION
+On Feb. 5, a plant operator at the Oldsmar water treatment facility thwarted a 
+hacker’s
+ attempt to elevate the amount of sodium hydroxide in the water to &#34;dangerous levels,&#34; Pinellas County Sheriff Bob Gualtieri said during a subsequent press conference.
+The hacker first breached the system at approximately 8 a.m. that day but only did so momentarily before logging off. A plant operator on duty noticed the &#34;brief&#34; remote access but wasn’t particularly concerned because supervisors &#34;regularly&#34; access the computers remotely to monitor the system, officials said.
+But around 1:30 p.m. that same day, &#34;someone again remotely accessed the computer system and it showed up on the operator’s screen with a mouse being moved about to open various software functions that control the water being treated in the system,&#34; Gualtieri said.
+The hacker took over the system for anywhere from three to five minutes when they opened a function that controls the amount of sodium hydroxide in the water and changed the amount from 100 parts-per-million to 11,100 parts-per-million, Gualtieri said.
+&#34;This is obviously a significant and potentially dangerous increase. Sodium hydroxide, also known as lye, is the main ingredient in liquid drain cleaners,&#34; he continued. &#34;It’s also used to control water acidity and remove metals from drinking water in the water treatment plants.&#34;
+The hacker left the system shortly after changing the parts-per-million, and officials say the plant operator &#34;immediately reduced the level back to the appropriate amount.&#34; The public, in turn, was never in danger, he said.
+While investigators are still probing how the hackers breached the system, the FBI released a threat alert last week, warning that &#34;corrupt insiders and external cyber actors [were] using desktop sharing software to victimize targets in a range of organizations, including those in the critical infrastructure sectors.&#34;
+Officials said hackers have been exploiting the legitimate software, called TeamViewer, to &#34;exercise remote control over computer systems.&#34; 
+The FBI confirmed to Fox News on Tuesday that it had received Warner’s letter. A spokesperson would not comment further other than to say: &#34;FBI Tampa is working jointly with the City of Oldsmar and Pinellas County Sheriff&#39;s Office in the investigation of this incident. We do not have further comment at this time.&#34; 
+An EPA spokesperson told Fox News: &#34;We have received the letter and will respond through appropriate channels.&#34;
+Warner asked, first and foremost, that he be provided with the progress of the FBI’s investigation into the treatment plant breach. He is also seeking &#34;a review by the Environmental Protection Agency into whether the Oldsmar water treatment facility was compliant with the most recent Water and Wastewater Sector-Specific Plan, and whether that plan, most recently updated in 2015, needs to be updated to confront similar risks,&#34; he wrote.
+CLICK HERE TO GET THE FOX NEWS APP
+ 
+Lastly, he is asking for confirmation that the federal government is &#34;sharing timely threat information related to this incident with water and wastewater facilities, and other critical infrastructure providers across the United States.&#34;
+&#34;This incident has implications beyond the 15,000-person town of Oldsmar,&#34; he wrote. &#34;While the Oldsmar water treatment facility incident was detected with sufficient time to mitigate serious risks to the citizens of Oldsmar, and appears to have been identified as the result of a diligent employee monitoring this facility’s operations, future compromises of this nature may not be detected in time.&#34;
+Fox News’ Michael Ruiz contributed to this report.
+Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox
+Subscribed
+You&#39;ve successfully subscribed to this newsletter!
+
+        This material may not be published, broadcast, rewritten, or redistributed. ©2021 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by 
+Factset
+. Powered and implemented by 
+FactSet Digital Solutions
+. 
+Legal Statement
+. Mutual Fund and ETF data provided by 
+Refinitiv Lipper
+.
+      
