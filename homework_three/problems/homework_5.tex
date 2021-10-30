@@ -1,0 +1,284 @@
+\textbf{Sentence}
+\begin{center}
+\begin{dependency}
+	\begin{deptext}[column sep=0.2cm]
+      I \& parsed \& this \& sentence \& correctly \\
+   \end{deptext}
+	\depedge{2}{1}{nsubj}
+	\depedge{2}{5}{advmod}
+	\depedge{2}{4}{dobj}
+	\depedge{4}{3}{det}
+	\deproot{2}{Root}
+\end{dependency}
+\end{center}
+\textbf{States}
+\begin{itemize}
+	\item Start State
+		\begin{itemize}
+			\item Stack intialized with Root node
+			\item Input buffer with words of the sentence
+			\item Dependency relation set is empty
+		\end{itemize}
+	\item Transition State
+		\begin{itemize}
+			\item Producing a new configuation
+		\end{itemize}
+	\item End State
+		\begin{itemize}
+			\item Stack and word list are empty
+			\item Dependency relation set is finalized
+		\end{itemize}
+\end{itemize}
+\textbf{Transition Operators}
+\begin{itemize}
+	\item LEFT-ARC
+		\begin{itemize}
+			\item Create a head-dependent relation\footnote{In linguistics, the head or nucleus of a phrase is the word that determines the syntactic category of that phrase.} between word at the top of the stack and the word under the top.
+			\item Remove 2nd word from the stack
+		\end{itemize}
+	\item RIGHT-ARC
+		\begin{itemize}
+			\item Create a head dependent relation between the word on the bottom of the top and the top of the stack.
+			\item Remove the word at the top of the stack
+		\end{itemize}
+	\item SHIFT
+		\begin{itemize}
+			\item Remove the word at the head of the input buffer.
+			\item Push that word onto the stack 
+		\end{itemize}
+\end{itemize}
+\begin{multicols}{2}
+
+	\textbf{Stack}
+
+	\vspace{1cm}
+
+	\begin{drawstack}
+		\cell{Empty Stack}
+	\end{drawstack}
+	\columnbreak
+	
+	\textbf{Input Buffer}
+
+\begin{dependency}
+	\begin{deptext}[column sep=0.2cm]
+      I \& parsed \& this \& sentence \& correctly \\
+   \end{deptext}
+\end{dependency}
+
+	\textbf{Operations}
+
+	
+\end{multicols}
+\begin{center}
+	\textbf{Relations}
+
+\begin{dependency}
+	\begin{deptext}[column sep=0.2cm]
+		I\& parsed \& this \& sentence \& correctly \\
+   \end{deptext}
+\end{dependency}
+\end{center}
+\pagebreak
+
+\begin{multicols}{2}
+
+	\textbf{Stack}
+
+	\vspace{1cm}
+
+	\begin{drawstack}
+		\cell{I}
+	\end{drawstack}
+	\columnbreak
+	
+	\textbf{Input Buffer}
+
+\begin{dependency}
+	\begin{deptext}[column sep=0.2cm]
+       parsed \& this \& sentence \& correctly \\
+   \end{deptext}
+\end{dependency}
+
+	\textbf{Operations}
+	\begin{enumerate}
+		\item SHIFT
+	\end{enumerate}
+	
+\end{multicols}
+\begin{center}
+	\textbf{Relations}
+
+\begin{dependency}
+	\begin{deptext}[column sep=0.2cm]
+		I\& parsed \& this \& sentence \& correctly \\
+   \end{deptext}
+\end{dependency}
+\end{center}
+
+\begin{multicols}{2}
+
+	\textbf{Stack}
+
+	\vspace{1cm}
+
+	\begin{drawstack}
+		\cell{parsed}
+		\cell{I}
+	\end{drawstack}
+	\columnbreak
+	
+	\textbf{Input Buffer}
+
+\begin{dependency}
+	\begin{deptext}[column sep=0.2cm]
+        this \& sentence \& correctly \\
+   \end{deptext}
+\end{dependency}
+
+	\textbf{Operations}
+	\begin{enumerate}
+		\item SHIFT
+		\item SHIFT
+		\item left-arc
+	\end{enumerate}
+	
+\end{multicols}
+\begin{center}
+	\textbf{Relations}
+
+\begin{dependency}
+	\begin{deptext}[column sep=0.2cm]
+		I\& parsed \& this \& sentence \& correctly \\
+   \end{deptext}
+	\depedge{2}{1}{nsubj}
+\end{dependency}
+\end{center}
+\pagebreak
+\begin{multicols}{2}
+
+	\textbf{Stack}
+
+	\vspace{1cm}
+
+	\begin{drawstack}
+		\cell{sentence}
+		\cell{this}
+		\cell{parsed}
+	\end{drawstack}
+	\columnbreak
+	
+	\textbf{Input Buffer}
+
+\begin{dependency}
+	\begin{deptext}[column sep=0.2cm]
+        \& correctly \\
+   \end{deptext}
+\end{dependency}
+
+	\textbf{Operations}
+	\begin{enumerate}
+		\item SHIFT
+		\item SHIFT
+		\item left-arc
+		\item SHIFT
+		\item SHIFT
+		\item left-arc
+	\end{enumerate}
+	
+\end{multicols}
+\begin{center}
+	\textbf{Relations}
+
+\begin{dependency}
+	\begin{deptext}[column sep=0.2cm]
+		I\& parsed \& this \& sentence \& correctly \\
+   \end{deptext}
+	\depedge{2}{1}{nsubj}
+	\depedge{4}{3}{det}
+\end{dependency}
+\end{center}
+
+\begin{multicols}{2}
+
+	\textbf{Stack}
+
+	\vspace{1cm}
+
+	\begin{drawstack}
+		\cell{correctly}
+		\cell{parsed}
+	\end{drawstack}
+	\columnbreak
+	
+	\textbf{Input Buffer}
+	\vspace{1cm}
+
+	\textbf{Operations}
+	\begin{enumerate}
+		\item SHIFT
+		\item SHIFT
+		\item left-arc
+		\item SHIFT
+		\item SHIFT
+		\item left-arc
+		\item right-arc
+		\item SHIFT
+	\end{enumerate}
+	
+\end{multicols}
+\begin{center}
+	\textbf{Relations}
+
+\begin{dependency}
+	\begin{deptext}[column sep=0.2cm]
+		I\& parsed \& this \& sentence \& correctly \\
+   \end{deptext}
+	\depedge{2}{1}{nsubj}
+	\depedge{4}{3}{det}
+	\depedge{2}{4}{dobj}
+\end{dependency}
+\end{center}
+
+\begin{multicols}{2}
+
+	\textbf{Stack}
+
+	\vspace{1cm}
+
+	\begin{drawstack}
+		\cell{parsed}
+	\end{drawstack}
+	\columnbreak
+	
+	\textbf{Input Buffer}
+	\vspace{1cm}
+
+	\textbf{Operations}
+	\begin{enumerate}
+		\item SHIFT
+		\item SHIFT
+		\item left-arc
+		\item SHIFT
+		\item SHIFT
+		\item left-arc
+		\item right-arc
+		\item SHIFT
+		\item right-arc
+	\end{enumerate}
+	
+\end{multicols}
+\begin{center}
+	\textbf{Relations}
+
+\begin{dependency}
+	\begin{deptext}[column sep=0.2cm]
+		I\& parsed \& this \& sentence \& correctly \\
+   \end{deptext}
+	\depedge{2}{1}{nsubj}
+	\depedge{4}{3}{det}
+	\depedge{2}{4}{dobj}
+	\depedge{2}{5}{advmod}
+	\deproot{2}{Root}
+\end{dependency}
+\end{center}

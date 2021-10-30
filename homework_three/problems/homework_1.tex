@@ -1,0 +1,100 @@
+\begin{align*}
+	\mathrm{SENTENCE} &\mapsto \mathrm{NOUN\;PHRASE\quad VERB\;PHRASE} \\
+	\mathrm{NOUN\;PHRASE} &\mapsto \mathrm{NOUN\;PHRASE \quad PREPOSITIONAL\;PHRASE}\\
+	\mathrm{NOUN\;PHRASE} &\mapsto \mathrm{DETERMINER \quad NOUN}\\
+	\mathrm{VERB\;PHRASE} &\mapsto \mathrm{TRANSITIVE\;VERB\quad NOUN\;PHRASE}\\
+	\mathrm{VERB\;PHRASE} &\mapsto \mathrm{VERB\;PHRASE \quad PREPOSITIONAL\;PHRASE}\\
+	\mathrm{VERB\;PHRASE} &\mapsto \mathrm{INTRANSITIVE\;VERB}\\
+	\mathrm{PREPOSITIONAL\;PHRASE} &\mapsto \mathrm{PREPOSITION \quad NOUN\;PHRASE}\\
+	\mathrm{NOUN} &\mapsto \mathrm{man}\\
+	\mathrm{NOUN} &\mapsto \mathrm{woman}\\
+	\mathrm{NOUN} &\mapsto \mathrm{telescope}\\
+	\mathrm{INTRANSITIVE\;VERB} &\mapsto \mathrm{sleeps}\\
+	\mathrm{TRANSITIVE\;VERB} &\mapsto \mathrm{saw}\\
+	\mathrm{DETERMINER} &\mapsto \mathrm{the}\\
+	\mathrm{PREPOSITION} &\mapsto \mathrm{with}\\
+	\mathrm{PREPOSITION} &\mapsto \mathrm{in}
+\end{align*}
+\subsection{Parse Tree}
+\textbf{Sentence}
+\begin{quote}
+	The man saw the woman with the telescope
+\end{quote}
+\begin{forest}
+	where n children=0{tier=word}{}
+	[Sentence
+		[Noun Phrase
+			[Determiner[The]]
+			[Noun[man]]
+			]
+		[Verb Phrase 
+			[Transitive Verb[saw]]
+			[Noun Phrase
+				[Noun Phrase
+					[Determiner[the]]
+					[Noun[woman]]
+				]	
+				[Prepositional Phrase
+					[Perposition[with]]
+					[Noun Phrase
+						[Determiner[the]]
+						[Noun[telescope]]
+					]
+				]
+				]
+			]
+			]
+\end{forest}
+\subsection{Probabilistic Parse Tree}
+\textbf{Sentence One}
+\begin{quote}
+	The man saw the woman with the telescope
+\end{quote}
+\hspace{-3cm}
+\begin{forest}
+	where n children=0{tier=word}{}
+	[Sentence(1.0)
+		[Noun Phrase(0.3)
+			[Determiner(1.0)[The]]
+			[Noun(0.7)[man]]
+			]
+		[Verb Phrase(.4)
+			[Transitive Verb(1.0)[saw]]
+			[Noun Phrase(0.7)
+				[Noun Phrase(0.3)
+					[Determiner(1.0)[the]]
+					[Noun(0.3)[woman]]
+				]	
+				[Prepositional Phrase(1.0)
+					[Perposition(0.5)[with]]
+					[Noun Phrase(0.3)
+						[Determiner(1.0)[the]]
+						[Noun(0.1)[telescope]]
+					]
+				]
+				]
+			]
+			]
+\end{forest}
+\begin{multline*}
+	Probabilistic\;Tree=1.0*0.3*1.0*0.7*0.4*
+	\\1.0*0.7*0.3*1.0*0.3* 1.0*0.5*
+	\\0.3*1.0*0.1=0.00007938
+\end{multline*}
+\textbf{Sentence Two}
+\begin{quote}
+	The man sleeps
+\end{quote}
+\begin{forest}
+	where n children=0{tier=word}{}
+	[Sentence(1.0)
+	[Noun Phrase(0.3)
+		[Determiner(1.0)[The]]
+		[Noun(0.7)[man]]
+	]
+	[Verb Phrase(.4)[sleeps]]
+	]
+\end{forest}
+\begin{multline*}
+	Probabilistic\;Tree=1.0*0.3*1.0*0.7*0.4 = 0.084
+\end{multline*}

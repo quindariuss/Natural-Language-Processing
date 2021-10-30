@@ -1,9 +1,10 @@
 #include <stdio.h> 
-
+#include <stdlib.h>
 int main() 
 {
 	int index; 
-	int word_count = 0;
+	int word_count = 10000;
+	char * word = (char*)malloc(sizeof(char) * 40);
 
 	while((scanf("%s",word) != EOF))
 	{
