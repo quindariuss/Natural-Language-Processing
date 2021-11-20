@@ -1,11 +1,132 @@
 Given candidate translation sentences and their references below. 
-
-\begin{itemize}
-	\item	[\textbf{Candidate One}] the cat the cat on the mat
-	\item	[\textbf{Candidate Two}] the cat on mat mat
-	\item	[\textbf{Reference One}] the cat is on the mat
-	\item	[\textbf{Reference Two}] there is a cat on the mat
-\end{itemize}
-
 Evaluate your translation model performance using BLUE score where n-gram order, $N=3$.
+\subsection{Answer}
+Given the N Gram count of 3 it makes the model not pickup the phrases well.
+The model doesn't match any of the N grams in the second candidate sentence.
+
+\begin{center}
+	Blue Score, Replacing ones with zeros by transforming all values by one.
+\end{center}
+
+\begin{align*}
+	Sentence\;One &= \bigg\{
+	\frac{8}{8}*
+	\frac{5}{7}*
+	\frac{3}{6}
+		\bigg\}^{\frac{1}{3}}
+	=.7095
+	\\
+	Sentence\;Two &= \bigg\{ 
+	\frac{6}{6}*
+	\frac{3}{5}*
+	\frac{1}{4}
+	\bigg\}^{\frac{1}{3}}
+	=.5313
+	\\
+	Average &= \bigg\{
+		\frac
+		{.7095 + .5315}
+		{2}
+		\bigg\}
+		= 62.04\%
+\end{align*}
+\pagebreak
+\begin{multicols}{2}
+\begin{itemize}
+		\setlength\itemsep{.001em}
+	\item	[\textbf{Candidate One}] the cat the cat on the mat
+		\begin{itemize}
+		\setlength\itemsep{.001em}
+			\item [Unigram]
+			\item[\textcolor{red}{R1} \textcolor{red}{R2} -]	the 
+			\item[\textcolor{red}{R1} \textcolor{red}{R2} -]	cat 
+			\item[\textcolor{red}{R1} \textcolor{red}{R2} -]	the 
+			\item[\textcolor{red}{R1} \textcolor{red}{R2} -]	cat 
+			\item[\textcolor{red}{R1} \textcolor{red}{R2} -]	on 
+			\item[\textcolor{red}{R1} \textcolor{red}{R2} -]	the 
+			\item[\textcolor{red}{R1} \textcolor{red}{R2} -]	mat
+			\item [Bigram]
+			\item[\textcolor{red}{R1} R2 -]	the cat 
+			\item[R1 R2 -]	cat the 
+			\item[R1 R2 -]	the cat 
+			\item[R1 \textcolor{red}{R2} -]	cat on 
+			\item[\textcolor{red}{R1} \textcolor{red}{R2} -]	on the 
+			\item[\textcolor{red}{R1} \textcolor{red}{R2} -]	the mat
+			\item [Trigram] 
+			\item[R1 R2 -]	the cat the
+			\item[R1 R2 -]	cat the cat
+			\item[R1 R2 -]	the cat on
+			\item[R1 \textcolor{red}{R2} -]	cat on the
+			\item[\textcolor{red}{R1} R2 -]	on the mat
+		\end{itemize}
+	\item	[\textbf{Candidate Two}] the cat on mat mat
+		\begin{itemize}
+		\setlength\itemsep{.001em}
+			\item [Unigram]
+			\item[\textcolor{red}{R1} \textcolor{red}{R2} -]	the 
+			\item[\textcolor{red}{R1} \textcolor{red}{R2} -]	cat 
+			\item[\textcolor{red}{R1} \textcolor{red}{R2} -]	on 
+			\item[\textcolor{red}{R1} \textcolor{red}{R2} -]	mat 
+			\item[\textcolor{red}{R1} \textcolor{red}{R2} -]	mat
+			\item [Bigram]
+			\item[\textcolor{red}{R1} R2 -]	the cat 
+			\item[R1 \textcolor{red}{R2} -]	cat on 
+			\item[R1 R2 -]	on mat 
+			\item[R1 R2 -]	mat mat
+			\item [Trigram] 
+			\item[R1 R2 -]	the cat on
+			\item[R1 R2 -]	cat on mat
+			\item[R1 R2 -]	on mat mat
+		\end{itemize}
+\columnbreak
+	\item	[\textbf{Reference One}] the cat is on the mat
+		\begin{itemize}
+		\setlength\itemsep{.001cm}
+			\item [Unigram]
+			\item[\textcolor{red}{C1} \textcolor{red}{C2} -]	 the 
+			\item[\textcolor{red}{C1} \textcolor{red}{C2} -]	 cat 
+			\item[C1 C2 -]	 is 
+			\item[\textcolor{red}{C1} \textcolor{red}{C2} -]	 on 
+			\item[\textcolor{red}{C1} \textcolor{red}{C2} -]	 the 
+			\item[\textcolor{red}{C1} \textcolor{red}{C2} -]	 mat
+			\item [Bigram]
+			\item[\textcolor{red}{C1} \textcolor{red}{C2} -]	 the cat 
+			\item[C1 C2 -]	 cat is 
+			\item[C1 C2 -]	 is on 
+			\item[\textcolor{red}{C1} C2 -]	 on the 
+			\item[\textcolor{red}{C1} C2 -] the mat
+			\item [Trigram] 
+			\item[C1 C2 -]	the cat is
+			\item[C1 C2 -]	cat is on
+			\item[C1 C2 -]	is on the
+			\item[\textcolor{red}{C1} C2 -]	on the mat
+		\end{itemize}
+	\item	[\textbf{Reference Two}] there is a cat on the mat
+		\begin{itemize}
+		\setlength\itemsep{.001cm}
+			\item [Unigram]
+			\item there 
+			\item[C1 C2 -]		 is 
+			\item[C1 C2 -]		 a 
+			\item[\textcolor{red}{C1} \textcolor{red}{C2} -]		 cat 
+			\item[\textcolor{red}{C1} \textcolor{red}{C2} -]		 on 
+			\item[\textcolor{red}{C1} \textcolor{red}{C2} -]		 the 
+			\item[\textcolor{red}{C1} \textcolor{red}{C2} -]		 mat
+			\item [Bigram]
+			\item[C1 C2 -]		 there is
+			\item[C1 C2 -]		 is a
+			\item[C1 C2 -]		 a cat
+			\item[\textcolor{red}{C1} \textcolor{red}{C2} -]		 cat on 
+			\item[C1 \textcolor{red}{C2} -]		 on the
+			\item[C1 \textcolor{red}{C2} -]		 the mat
+			\item [Trigram] 
+			\item[C1 C2 -]	there is a
+			\item[C1 C2 -]	is a cat
+			\item[C1 C2 -]	a cat on
+			\item[\textcolor{red}{C1} C2 -]	cat on the
+			\item[\textcolor{red}{C1} C2 -]	on the mat
+		\end{itemize}
+\end{itemize}
+\end{multicols}
+
 

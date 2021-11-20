@@ -1,0 +1,1 @@
+echo "$1" | sed 's/What is /https:\/\/en.wikipedia.org\/wiki\//'|sed 's/?//' | sed 's/ /-/' | sed 's/ /_/' | xargs curl

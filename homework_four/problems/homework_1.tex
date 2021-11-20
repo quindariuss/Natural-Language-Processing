@@ -9,3 +9,29 @@ Given a corpus of two English sentences with their translation in Latin below.
 
 Build your lexical translation model (IBM Model 1) and show each training (expectation maximization) step’s computation. 
 Assume that the model only trains for two iterations.
+\begin{center}
+	Uniform Probablitiy 
+\end{center}
+\begin{multicols}{2}
+	\begin{align*}
+		Probablity &(this|hoc) = \frac{1}{2} \\
+		Probablity &(course|utique)= \frac{1}{2}
+	\end{align*}
+
+	\columnbreak
+
+	\begin{align*}
+		Probablity&(Text|Textus)= \frac{1}{2}\\
+		Probablity&(processing|processus)= \frac{1}{2}
+	\end{align*}
+\end{multicols}
+
+\begin{align*}
+	Probablity (this|hoc)* Probablity (course|utique) &= \frac{1}{4}\\
+		Probablity(Text|Textus)* Probablity(processing|processus)& = \frac{1}{4}
+\end{align*}
+
+\begin{align*}
+	Probablity(A|E, F) &= \frac{1}{2}\\
+	Probablity(A|E, F)&= \frac{1}{2}
+\end{align*}

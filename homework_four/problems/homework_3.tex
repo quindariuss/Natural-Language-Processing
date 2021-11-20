@@ -5,3 +5,38 @@ Design a question answering system for finding definition of all the machine lea
 Your system should return the corresponding wiki page for this query.
 Please show overall diagram of your system and explain each individual component.
 
+\subsection*{Answer}
+There is a program called docgrab that I have created that will reach out a reformat the question into a query for wiki. 
+Once that is done it will search and return the appropriate article. 
+Then the program output is piped into another program that will get the HTML document and return only the text describing the search query.
+\begin{verbatim}
++-----------------+     +----------------------------+
+|                 |     |     Passage Reterival      |
+|    Question     |--+  +----------------------------+
+|                 |  |  |  +--------------+          |
++-----------------+  |  |  |  Wikipedia   |          |
+                     |  |  |    Search    | |        |
+                     |  |  +--------------+ |        |
+                     |  |                  ++        |
+                     +->|                  |         |
+     +--------------+   |                  v         |
+     |              |   |            +----------+    |
+  +->|    Answer    |   |            | Passage  |    |
+  |  |              |   |            |Retrieval |    |
+  |  +--------------+   |            +----------+    |
+  |                     |                  |         |
+  |                     |           +------+         |
+  |                     |           v                |
+  |                     |      +--------+            |
+  |                     |      |Passage |            |
+  |                     |      +--------+            |
+  |                     |                            |
+  |                     |                            |
+  |                     +----------------------------+
+  |                                    |
+  |  Answer                            |
+  +Processing--------------------------+
+                                                      
+\end{verbatim}
+\includegraphics[width= \textwidth]{images/setup}
+\includegraphics[width= \textwidth]{images/document}
