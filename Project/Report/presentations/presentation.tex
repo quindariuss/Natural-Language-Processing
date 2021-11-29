@@ -112,8 +112,33 @@
 	Then the model takes in the raw text files and puts them together vectorize the text into integer vectors.
 	This is utilized with a Sequential Feed-Forward Network to make the base model.
 \end{frame}
-\section{Results}
 
+\subsection{Options to Implement}
+\begin{frame}{Options to Implement}
+	\begin{itemize}
+		\item<1-> TF-IDF
+		\item<2-> FastText
+		\item<3-> Deep Learning
+			\begin{itemize}
+				\item Binary
+				\item Multiclass
+			\end{itemize}
+	\end{itemize}
+\end{frame}
+
+\subsection{Model Structure}
+\begin{frame}{Model Structure}
+	\begin{itemize}
+		\item<1-> Embedding Layers
+		\item<2-> Dropout Layer
+		\item<3-> Dense Layer
+		\item<4-> Global Average
+		\item<5-> Dense
+		\item<6-> Final Dense
+	\end{itemize}
+\end{frame}
+
+\section{Results}
 \begin{frame}{Results}
 	We were able to get an accuracy of 97 percent and a loss of 20 percent with the data of around 130 articles.
 	We needed to get more data for more accurate results.
