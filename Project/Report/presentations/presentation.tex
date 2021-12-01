@@ -48,7 +48,7 @@
 \section{Data}
 \begin{frame}{Data about our Data}
 	\begin{itemize}
-		\item<1-> Approximately 15,000 articles from CNN and Fox News. \pause
+		\item<1-> Approximately 30,000 articles from CNN and Fox News. \pause
 		\item<2-> Each article is self contained within a text file. \pause
 		\item<3-> All articles are from the politics section. \pause
 		\item<4-> Contains about a year of news articles from both institutions.
@@ -80,7 +80,7 @@
 	\begin{itemize}
 		\item<1->Curl is a tool for transferring data from or to a server.
 		\item<2->Grep searches  for  PATTERNS  in  each  FILE. We used it for its ability to search via REGEX expressions.
-		\item<3->Pipes is a builtin within most shells allowing for manipulation of text streams.
+		\item<3->Pipes are a builtin within most shells allowing for manipulation of text streams.
 		\item<4->Cat allows for the catenation of files.
 		\item<5->Pup is a tool used for parsing and extracting information from html.
 		\item<6->Node is a JavaScript runtime that allows \\for JavaScript to be ran on a server.
@@ -128,6 +128,8 @@
 
 \subsection{Model Structure}
 \begin{frame}{Model Structure}
+	\begin{columns}
+		\begin{column}{.5\textwidth}
 	\begin{itemize}
 		\item<1-> Embedding Layers
 		\item<2-> Dropout Layer
@@ -136,12 +138,17 @@
 		\item<5-> Dense
 		\item<6-> Final Dense
 	\end{itemize}
+		\end{column}
+		\begin{column}{\textwidth}
+			\includegraphics[width=.5\textwidth]{nn}
+		\end{column}
+	\end{columns}
 \end{frame}
 
 \section{Results}
 \begin{frame}{Results}
-	We were able to get an accuracy of 97 percent and a loss of 20 percent with the data of around 130 articles.
-	We needed to get more data for more accurate results.
+	We ran the model for at most 25 epoch.
+	The loss values started very high around 40 percent but as the model ran it went below zero for the loss function and thus the accuracy was around the same and achieving around 99.96 percent accuracy.
 \end{frame}
 
 \section{Questions and Answers}

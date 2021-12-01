@@ -1,0 +1,12 @@
+\beamer@sectionintoc {1}{Proposed Research}{3}{0}{1}
+\beamer@sectionintoc {2}{Goals}{6}{0}{2}
+\beamer@sectionintoc {3}{Relevance}{9}{0}{3}
+\beamer@sectionintoc {4}{Data}{12}{0}{4}
+\beamer@subsectionintoc {4}{1}{Data Source}{16}{0}{4}
+\beamer@subsectionintoc {4}{2}{Tools}{17}{0}{4}
+\beamer@subsectionintoc {4}{3}{Stages}{23}{0}{4}
+\beamer@sectionintoc {5}{Models and Algorithms}{27}{0}{5}
+\beamer@subsectionintoc {5}{1}{Options to Implement}{28}{0}{5}
+\beamer@subsectionintoc {5}{2}{Model Structure}{31}{0}{5}
+\beamer@sectionintoc {6}{Results}{37}{0}{6}
+\beamer@sectionintoc {7}{Questions and Answers}{38}{0}{7}
