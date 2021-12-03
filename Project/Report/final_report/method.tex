@@ -1,0 +1,10 @@
+For this project, TensorFlow was used to make the neural network. 
+Tensorflow helped make importing the data easy and fast since it provides methods to read labels from folder names. 
+This also means that we are able to scale up from a binary classifier to a multi-label classifier. 
+Tensorflow also was able to vectorize the articles into integer vectors after creating a vocabulary and frequency for each word. 
+The model consisted of a few key layers starting with the embedding layers that take the vectorized articles. 
+Next, the model transitioned the data through dropout layers in order to provide regularization to the model. 
+We need this to help prevent any overfitting that could occur within the training cycle. 
+Next, we provide dense layers to feed forward the data and some global average pooling layers to help reduce the data fed. 
+The optimizer used for this model was gradient descent which was changed from the Keras "adam" optimizer since we were getting better results with gradient descent.
+Overall, Tensorflow had all the tools to bring the data together to putting together the specific network needed. 
